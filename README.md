@@ -6,7 +6,7 @@ op deze GitHub zul het protfolio te zien zijn met betrekking op:
 - Scrum status
 
 ## DataCamp Voortgang
-
+![](https://i.imgur.com/k3Vrts0.jpg)
 
 ## Scrum
 Als scrumboard gebruiken wij de website: <img src="https://wac-cdn.atlassian.com/dam/jcr:d6a89d75-bad0-46f3-88aa-406542eb6cb5/trello-logo-blue-flat.png" alt="alt text" width="90" height="23">. Met deze ProjectManagement tool kunnen wij mensen aan projectentaken koppelen en exact extraheren hoeveel tijd er aan welke activiteiten besteed is.
