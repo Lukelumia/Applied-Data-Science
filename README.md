@@ -29,3 +29,6 @@ Omdat tijdens het project soms extra activiteiten uitgevoerd worden en deze niet
 In sprint 1, die liep van 27-08-2018 tot 07-09-2018, zijn we vooral bezig geweest met Python leren en de omgevingen opzetten. De scrum omgeving opzetten en onderzoeken heb ik voornamelijk zelf gedaan. Als minor werd de omgeving scrumwise aangeraden, na zelf onderzoek gedaan te hebben naar alternatieve omgevingen heb ik Trello gevonden en deze aangeraden aan de groep. De reden dat Trello als beter uit dit onderzoek is gekomen komt door de modernere layout en het gebruiksvriendelijk drag & drop functionaliteiten. Daarnaast waren er plugins mogelijk die het scrumboard meer customizable maakte.
 
 Naast het scrumboard ben ik ook bezig geweest met het uitleggen van Python. Sinds ik hier zelf al ervaring in had voordat de minor begon kon in de basics van Python (proberen) uit te leggen. Dit heb ik gedaan in 1 en 1 sessies en 2 op 1 sessies.
+
+### Sprint 2
+Sprint 2 die liep van 10-09-2018 tot 21-09-2018.
