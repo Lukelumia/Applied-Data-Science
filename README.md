@@ -14,12 +14,12 @@ Als scrumboard gebruiken wij de website: <img src="https://wac-cdn.atlassian.com
 ### Scrumboard
 Het Scrumboard wat wij gebruiken bestaat uit 5 colummen die de layout van het board bepalen. Deze colommen zijn: Product Backlog; Sprint Backlog; In-Progress; Verify & Done. Om personen, datums, metadata & problemen aan te geven wordt er gebruikt gemaakt van tags en andere vormen van metadata. Een afbeelding van het ScrumBoard is te zien in de volgende afbeelding.
 De orginele inrichting is door Vincent en mij samen gedaan.
-![](https://i.imgur.com/esxJqQl.jpg)
+![](https://i.imgur.com/QqA3vb1.jpg)
 
 ### Scrum by Vince
 De plugin 'Scrum by Vince' maakt het mogelijk om tijd per activiteit in te plannen en een burndown chart te genereren. Het nadeel van deze burn down chart is dat er vanuit gegaan wordt dat alle beschikbare tijd volledig ingepland is. Dat is in Sprint 1 nog niet altijd het geval. Een afbeelding van een burndown chart via 'Scrum by Vince' is te zien in de volgende afbeelding.
 Het onderzoek doen naar welke scrum tools het beste werken binnen Trello is alleen gedaan.
-![](https://i.imgur.com/dgbcFtg.png)
+![](https://i.imgur.com/C8H2r1w.jpg)
 
 ## Extra activiteiten
 Omdat tijdens het project soms extra activiteiten uitgevoerd worden en deze niet terug te vinden zijn op het scrum board, is dit hoofdstuk gemaakt. In dit hoofdstuk zullen dus activiteiten te vinden zijn zoals uitleg geven, hulp bij persoonlijke projecten & het uitzoeken in eigen tijd.
