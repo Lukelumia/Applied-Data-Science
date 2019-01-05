@@ -1,12 +1,22 @@
 # Applied-Data-Science
 Welkom bij de Git-Hub van Luke, 
 op deze GitHub zul het protfolio te zien zijn met betrekking op: 
-- [DataCamp](#DataCamp-Voortgang)
-- Voortang
+- [Zelfontwikkeling](#Zelfontwikkeling)
+- [Voortang]
 - Scrum status
 
+# Zelfontwikkeling
+In het begin van de course 'Applied Data Science' hebben we ons vooral gericht op zelfontwikkeling, met name zelfontwikkeling op het gebied van Python en machine learning. Onderaan zal de voortgang van de python courses (via DataCamp); en de voortvang van machine learning (via Coursera) staan.
+
 ## DataCamp Voortgang
-![](https://i.imgur.com/k3Vrts0.jpg)
+<details><summary>Klik mij voor voorgang</summary>
+![](https://i.imgur.com/BxXcGKm.png)
+</details>
+
+
+## Coursera Voortgang
+![](https://i.imgur.com/bXyLxVF.png)
+
 
 ## Scrum
 Als scrumboard gebruiken wij de website: <img src="https://wac-cdn.atlassian.com/dam/jcr:d6a89d75-bad0-46f3-88aa-406542eb6cb5/trello-logo-blue-flat.png" alt="alt text" width="90" height="23">. Met deze ProjectManagement tool kunnen wij mensen aan projectentaken koppelen en exact extraheren hoeveel tijd er aan welke activiteiten besteed is.
