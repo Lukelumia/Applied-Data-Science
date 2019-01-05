@@ -1,7 +1,7 @@
 # Applied-Data-Science
 Welkom bij de Git-Hub van Luke, 
 op deze GitHub zul het protfolio te zien zijn met betrekking op: 
-- DataCamp 
+- [DataCamp](#DataCamp-Voortgang)
 - Voortang
 - Scrum status
 
