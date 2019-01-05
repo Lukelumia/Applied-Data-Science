@@ -2,24 +2,27 @@
 Welkom bij de Git-Hub van Luke, 
 op deze GitHub zul het protfolio te zien zijn met betrekking op: 
 - [Zelfontwikkeling](#Zelfontwikkeling)
-- [Voortang]
+- [Project management](#Project-management)
 - Scrum status
 
 # Zelfontwikkeling
 In het begin van de course 'Applied Data Science' hebben we ons vooral gericht op zelfontwikkeling, met name zelfontwikkeling op het gebied van Python en machine learning. Onderaan zal de voortgang van de python courses (via DataCamp); en de voortvang van machine learning (via Coursera) staan.
 
 ## DataCamp Voortgang
-<details><summary>Klik mij voor voorgang</summary>
-![](https://i.imgur.com/BxXcGKm.png)
+<details><summary>Klik mij om de DataCamp voortgang te zien (foto)</summary>
+  <img src="https://i.imgur.com/BxXcGKm.png" alt="DataCamp Voortgang">
 </details>
 
 
 ## Coursera Voortgang
-![](https://i.imgur.com/bXyLxVF.png)
+<details><summary>Klik mij om de Coursera voortgang te zien (foto)</summary>
+  <img src="https://i.imgur.com/bXyLxVF.png" alt="Coursera Voortgang">
+</details>
 
+# Project management
+Als projectontwikkelingsmethode hebben we als groep gekozen om Scrum te gebruiken, dit hebben gedaan om iteratief aan het project te werken en sinds de project details pas duidelijk zouden worden tijdens het project.
 
-## Scrum
-Als scrumboard gebruiken wij de website: <img src="https://wac-cdn.atlassian.com/dam/jcr:d6a89d75-bad0-46f3-88aa-406542eb6cb5/trello-logo-blue-flat.png" alt="alt text" width="90" height="23">. Met deze ProjectManagement tool kunnen wij mensen aan projectentaken koppelen en exact extraheren hoeveel tijd er aan welke activiteiten besteed is.
+Als scrumtool gebruiken wij de website: <img src="https://wac-cdn.atlassian.com/dam/jcr:d6a89d75-bad0-46f3-88aa-406542eb6cb5/trello-logo-blue-flat.png" alt="alt text" width="90" height="23">. Met deze ProjectManagement tool kunnen wij mensen aan projectentaken koppelen en exact extraheren hoeveel tijd er aan welke activiteiten besteed is.
 
 ### Scrumboard
 Het Scrumboard wat wij gebruiken bestaat uit 5 colummen die de layout van het board bepalen. Deze colommen zijn: Product Backlog; Sprint Backlog; In-Progress; Verify & Done. Om personen, datums, metadata & problemen aan te geven wordt er gebruikt gemaakt van tags en andere vormen van metadata. Een afbeelding van het ScrumBoard is te zien in de volgende afbeelding.
