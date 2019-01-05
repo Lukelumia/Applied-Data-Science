@@ -3,24 +3,23 @@ Welkom bij de Git-Hub van Luke,
 op deze GitHub zul het protfolio te zien zijn met betrekking op: 
 - [Zelfontwikkeling](#Zelfontwikkeling)
 - [Project management](#Project-management)
-- Scrum status
+- []()
 
 # Zelfontwikkeling
 In het begin van de course 'Applied Data Science' hebben we ons vooral gericht op zelfontwikkeling, met name zelfontwikkeling op het gebied van Python en machine learning. Onderaan zal de voortgang van de python courses (via DataCamp); en de voortvang van machine learning (via Coursera) staan.
 
 ## DataCamp Voortgang
-<details><summary>Klik mij om de DataCamp voortgang te zien (foto)</summary>
+<details><summary>Klik mij om de DataCamp voortgang te zien (foto) <img src="http://pngimg.com/uploads/exclamation_mark/exclamation_mark_PNG32.png" alt="Uitroepteken" width="16" height="16"></summary>
   <img src="https://i.imgur.com/BxXcGKm.png" alt="DataCamp Voortgang">
 </details>
 
-
 ## Coursera Voortgang
-<details><summary>Klik mij om de Coursera voortgang te zien (foto)</summary>
+<details><summary>Klik mij om de Coursera voortgang te zien (foto) <img src="http://pngimg.com/uploads/exclamation_mark/exclamation_mark_PNG32.png" alt="Uitroepteken" width="16" height="16"></summary>
   <img src="https://i.imgur.com/bXyLxVF.png" alt="Coursera Voortgang">
 </details>
 
 # Project management
-Als projectontwikkelingsmethode hebben we als groep gekozen om Scrum te gebruiken, dit hebben gedaan om iteratief aan het project te werken en sinds de project details pas duidelijk zouden worden tijdens het project.
+Als projectontwikkelingsmethode hebben we als groep gekozen om Scrum te gebruiken, dit hebben gedaan om iteratief aan het project te werken en sinds de project details pas duidelijk zouden worden tijdens het project was dit voor ons de juiste keuze.
 
 Als scrumtool gebruiken wij de website: <img src="https://wac-cdn.atlassian.com/dam/jcr:d6a89d75-bad0-46f3-88aa-406542eb6cb5/trello-logo-blue-flat.png" alt="alt text" width="90" height="23">. Met deze ProjectManagement tool kunnen wij mensen aan projectentaken koppelen en exact extraheren hoeveel tijd er aan welke activiteiten besteed is.
 
