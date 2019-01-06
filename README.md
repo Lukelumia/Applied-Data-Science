@@ -22,7 +22,7 @@ In het begin van de course 'Applied Data Science' hebben we ons vooral gericht o
 
 ## Coursera Voortgang
 <details><summary>Klik mij om de Coursera voortgang te zien (foto) <img src="http://pngimg.com/uploads/exclamation_mark/exclamation_mark_PNG32.png" alt="Uitroepteken" width="16" height="16"></summary>
-  <img src="https://i.imgur.com/bXyLxVF.png" alt="Coursera Voortgang">
+  <img src="https://i.imgur.com/N9B9MnQ.png" alt="Coursera Voortgang">
 </details>
 
 # Project management
