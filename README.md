@@ -47,11 +47,15 @@ Omdat tijdens het project soms extra activiteiten uitgevoerd worden en deze niet
 
 # Jargon
 Tijdens ons onderzoek hebben we met termen gebruikt die eigenlijk alleen maar begrepen kunnen worden door ons project team, maar deze zullen wel in dit portfolio terugkomen. Daarom zullen ze hieronder worden toegelicht.
-Jargon | Explenation
+
+jargon | Explenation 
 --- | --- 
-Raw data / Ruwe data | Ruwe sensor data met locatie en rotatie van de sensoren | hallo
-Cleaned data / Schone data | Cleaned data zijn de door LUMC verwerkte ruwe data, in deze data zijn alle locaties weg is alle data relatief van elkaar weergegeven d.m.v. hoeken.
-Super cleaned data / Super schone data | uitleg
+Raw data / Ruwe data | Ruwe sensor data met locatie en rotatie van de sensoren  
+Cleaned data / Schone data | Cleaned data zijn de door LUMC verwerkte ruwe data, in deze data zijn alle locaties weg is alle data relatief van elkaar weergegeven d.m.v. hoeken 
+Super cleaned data / Super schone data | De super cleaned data is de door ons schoon gemaakte cleaned data, dit proces is later beschreven
+
+Naast ons project jargon zijn er ook termen die gebruikt worden om dit medisch gebied, deze zijn hieronder te zien. Dit plaatje is gemaakt door [Vincent](https://github.com/Vincentvdoord/Data-Science-KB-74)
+<div style="text-align:center"><img src="https://i.imgur.com/9aViKwp.png" width="700" height="700"></div>
 
 # Onderzoek
 Het doel van het onderzoek is het volgende:
