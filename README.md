@@ -1,9 +1,16 @@
 # Applied-Data-Science
-Welkom bij de Git-Hub van Luke, 
-op deze GitHub zul het protfolio te zien zijn met betrekking op: 
+Welkom bij de portfolio van Luke de keijzer, in dit portfolio zullen alle activiteiten beschreven worden waaraan ik heb meegewerkt / gedaan heb binnen de minor Applied Data science - KB74 ( in de periode van sep 2018 t/m jan 2019 ). 
+
+In deze minor heb in een team van 3 medestudenten en één docent gewerkt aan een onderzoek voor het LUMC. 
+
+Ons doel tijdens dit onderzoek was om te achterhalen of het 'flock-of-birds'-systeem dat momenteel door het LUMC enkel wordt gebruikt voor onderzoeksdoeleinden of dat het ook gebruikt kan worden voor de diagnostische doeleinden.
+
+# Inhoudsopgave 
 - [Zelfontwikkeling](#Zelfontwikkeling)
 - [Project management](#Project-management)
-- []()
+- [Jargon](#Jargon)
+- [Onderzoek](#Onderzoek)
+- [Extra activiteiten](#Extra-Activiteiten)
 
 # Zelfontwikkeling
 In het begin van de course 'Applied Data Science' hebben we ons vooral gericht op zelfontwikkeling, met name zelfontwikkeling op het gebied van Python en machine learning. Onderaan zal de voortgang van de python courses (via DataCamp); en de voortvang van machine learning (via Coursera) staan.
@@ -23,6 +30,8 @@ Als projectontwikkelingsmethode hebben we als groep gekozen om Scrum te gebruike
 
 Als scrumtool gebruiken wij de website: <img src="https://wac-cdn.atlassian.com/dam/jcr:d6a89d75-bad0-46f3-88aa-406542eb6cb5/trello-logo-blue-flat.png" alt="alt text" width="90" height="23">. Met deze ProjectManagement tool kunnen wij mensen aan projectentaken koppelen en exact extraheren hoeveel tijd er aan welke activiteiten besteed is.
 
+Het onderzoek en het oprichten is vooral door mij en vincent gedaan aan het begin van dit project.
+
 ### Scrumboard
 Het Scrumboard wat wij gebruiken bestaat uit 5 colummen die de layout van het board bepalen. Deze colommen zijn: Product Backlog; Sprint Backlog; In-Progress; Verify & Done. Om personen, datums, metadata & problemen aan te geven wordt er gebruikt gemaakt van tags en andere vormen van metadata. Een afbeelding van het ScrumBoard is te zien in de volgende afbeelding.
 De orginele inrichting is door Vincent en mij samen gedaan.
@@ -35,6 +44,20 @@ Het onderzoek doen naar welke scrum tools het beste werken binnen Trello is alle
 
 ## Extra activiteiten
 Omdat tijdens het project soms extra activiteiten uitgevoerd worden en deze niet terug te vinden zijn op het scrum board, is dit hoofdstuk gemaakt. In dit hoofdstuk zullen dus activiteiten te vinden zijn zoals uitleg geven, hulp bij persoonlijke projecten & het uitzoeken in eigen tijd.
+
+# Jargon
+Tijdens ons onderzoek hebben we met termen gebruikt die eigenlijk alleen maar begrepen kunnen worden door ons project team, maar deze zullen wel in dit portfolio terugkomen. Daarom zullen ze hieronder worden toegelicht.
+Jargon | Explenation
+--- | --- 
+Raw data / Ruwe data | Ruwe sensor data met locatie en rotatie van de sensoren | hallo
+Cleaned data / Schone data | Cleaned data zijn de door LUMC verwerkte ruwe data, in deze data zijn alle locaties weg is alle data relatief van elkaar weergegeven d.m.v. hoeken.
+Super cleaned data / Super schone data | uitleg
+
+# Onderzoek
+Het doel van het onderzoek is het volgende:
+> achterhalen of het 'flock-of-birds'-systeem dat momenteel door het LUMC enkel wordt gebruikt voor onderzoeksdoeleinden of dat het ook gebruikt kan worden voor de diagnostische doeleinden
+
+Tijdens het uitvoeren van dit onderzoek zouden we twee soorten data tot onze beschikbaarheid krijgen, ruwe data & gecleande data
 
 ### Sprint 1
 In sprint 1, die liep van 27-08-2018 tot 07-09-2018, zijn we vooral bezig geweest met Python leren en de omgevingen opzetten. De scrum omgeving opzetten en onderzoeken heb ik voornamelijk zelf gedaan. Als minor werd de omgeving scrumwise aangeraden, na zelf onderzoek gedaan te hebben naar alternatieve omgevingen heb ik Trello gevonden en deze aangeraden aan de groep. De reden dat Trello als beter uit dit onderzoek is gekomen komt door de modernere layout en het gebruiksvriendelijk drag & drop functionaliteiten. Daarnaast waren er plugins mogelijk die het scrumboard meer customizable maakte.
