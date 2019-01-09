@@ -76,15 +76,17 @@ Als team hebben we gezamelijk een strategie opgezet om het project te lijden. In
 # Raw data
 Al vrij snel in het project, rond week 3, hebben we de eerste samples data ontvangen. Bij dit ontvangst kregen we één ruwe data meting en één door het LUMC gecleande data meting. Met deze twee bestanden konden we ons richten op het daadwerkelijk begrijpen van de data. Volgens de strategie zouden we ons eerst focussen op de ruwe data.
 
-Omdat de ruwe data na
+Omdat de ruwe data maar niet binnen kwam hebben we besloten hier niet mee verder te gaan, toch zijn er elke activiteiten die voor de ruwe data gemaakt zijn:
+- [Visualisatie](#Visualisatie)
+- [Ellebooghoek](#Ellebooghoek)
 
 ## Visualisatie
 Om de data te begrijpen ben ik de data gaan visualiseren. Tony had een script geschreven om één frame van een oefening te visualiseren. Dit is gedaan door een skelet te tekenen met de locatie van de sensoren die in de ruwe data gemeten werden.
 
 Met dit script ben ik rond week 4 verder gegaan, met eigen onderzoek heb ik een animatie van de frames kunnen maken die liet zien welke beweging de patient gemaakt zou moeten hebben bij het daadwerkelijk uitvoeren van de oefening.
-![](https://i.imgur.com/LO7XOCw.gifv)
+![](https://i.imgur.com/LO7XOCw.gif)
 
-Het script wat bovenstaande gif gemaakt heeft is [hier](./1.\ Animaties/Animation\ Demo.ipynb) te zien. Later is dit script uitgebreid om de visualisatie van raw data & cleaned data naast elkaar te laten draaien.
+Het script wat bovenstaande gif gemaakt heeft is [hier](1.%20Animaties/Animation%20Demo.ipynb) te zien. Later is dit script uitgebreid om de visualisatie van raw data & cleaned data naast elkaar te laten draaien.
 
 ## Ellebooghoek
 In het onderzoek dat we uitgevoerd hebben was één van onze doelen achterhalen hoe het LUMC van de ruwe data naar de gecleande data zou transformeren. Een van de berekende colommen waren de elleboog hoeken. Sinds we alleen de positie hadden van de sensoren ben ik hierin onderzoek naar gaan doen. Orgineel zou ik dit samen met een team genoot doen, maar uiteindelijk ben ik hier zelf mee verder gegaan.
@@ -93,8 +95,17 @@ De oplossing die ik uiteindelijk gevonden heb is het gebruik maken van [SSS drie
 
 <img src="https://i.imgur.com/EpigWMn.png" alt="Elleboog hoek" width="700" height="250">
 
-#
+De geschreven functie voor het berekenen van de ellebooghoek is te vinden in cell 3 [dit](1.%20Animaties/Animation%20Demo.ipynb) van bestand.
 
+# Cleaned data
+Na het ontvangen van de cleaned data zijn we begonnen met het begrijpen en analyseren hiervan. Hier hebben we veel tijd van ons project voor gebruikt.
+
+## Gecleande Visualisatie
+Bij de gecleande data hebben we ook een manier gezocht om de oefening visueel te maken. Orgineel was het de bedoeling om hetzelfde plaatje te maken als bij de ruwe data [gedaan was](#Visualisatie). Dit was alleen lastiger om voor de gecleande data te doen sinds deze geen locatie data meer had, alleen maar relatieve hoeken. Om deze hoeken om te zetten in een soortgelijke afbeelding ben ik op onderzoek gegaan hoe ik deze reletieve hoeken moet behandelen. Het is niet gelukt om de data op dezelfde manier te interpreteren als bij de ruwe data, de beweging die getoont wordt in onderstaande afbeelding zou gelijk moeten zijn. Maar is dit niet.
+
+Ik heb niet alleen zelf geprobeerd dit op te lossen, de wiskunde groepslid kon dit probleem ook niet oplossen. De hoeken konden door ons niet op de juiste manier geinterpreteerd worden, dit komt misschien mede door de moeilijke communicatie tussen ons en het LUMC.
+
+!!! op oude laptop script zoeken !!!
 
 ### Sprint 1
 In sprint 1, die liep van 27-08-2018 tot 07-09-2018, zijn we vooral bezig geweest met Python leren en de omgevingen opzetten. De scrum omgeving opzetten en onderzoeken heb ik voornamelijk zelf gedaan. Als minor werd de omgeving scrumwise aangeraden, na zelf onderzoek gedaan te hebben naar alternatieve omgevingen heb ik Trello gevonden en deze aangeraden aan de groep. De reden dat Trello als beter uit dit onderzoek is gekomen komt door de modernere layout en het gebruiksvriendelijk drag & drop functionaliteiten. Daarnaast waren er plugins mogelijk die het scrumboard meer customizable maakte.
