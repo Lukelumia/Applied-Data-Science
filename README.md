@@ -84,7 +84,7 @@ Om de data te begrijpen ben ik de data gaan visualiseren. Tony had een script ge
 Met dit script ben ik rond week 4 verder gegaan, met eigen onderzoek heb ik een animatie van de frames kunnen maken die liet zien welke beweging de patient gemaakt zou moeten hebben bij het daadwerkelijk uitvoeren van de oefening.
 ![](https://i.imgur.com/LO7XOCw.gifv)
 
-Het script wat bovenstaande gif gemaakt heeft is [hier](1. Animaties/Animation Demo.ipynb) te zien. Later is dit script uitgebreid om de visualisatie van raw data & cleaned data naast elkaar te laten draaien.
+Het script wat bovenstaande gif gemaakt heeft is [hier](./1.\ Animaties/Animation\ Demo.ipynb) te zien. Later is dit script uitgebreid om de visualisatie van raw data & cleaned data naast elkaar te laten draaien.
 
 ## Ellebooghoek
 In het onderzoek dat we uitgevoerd hebben was één van onze doelen achterhalen hoe het LUMC van de ruwe data naar de gecleande data zou transformeren. Een van de berekende colommen waren de elleboog hoeken. Sinds we alleen de positie hadden van de sensoren ben ik hierin onderzoek naar gaan doen. Orgineel zou ik dit samen met een team genoot doen, maar uiteindelijk ben ik hier zelf mee verder gegaan.
