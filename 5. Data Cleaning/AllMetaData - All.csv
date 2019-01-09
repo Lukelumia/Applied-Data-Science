@@ -1,0 +1,1222 @@
+,FileName,Split,RemoveJunkBefore,RemoveJunkAfter,Date,User
+0,/datc/ortho/Cat2_pat22_meting10_oef2.csv,60,1,109,2018-12-07 12:03:10.807920,JouwNaam
+1,/datc/ortho/Cat4_pat24_meting2_oef2.csv,0,4,82,2018-12-10 10:00:14.739834,JouwNaam
+2,/datc/ortho/Cat4_pat23_meting2_oef2.csv,0,0,33,2018-12-10 10:04:02.600750,Luke
+3,/datc/ortho/Cat4_pat15_meting1_oef2.csv,0,6,41,2018-12-10 10:04:21.491707,Luke
+4,/datc/ortho/Cat4_pat24_meting1_oef2.csv,0,3,47,2018-12-10 10:04:46.735062,Luke
+5,/datc/ortho/Cat4_pat12_meting1_oef2.csv,0,6,55,2018-12-10 10:06:36.288708,Luke
+6,/datc/ortho/Cat4_pat23_meting1_oef2.csv,0,4,44,2018-12-10 10:13:07.043477,Luke
+7,/datc/ortho/Cat4_pat6_meting1_oef2.csv,0,2,30,2018-12-10 10:19:55.770081,Luke
+8,/datc/ortho/Cat4_pat17_meting1_oef2.csv,0,6,76,2018-12-10 10:21:08.448906,Luke
+9,/datc/ortho/Cat4_pat14_meting1_oef2.csv,0,4,78,2018-12-10 10:22:56.740627,Luke
+10,/datc/ortho/Cat4_pat14_meting2_oef2.csv,0,3,63,2018-12-10 10:23:25.851095,Luke
+11,/datc/ortho/Cat4_pat11_meting1_oef2.csv,0,3,55,2018-12-10 10:24:50.386628,Luke
+12,/datc/ortho/Cat4_pat6_meting2_oef2.csv,0,4,33,2018-12-10 10:25:16.007087,Luke
+13,/datc/ortho/Cat4_pat17_meting2_oef2.csv,0,2,53,2018-12-10 10:25:42.507397,Luke
+14,/datc/ortho/Cat4_pat15_meting2_oef2.csv,0,0,40,2018-12-10 10:26:09.421598,Luke
+15,/datc/ortho/Cat4_pat11_meting2_oef2.csv,0,3,42,2018-12-10 10:26:21.726453,Luke
+16,/datc/ortho/Cat4_pat20_meting1_oef2.csv,0,4,90,2018-12-10 10:27:03.762633,Luke
+17,/datc/ortho/Cat4_pat20_meting2_oef2.csv,0,0,59,2018-12-10 10:27:39.425408,Luke
+18,/datc/ortho/Cat4_pat12_meting2_oef2.csv,0,0,50,2018-12-10 10:28:11.793642,Luke
+19,/datc/ortho/Cat4_pat17_meting1_oef3.csv,0,5,110,2018-12-10 10:30:30.567719,Luke
+20,/datc/ortho/Cat4_pat23_meting2_oef3.csv,0,3,0,2018-12-10 10:32:25.743961,Luke
+21,/datc/ortho/Cat4_pat20_meting1_oef3.csv,0,4,74,2018-12-10 10:32:59.136565,Luke
+22,/datc/ortho/Cat4_pat17_meting2_oef3.csv,0,7,60,2018-12-10 10:33:25.672968,Luke
+23,/datc/ortho/Cat4_pat23_meting1_oef3.csv,0,2,33,2018-12-10 10:40:13.557234,Luke
+24,/datc/ortho/Cat4_pat11_meting2_oef3.csv,0,3,31,2018-12-10 10:40:32.632834,Luke
+25,/datc/ortho/Cat4_pat24_meting2_oef3.csv,0,2,59,2018-12-10 10:40:51.117683,Luke
+26,/datc/ortho/Cat4_pat12_meting1_oef3.csv,0,3,60,2018-12-10 10:41:07.178364,Luke
+27,/datc/ortho/Cat4_pat14_meting2_oef3.csv,0,1,60,2018-12-10 10:41:25.141319,Luke
+28,/datc/ortho/Cat4_pat6_meting2_oef3.csv,0,3,27,2018-12-10 10:41:53.112163,Luke
+29,/datc/ortho/Cat4_pat6_meting1_oef3.csv,0,5,40,2018-12-10 10:45:36.207816,Luke
+30,/datc/ortho/Cat4_pat12_meting2_oef3.csv,0,1,45,2018-12-10 10:46:36.316154,Luke
+31,/datc/ortho/Cat4_pat15_meting2_oef3.csv,0,3,47,2018-12-10 10:46:51.625274,Luke
+32,/datc/ortho/Cat4_pat20_meting2_oef3.csv,0,6,62,2018-12-10 10:47:24.110442,Luke
+33,/datc/ortho/Cat4_pat24_meting1_oef3.csv,0,2,0,2018-12-10 10:47:53.468152,Luke
+34,/datc/ortho/Cat4_pat20_meting1_oef4.csv,0,2,0,2018-12-10 10:48:50.983960,Luke
+35,/datc/ortho/Cat4_pat23_meting1_oef4.csv,0,3,44,2018-12-10 10:49:08.566441,Luke
+36,/datc/ortho/Cat4_pat23_meting1_oef5.csv,0,5,38,2018-12-10 10:50:42.927677,Luke
+37,/datc/ortho/Cat4_pat20_meting1_oef5.csv,0,2,0,2018-12-10 10:51:10.369774,Luke
+38,/datc/ortho/Cat4_pat15_meting2_oef6.csv,0,1,40,2018-12-10 10:55:13.816499,Luke
+39,/datc/ortho/Cat4_pat15_meting1_oef6.csv,0,3,45,2018-12-10 10:55:41.837340,Luke
+40,/datc/ortho/Cat4_pat24_meting1_oef6.csv,0,2,60,2018-12-10 10:55:52.563772,Luke
+41,/datc/ortho/Cat4_pat23_meting1_oef6.csv,0,1,37,2018-12-10 10:56:41.512558,Luke
+42,/datc/ortho/Cat4_pat12_meting1_oef6.csv,0,4,71,2018-12-10 10:59:53.003545,Luke
+43,/datc/ortho/Cat4_pat14_meting2_oef6.csv,0,2,56,2018-12-10 11:02:04.426884,Luke
+44,/datc/ortho/Cat4_pat11_meting2_oef6.csv,0,12,49,2018-12-10 11:02:42.859254,Luke
+45,/datc/ortho/Cat4_pat11_meting1_oef6.csv,0,5,50,2018-12-10 11:03:57.159440,Luke
+46,/datc/ortho/Cat4_pat20_meting1_oef6.csv,0,0,64,2018-12-10 11:05:20.872184,Luke
+47,/datc/ortho/Cat4_pat6_meting2_oef6.csv,0,3,40,2018-12-10 11:05:31.475891,Luke
+48,/datc/ortho/Cat4_pat23_meting2_oef6.csv,0,3,37,2018-12-10 11:05:41.835443,Luke
+49,/datc/ortho/Cat4_pat20_meting2_oef6.csv,0,5,42,2018-12-10 11:06:14.660594,Luke
+50,/datc/ortho/Cat4_pat17_meting2_oef6.csv,0,2,73,2018-12-10 11:08:20.331533,Luke
+51,/datc/ortho/Cat4_pat6_meting1_oef6.csv,0,1,31,2018-12-10 11:09:37.318250,Luke
+52,/datc/ortho/Cat4_pat17_meting1_oef6.csv,0,5,88,2018-12-10 11:10:00.217404,Luke
+53,/datc/ortho/Cat4_pat14_meting1_oef6.csv,0,4,63,2018-12-10 11:11:32.436169,Luke
+54,/datc/ortho/Cat4_pat24_meting2_oef6.csv,0,2,83,2018-12-10 11:13:39.419665,Luke
+55,/datc/ortho/Cat4_pat12_meting2_oef6.csv,0,1,0,2018-12-10 11:14:16.580523,Luke
+56,/datc/ortho/Cat4_pat20_meting2_oef7.csv,0,1,30,2018-12-10 11:16:25.633603,Luke
+57,/datc/ortho/Cat4_pat15_meting2_oef7.csv,0,2,39,2018-12-10 11:17:10.857124,Luke
+58,/datc/ortho/Cat4_pat14_meting1_oef7.csv,0,13,52,2018-12-10 11:17:46.512488,Luke
+59,/datc/ortho/Cat4_pat24_meting1_oef7.csv,0,3,40,2018-12-10 11:19:40.812379,Luke
+60,/datc/ortho/Cat4_pat23_meting1_oef7.csv,0,4,33,2018-12-10 11:20:01.621499,Luke
+61,/datc/ortho/Cat4_pat12_meting1_oef7.csv,0,7,58,2018-12-10 11:20:17.330647,Luke
+62,/datc/ortho/Cat4_pat11_meting2_oef7.csv,0,0,35,2018-12-10 11:21:08.709378,Luke
+63,/datc/ortho/Cat4_pat6_meting1_oef7.csv,0,0,0,2018-12-10 11:22:22.286558,Luke
+64,/datc/ortho/Cat4_pat23_meting2_oef7.csv,0,1,28,2018-12-10 11:22:47.638130,Luke
+65,/datc/ortho/Cat4_pat17_meting1_oef7.csv,0,12,116,2018-12-10 11:26:52.797600,Luke
+66,/datc/ortho/Cat4_pat20_meting1_oef7.csv,0,1,0,2018-12-10 11:27:02.242661,Luke
+67,/datc/ortho/Cat4_pat24_meting2_oef7.csv,0,3,52,2018-12-10 11:27:15.529846,Luke
+68,/datc/ortho/Cat4_pat14_meting2_oef7.csv,0,3,49,2018-12-10 11:27:32.937663,Luke
+69,/datc/ortho/Cat4_pat6_meting2_oef7.csv,0,5,36,2018-12-10 11:28:38.473124,Luke
+70,/datc/ortho/Cat4_pat12_meting2_oef7.csv,0,0,41,2018-12-10 11:28:52.840092,Luke
+71,/datc/ortho/Cat4_pat17_meting2_oef7.csv,0,0,61,2018-12-10 11:29:11.255934,Luke
+72,/datc/ortho/Cat4_pat24_meting2_oef8.csv,0,3,61,2018-12-10 11:31:20.627409,Luke
+73,/datc/ortho/Cat4_pat23_meting1_oef8.csv,0,8,36,2018-12-10 11:31:38.833275,Luke
+1,/datc/ortho/Cat3_pat18_meting2_oef2.csv,70,12,118,2018-12-10 09:55:25.703594,Vinnie Flex
+2,/datc/ortho/Cat3_pat3_meting2_oef2.csv,77,7,159,2018-12-10 09:57:39.609894,Vinnie Flex
+3,/datc/ortho/Cat3_pat22_meting2_oef2.csv,62,7,107,2018-12-10 09:59:10.788312,Vinnie Flex
+4,/datc/ortho/Cat3_pat26_meting1_oef2.csv,75,7,137,2018-12-10 09:59:53.488682,Vinnie Flex
+5,/datc/ortho/Cat3_pat13_meting1_oef2.csv,69,6,137,2018-12-10 10:01:07.707463,Vinnie Flex
+6,/datc/ortho/Cat3_pat10_meting2_oef2.csv,265,100,394,2018-12-10 10:03:21.094510,Vinnie Flex
+7,/datc/ortho/Cat3_pat30_meting1_oef2.csv,90,14,158,2018-12-10 10:04:15.446107,Vinnie Flex
+8,/datc/ortho/Cat3_pat20_meting2_oef2.csv,90,11,160,2018-12-10 10:04:45.065258,Vinnie Flex
+9,/datc/ortho/Cat3_pat33_meting1_oef2.csv,132,8,215,2018-12-10 10:05:18.558814,Vinnie Flex
+10,/datc/ortho/Cat3_pat29_meting1_oef2.csv,170,22,248,2018-12-10 10:06:25.885893,Vinnie Flex
+11,/datc/ortho/Cat3_pat38_meting2_oef2.csv,85,9,157,2018-12-10 10:07:04.431798,Vinnie Flex
+12,/datc/ortho/Cat3_pat7_meting2_oef2.csv,152,15,292,2018-12-10 10:08:15.528497,Vinnie Flex
+13,/datc/ortho/Cat3_pat20_meting1_oef2.csv,118,9,202,2018-12-10 10:09:11.395620,Vinnie Flex
+14,/datc/ortho/Cat3_pat9_meting1_oef2.csv,200,5,200,2018-12-10 10:12:26.104109,Vinnie Flex
+15,/datc/ortho/Cat3_pat9_meting2_oef2.csv,140,8,260,2018-12-10 10:12:51.082150,Vinnie Flex
+16,/datc/ortho/Cat3_pat32_meting1_oef2.csv,125,7,230,2018-12-10 10:13:18.506822,Vinnie Flex
+17,/datc/ortho/Cat3_pat22_meting1_oef2.csv,115,4,204,2018-12-10 10:14:06.780077,Vinnie Flex
+18,/datc/ortho/Cat3_pat27_meting1_oef2.csv,210,15,380,2018-12-10 10:14:57.981957,Vinnie Flex
+19,/datc/ortho/Cat3_pat3_meting1_oef2.csv,0,155,251,2018-12-10 10:15:35.897489,Vinnie Flex
+20,/datc/ortho/Cat3_pat11_meting2_oef2.csv,110,58,185,2018-12-10 10:17:08.268227,Vinnie Flex
+21,/datc/ortho/Cat3_pat39_meting2_oef2.csv,120,9,205,2018-12-10 10:19:43.182051,Vinnie Flex
+22,/datc/ortho/Cat3_pat6_meting2_oef2.csv,70,4,132,2018-12-10 10:20:41.755359,Vinnie Flex
+23,/datc/ortho/Cat3_pat28_meting1_oef2.csv,174,38,245,2018-12-10 10:22:06.731553,Vinnie Flex
+24,/datc/ortho/Cat3_pat14_meting1_oef2.csv,58,5,112,2018-12-10 10:22:37.175025,Vinnie Flex
+25,/datc/ortho/Cat3_pat31_meting2_oef2.csv,92,6,148,2018-12-10 10:23:29.997288,Vinnie Flex
+26,/datc/ortho/Cat3_pat8_meting1_oef2.csv,290,15,450,2018-12-10 10:28:47.462063,Vinnie Flex
+27,/datc/ortho/Cat3_pat6_meting1_oef2.csv,0,8,145,2018-12-10 10:29:58.871202,Vinnie Flex
+28,/datc/ortho/Cat3_pat25_meting1_oef2.csv,80,7,138,2018-12-10 10:30:26.670564,Vinnie Flex
+29,/datc/ortho/Cat3_pat25_meting2_oef2.csv,35,3,84,2018-12-10 10:30:52.096465,Vinnie Flex
+30,/datc/ortho/Cat3_pat34_meting2_oef2.csv,34,4,70,2018-12-10 10:31:26.050883,Vinnie Flex
+31,/datc/ortho/Cat3_pat7_meting1_oef2.csv,10,11,115,2018-12-10 10:31:56.071856,Vinnie Flex
+32,/datc/ortho/Cat3_pat11_meting1_oef2.csv,130,7,228,2018-12-10 10:32:27.402592,Vinnie Flex
+33,/datc/ortho/Cat3_pat12_meting1_oef2.csv,228,18,360,2018-12-10 10:32:51.372316,Vinnie Flex
+34,/datc/ortho/Cat3_pat21_meting1_oef2.csv,72,6,130,2018-12-10 10:33:25.625934,Vinnie Flex
+35,/datc/ortho/Cat3_pat14_meting2_oef2.csv,124,14,218,2018-12-10 10:33:55.926993,Vinnie Flex
+36,/datc/ortho/Cat3_pat15_meting1_oef2.csv,94,7,175,2018-12-10 10:39:46.859836,Vinnie Flex
+37,/datc/ortho/Cat3_pat16_meting1_oef2.csv,150,12,225,2018-12-10 10:40:13.952232,Vinnie Flex
+38,/datc/ortho/Cat3_pat8_meting2_oef2.csv,170,14,310,2018-12-10 10:40:51.932604,Vinnie Flex
+39,/datc/ortho/Cat3_pat5_meting1_oef2.csv,0,42,110,2018-12-10 10:41:14.826291,Vinnie Flex
+40,/datc/ortho/Cat3_pat34_meting1_oef2.csv,110,9,185,2018-12-10 10:41:36.251262,Vinnie Flex
+41,/datc/ortho/Cat3_pat12_meting2_oef2.csv,55,7,97,2018-12-10 10:42:09.654083,Vinnie Flex
+42,/datc/ortho/Cat3_pat29_meting2_oef2.csv,90,8,164,2018-12-10 10:42:44.764175,Vinnie Flex
+43,/datc/ortho/Cat3_pat17_meting2_oef2.csv,68,4,123,2018-12-10 10:43:14.721742,Vinnie Flex
+44,/datc/ortho/Cat3_pat33_meting2_oef2.csv,70,6,122,2018-12-10 10:43:43.032934,Vinnie Flex
+45,/datc/ortho/Cat3_pat24_meting2_oef2.csv,175,5,308,2018-12-10 10:44:28.435114,Vinnie Flex
+46,/datc/ortho/Cat3_pat18_meting1_oef2.csv,120,10,206,2018-12-10 10:45:30.318152,Vinnie Flex
+47,/datc/ortho/Cat3_pat31_meting1_oef2.csv,120,7,235,2018-12-10 10:46:08.405196,Vinnie Flex
+48,/datc/ortho/Cat3_pat15_meting2_oef2.csv,103,6,190,2018-12-10 10:46:39.945115,Vinnie Flex
+49,/datc/ortho/Cat3_pat35_meting1_oef2.csv,175,15,340,2018-12-10 10:47:09.083395,Vinnie Flex
+50,/datc/ortho/Cat3_pat17_meting1_oef2.csv,105,18,215,2018-12-10 10:47:54.242095,Vinnie Flex
+51,/datc/ortho/Cat3_pat21_meting2_oef2.csv,115,6,230,2018-12-10 10:48:35.242029,Vinnie Flex
+52,/datc/ortho/Cat3_pat39_meting1_oef2.csv,180,4,285,2018-12-10 10:49:13.437714,Vinnie Flex
+53,/datc/ortho/Cat3_pat38_meting1_oef2.csv,30,5,52,2018-12-10 10:50:32.614662,Vinnie Flex
+54,/datc/ortho/Cat3_pat37_meting1_oef2.csv,120,6,225,2018-12-10 10:51:00.333376,Vinnie Flex
+55,/datc/ortho/Cat3_pat30_meting2_oef2.csv,88,5,150,2018-12-10 10:51:22.085632,Vinnie Flex
+56,/datc/ortho/Cat3_pat37_meting2_oef2.csv,120,9,235,2018-12-10 10:52:02.854712,Vinnie Flex
+57,/datc/ortho/Cat3_pat24_meting1_oef2.csv,0,1,75,2018-12-10 10:52:43.033335,Vinnie Flex
+58,/datc/ortho/Cat3_pat26_meting2_oef2.csv,58,7,98,2018-12-10 10:53:07.985891,Vinnie Flex
+59,/datc/ortho/Cat3_pat13_meting1_oef3.csv,70,6,148,2018-12-10 10:55:33.218798,Vinnie Flex
+60,/datc/ortho/Cat3_pat11_meting1_oef3.csv,100,26,160,2018-12-10 10:55:57.792757,Vinnie Flex
+61,/datc/ortho/Cat3_pat14_meting1_oef3.csv,55,9,104,2018-12-10 10:56:22.609275,Vinnie Flex
+62,/datc/ortho/Cat3_pat29_meting2_oef3.csv,80,8,135,2018-12-10 10:56:48.908158,Vinnie Flex
+63,/datc/ortho/Cat3_pat35_meting1_oef3.csv,210,10,420,2018-12-10 10:57:16.691798,Vinnie Flex
+64,/datc/ortho/Cat3_pat9_meting2_oef3.csv,120,9,235,2018-12-10 10:57:44.056329,Vinnie Flex
+65,/datc/ortho/Cat3_pat33_meting1_oef3.csv,325,200,402,2018-12-10 10:59:53.255577,Vinnie Flex
+66,/datc/ortho/Cat3_pat20_meting1_oef3.csv,76,8,175,2018-12-10 11:00:23.229259,Vinnie Flex
+67,/datc/ortho/Cat3_pat22_meting1_oef3.csv,117,0,215,2018-12-10 11:00:48.329556,Vinnie Flex
+68,/datc/ortho/Cat3_pat24_meting2_oef3.csv,145,6,215,2018-12-10 11:01:34.422760,Vinnie Flex
+69,/datc/ortho/Cat3_pat20_meting2_oef3.csv,80,6,145,2018-12-10 11:01:51.554492,Vinnie Flex
+70,/datc/ortho/Cat3_pat3_meting1_oef3.csv,50,78,176,2018-12-10 11:02:14.659936,Vinnie Flex
+71,/datc/ortho/Cat3_pat27_meting1_oef3.csv,165,25,285,2018-12-10 11:02:48.378905,Vinnie Flex
+72,/datc/ortho/Cat3_pat34_meting2_oef3.csv,32,4,57,2018-12-10 11:03:41.979043,Vinnie Flex
+73,/datc/ortho/Cat3_pat10_meting2_oef3.csv,480,275,635,2018-12-10 11:04:25.270665,Vinnie Flex
+74,/datc/ortho/Cat3_pat39_meting2_oef3.csv,80,3,160,2018-12-10 11:04:53.840196,Vinnie Flex
+75,/datc/ortho/Cat3_pat21_meting2_oef3.csv,145,7,240,2018-12-10 11:05:24.147871,Vinnie Flex
+76,/datc/ortho/Cat3_pat15_meting1_oef3.csv,65,6,138,2018-12-10 11:06:28.259670,Vinnie Flex
+77,/datc/ortho/Cat3_pat3_meting2_oef3.csv,90,33,135,2018-12-10 11:06:45.581234,Vinnie Flex
+78,/datc/ortho/Cat3_pat38_meting1_oef3.csv,62,7,98,2018-12-10 11:08:10.923934,Vinnie Flex
+79,/datc/ortho/Cat3_pat31_meting1_oef3.csv,106,7,210,2018-12-10 11:08:35.461233,Vinnie Flex
+80,/datc/ortho/Cat3_pat6_meting1_oef3.csv,10,40,205,2018-12-10 11:08:57.641194,Vinnie Flex
+81,/datc/ortho/Cat3_pat26_meting1_oef3.csv,87,8,165,2018-12-10 11:09:26.563779,Vinnie Flex
+82,/datc/ortho/Cat3_pat18_meting2_oef3.csv,68,7,120,2018-12-10 11:09:53.709423,Vinnie Flex
+83,/datc/ortho/Cat3_pat17_meting2_oef3.csv,68,6,118,2018-12-10 11:10:15.988893,Vinnie Flex
+84,/datc/ortho/Cat3_pat30_meting1_oef3.csv,76,8,125,2018-12-10 11:10:45.154551,Vinnie Flex
+85,/datc/ortho/Cat3_pat12_meting2_oef3.csv,45,4,85,2018-12-10 11:11:04.987414,Vinnie Flex
+86,/datc/ortho/Cat3_pat29_meting1_oef3.csv,165,16,272,2018-12-10 11:11:56.219571,Vinnie Flex
+87,/datc/ortho/Cat3_pat12_meting1_oef3.csv,150,28,265,2018-12-10 11:12:42.500362,Vinnie Flex
+88,/datc/ortho/Cat3_pat25_meting1_oef3.csv,70,8,128,2018-12-10 11:13:01.591223,Vinnie Flex
+89,/datc/ortho/Cat3_pat33_meting2_oef3.csv,45,6,92,2018-12-10 11:13:33.589791,Vinnie Flex
+90,/datc/ortho/Cat3_pat7_meting1_oef3.csv,0,105,252,2018-12-10 11:13:56.466000,Vinnie Flex
+91,/datc/ortho/Cat3_pat20_meting2_oef4.csv,0,52,168,2018-12-10 11:48:13.610142,Vinnie Flex
+1,/datc/ortho/Cat1_pat16_meting10_oef2.csv,0,23,170,2018-12-10 09:51:05.928146,Kasper
+2,/datc/ortho/Cat1_pat5_meting10_oef2.csv,0,11,143,2018-12-10 09:52:30.208593,Kasper
+3,/datc/ortho/Cat1_pat30_meting10_oef2.csv,0,20,170,2018-12-10 09:55:28.618368,Kasper
+4,/datc/ortho/Cat1_pat23_meting10_oef2.csv,0,7,129,2018-12-10 09:57:28.784909,Kasper
+5,/datc/ortho/Cat1_pat1_meting10_oef2.csv,0,8,87,2018-12-10 09:58:27.920167,Kasper
+6,/datc/ortho/Cat1_pat10_meting10_oef2.csv,0,15,167,2018-12-10 09:59:05.873454,Kasper
+7,/datc/ortho/Cat1_pat18_meting10_oef2.csv,0,51,136,2018-12-10 09:59:46.313685,Kasper
+8,/datc/ortho/Cat1_pat8_meting10_oef2.csv,0,9,136,2018-12-10 10:00:28.736024,Kasper
+9,/datc/ortho/Cat1_pat15_meting10_oef2.csv,0,27,178,2018-12-10 10:01:01.285215,Kasper
+10,/datc/ortho/Cat1_pat26_meting10_oef2.csv,0,4,132,2018-12-10 10:02:26.568144,Kasper
+11,/datc/ortho/Cat1_pat3_meting10_oef2.csv,0,9,123,2018-12-10 10:03:04.988310,Kasper
+12,/datc/ortho/Cat1_pat27_meting10_oef2.csv,0,8,105,2018-12-10 10:03:54.788094,Kasper
+13,/datc/ortho/Cat1_pat11_meting10_oef2.csv,0,21,160,2018-12-10 10:04:21.530522,Kasper
+14,/datc/ortho/Cat1_pat12_meting10_oef2.csv,0,2,147,2018-12-10 10:05:20.125547,Kasper
+15,/datc/ortho/Cat1_pat21_meting10_oef2.csv,0,10,83,2018-12-10 10:05:41.520325,Kasper
+16,/datc/ortho/Cat1_pat6_meting10_oef2.csv,0,2,152,2018-12-10 10:06:40.491699,Kasper
+17,/datc/ortho/Cat1_pat24_meting10_oef2.csv,0,10,131,2018-12-10 10:07:06.757851,Kasper
+18,/datc/ortho/Cat1_pat2_meting10_oef2.csv,0,1,146,2018-12-10 10:07:47.122131,Kasper
+19,/datc/ortho/Cat1_pat4_meting10_oef2.csv,0,12,140,2018-12-10 10:08:33.988730,Kasper
+20,/datc/ortho/Cat1_pat17_meting10_oef2.csv,0,34,161,2018-12-10 10:09:15.186642,Kasper
+21,/datc/ortho/Cat1_pat13_meting10_oef2.csv,0,13,140,2018-12-10 10:10:06.705878,Kasper
+22,/datc/ortho/Cat1_pat19_meting10_oef2.csv,0,23,157,2018-12-10 10:10:39.022377,Kasper
+23,/datc/ortho/Cat1_pat20_meting10_oef2.csv,0,2,109,2018-12-10 10:11:01.727518,Kasper
+24,/datc/ortho/Cat1_pat14_meting10_oef2.csv,0,27,174,2018-12-10 10:12:02.784584,Kasper
+25,/datc/ortho/Cat1_pat22_meting10_oef2.csv,0,14,121,2018-12-10 10:12:28.678603,Kasper
+26,/datc/ortho/Cat1_pat29_meting10_oef2.csv,0,22,138,2018-12-10 10:13:20.710673,Kasper
+27,/datc/ortho/Cat1_pat7_meting10_oef2.csv,0,22,155,2018-12-10 10:15:51.931857,Kasper
+28,/datc/ortho/Cat1_pat26_meting10_oef3.csv,0,11,124,2018-12-10 10:17:49.674421,Kasper
+29,/datc/ortho/Cat1_pat19_meting10_oef3.csv,0,10,143,2018-12-10 10:19:06.935962,Kasper
+30,/datc/ortho/Cat1_pat4_meting10_oef3.csv,0,7,153,2018-12-10 10:20:02.852084,Kasper
+31,/datc/ortho/Cat1_pat1_meting10_oef3.csv,0,10,98,2018-12-10 10:21:10.128265,Kasper
+32,/datc/ortho/Cat1_pat30_meting10_oef3.csv,0,5,150,2018-12-10 10:22:06.008036,Kasper
+33,/datc/ortho/Cat1_pat22_meting10_oef3.csv,0,8,127,2018-12-10 10:22:41.742808,Kasper
+34,/datc/ortho/Cat1_pat24_meting10_oef3.csv,0,5,118,2018-12-10 10:23:16.926781,Kasper
+35,/datc/ortho/Cat1_pat10_meting10_oef3.csv,0,3,140,2018-12-10 10:24:58.797122,Kasper
+36,/datc/ortho/Cat1_pat16_meting10_oef3.csv,0,15,123,2018-12-10 10:25:30.388095,Kasper
+37,/datc/ortho/Cat1_pat15_meting10_oef3.csv,0,17,138,2018-12-10 10:26:06.397435,Kasper
+38,/datc/ortho/Cat1_pat17_meting10_oef3.csv,0,8,127,2018-12-10 10:26:54.891445,Kasper
+39,/datc/ortho/Cat1_pat3_meting10_oef3.csv,0,7,102,2018-12-10 10:28:31.581308,Kasper
+40,/datc/ortho/Cat1_pat29_meting10_oef3.csv,0,25,135,2018-12-10 10:29:28.617244,Kasper
+41,/datc/ortho/Cat1_pat13_meting10_oef3.csv,0,23,116,2018-12-10 10:29:56.077859,Kasper
+42,/datc/ortho/Cat1_pat14_meting10_oef3.csv,0,8,98,2018-12-10 10:30:19.841540,Kasper
+43,/datc/ortho/Cat1_pat18_meting10_oef3.csv,0,2,88,2018-12-10 10:30:51.285082,Kasper
+44,/datc/ortho/Cat1_pat7_meting10_oef3.csv,0,17,135,2018-12-10 10:32:27.686448,Kasper
+45,/datc/ortho/Cat1_pat8_meting10_oef3.csv,0,6,142,2018-12-10 10:32:47.844735,Kasper
+46,/datc/ortho/Cat1_pat12_meting10_oef3.csv,0,26,134,2018-12-10 10:33:14.932843,Kasper
+47,/datc/ortho/Cat1_pat6_meting10_oef3.csv,0,3,150,2018-12-10 10:34:20.390825,Kasper
+48,/datc/ortho/Cat1_pat21_meting10_oef3.csv,0,6,90,2018-12-10 10:35:01.352612,Kasper
+49,/datc/ortho/Cat1_pat11_meting10_oef3.csv,0,20,140,2018-12-10 10:35:34.382258,Kasper
+50,/datc/ortho/Cat1_pat20_meting10_oef3.csv,0,10,93,2018-12-10 10:37:22.052485,Kasper
+51,/datc/ortho/Cat1_pat5_meting10_oef3.csv,0,7,129,2018-12-10 10:37:52.909707,Kasper
+52,/datc/ortho/Cat1_pat27_meting10_oef3.csv,0,11,82,2018-12-10 10:38:24.163903,Kasper
+53,/datc/ortho/Cat1_pat23_meting10_oef3.csv,0,14,136,2018-12-10 10:38:53.391724,Kasper
+54,/datc/ortho/Cat1_pat2_meting10_oef3.csv,0,4,163,2018-12-10 10:39:51.009346,Kasper
+55,/datc/ortho/Cat1_pat29_meting10_oef4.csv,0,4,110,2018-12-10 10:40:29.977868,Kasper
+56,/datc/ortho/Cat1_pat11_meting10_oef4.csv,0,10,123,2018-12-10 10:40:52.301175,Kasper
+57,/datc/ortho/Cat1_pat16_meting10_oef4.csv,0,3,124,2018-12-10 10:41:21.359125,Kasper
+58,/datc/ortho/Cat1_pat10_meting10_oef4.csv,0,3,151,2018-12-10 10:41:38.345009,Kasper
+59,/datc/ortho/Cat1_pat15_meting10_oef4.csv,0,5,132,2018-12-10 10:42:11.382849,Kasper
+60,/datc/ortho/Cat1_pat24_meting10_oef4.csv,0,8,139,2018-12-10 10:42:54.265105,Kasper
+61,/datc/ortho/Cat1_pat30_meting10_oef4.csv,0,7,120,2018-12-10 10:43:17.993729,Kasper
+62,/datc/ortho/Cat1_pat18_meting10_oef4.csv,0,9,97,2018-12-10 10:43:40.808365,Kasper
+63,/datc/ortho/Cat1_pat17_meting10_oef4.csv,0,13,145,2018-12-10 10:44:30.860719,Kasper
+64,/datc/ortho/Cat1_pat2_meting10_oef4.csv,0,6,123,2018-12-10 10:45:15.854387,Kasper
+65,/datc/ortho/Cat1_pat8_meting10_oef4.csv,0,5,141,2018-12-10 10:45:34.636836,Kasper
+66,/datc/ortho/Cat1_pat6_meting10_oef4.csv,0,5,138,2018-12-10 10:45:55.001427,Kasper
+67,/datc/ortho/Cat1_pat13_meting10_oef4.csv,0,12,95,2018-12-10 10:46:18.249949,Kasper
+68,/datc/ortho/Cat1_pat26_meting10_oef4.csv,0,22,115,2018-12-10 10:46:39.578089,Kasper
+69,/datc/ortho/Cat1_pat23_meting10_oef4.csv,0,2,111,2018-12-10 10:46:59.098681,Kasper
+70,/datc/ortho/Cat1_pat1_meting10_oef4.csv,0,3,84,2018-12-10 10:47:13.213289,Kasper
+71,/datc/ortho/Cat1_pat19_meting10_oef4.csv,0,6,119,2018-12-10 10:47:31.909989,Kasper
+72,/datc/ortho/Cat1_pat27_meting10_oef4.csv,0,37,128,2018-12-10 10:47:53.143162,Kasper
+73,/datc/ortho/Cat1_pat20_meting10_oef4.csv,0,4,87,2018-12-10 10:48:23.511456,Kasper
+74,/datc/ortho/Cat1_pat5_meting10_oef4.csv,0,2,146,2018-12-10 10:49:02.828358,Kasper
+75,/datc/ortho/Cat1_pat7_meting10_oef4.csv,0,21,157,2018-12-10 10:49:26.921868,Kasper
+76,/datc/ortho/Cat1_pat3_meting10_oef4.csv,0,22,107,2018-12-10 10:50:07.464824,Kasper
+77,/datc/ortho/Cat1_pat22_meting10_oef4.csv,0,5,130,2018-12-10 10:50:25.460879,Kasper
+78,/datc/ortho/Cat1_pat14_meting10_oef4.csv,0,6,86,2018-12-10 10:50:54.711620,Kasper
+79,/datc/ortho/Cat1_pat21_meting10_oef4.csv,0,12,94,2018-12-10 10:51:34.746498,Kasper
+80,/datc/ortho/Cat1_pat4_meting10_oef4.csv,0,35,185,2018-12-10 10:52:33.588336,Kasper
+81,/datc/ortho/Cat1_pat12_meting10_oef4.csv,0,12,112,2018-12-10 10:53:05.924076,Kasper
+82,/datc/ortho/Cat1_pat14_meting10_oef5.csv,0,18,145,2018-12-10 10:54:25.169403,Kasper
+83,/datc/ortho/Cat1_pat15_meting10_oef5.csv,0,17,137,2018-12-10 10:54:44.440472,Kasper
+84,/datc/ortho/Cat1_pat10_meting10_oef5.csv,0,11,121,2018-12-10 10:55:19.315211,Kasper
+85,/datc/ortho/Cat1_pat24_meting10_oef5.csv,0,8,140,2018-12-10 10:55:37.719189,Kasper
+86,/datc/ortho/Cat1_pat30_meting10_oef5.csv,0,45,225,2018-12-10 10:56:13.191994,Kasper
+87,/datc/ortho/Cat1_pat27_meting10_oef5.csv,0,6,94,2018-12-10 10:56:29.502628,Kasper
+88,/datc/ortho/Cat1_pat13_meting10_oef5.csv,0,16,99,2018-12-10 10:56:47.701016,Kasper
+89,/datc/ortho/Cat1_pat12_meting10_oef5.csv,0,1,71,2018-12-10 11:01:57.216327,Kasper
+90,/datc/ortho/Cat1_pat5_meting10_oef5.csv,0,11,145,2018-12-10 11:02:28.104109,Kasper
+91,/datc/ortho/Cat1_pat23_meting10_oef5.csv,0,1,121,2018-12-10 11:02:54.742079,Kasper
+92,/datc/ortho/Cat1_pat4_meting10_oef5.csv,0,18,148,2018-12-10 11:03:36.072499,Kasper
+93,/datc/ortho/Cat1_pat22_meting10_oef5.csv,0,8,113,2018-12-10 11:04:48.129301,Kasper
+94,/datc/ortho/Cat1_pat1_meting10_oef5.csv,0,6,80,2018-12-10 11:05:04.661638,Kasper
+95,/datc/ortho/Cat1_pat7_meting10_oef5.csv,0,13,173,2018-12-10 11:05:40.590613,Kasper
+1,/datc/ortho/Cat2_pat33_meting20_oef2.csv,0,5,167,2018-12-10 09:58:30.742348,Rogier
+2,/datc/ortho/Cat2_pat15_meting20_oef2.csv,0,7,105,2018-12-10 09:59:00.170363,Rogier
+3,/datc/ortho/Cat2_pat1_meting20_oef2.csv,0,0,37,2018-12-10 09:59:39.797951,Rogier
+4,/datc/ortho/Cat2_pat36_meting10_oef2.csv,0,15,173,2018-12-10 10:00:04.828319,Rogier
+5,/datc/ortho/Cat2_pat2_meting20_oef2.csv,0,0,76,2018-12-10 10:00:34.654237,Rogier
+6,/datc/ortho/Cat2_pat26_meting10_oef2.csv,80,15,130,2018-12-10 10:01:14.944638,Rogier
+7,/datc/ortho/Cat2_pat11_meting10_oef2.csv,0,7,97,2018-12-10 10:04:59.362530,Rogier
+8,/datc/ortho/Cat2_pat32_meting10_oef2.csv,80,5,145,2018-12-10 10:05:30.214393,Rogier
+9,/datc/ortho/Cat2_pat30_meting20_oef2.csv,0,11,166,2018-12-10 10:06:12.192777,Rogier
+10,/datc/ortho/Cat2_pat9_meting20_oef2.csv,0,25,150,2018-12-10 10:06:50.490171,Rogier
+11,/datc/ortho/Cat2_pat28_meting20_oef2.csv,0,3,78,2018-12-10 10:07:47.360569,Rogier
+12,/datc/ortho/Cat2_pat4_meting10_oef2.csv,95,0,173,2018-12-10 10:08:39.929094,Rogier
+13,/datc/ortho/Cat2_pat10_meting10_oef2.csv,93,0,155,2018-12-10 10:10:37.615633,Rogier
+14,/datc/ortho/Cat2_pat27_meting10_oef2.csv,105,0,211,2018-12-10 10:12:43.120235,Rogier
+15,/datc/ortho/Cat2_pat7_meting10_oef2.csv,380,220,510,2018-12-10 10:13:33.156515,Rogier
+16,/datc/ortho/Cat2_pat35_meting10_oef2.csv,0,1,165,2018-12-10 10:15:30.801202,Rogier
+17,/datc/ortho/Cat2_pat39_meting10_oef2.csv,0,10,81,2018-12-10 10:16:16.922301,Rogier
+18,/datc/ortho/Cat2_pat3_meting10_oef2.csv,91,1,175,2018-12-10 10:16:57.791369,Rogier
+19,/datc/ortho/Cat2_pat14_meting20_oef2.csv,0,7,155,2018-12-10 10:17:16.268062,Rogier
+20,/datc/ortho/Cat2_pat6_meting20_oef2.csv,0,9,150,2018-12-10 10:17:45.244129,Rogier
+21,/datc/ortho/Cat2_pat10_meting20_oef2.csv,0,18,153,2018-12-10 10:18:11.214114,Rogier
+22,/datc/ortho/Cat2_pat31_meting20_oef2.csv,0,1,57,2018-12-10 10:18:27.368374,Rogier
+23,/datc/ortho/Cat2_pat12_meting10_oef2.csv,140,1,276,2018-12-10 10:19:59.574453,Rogier
+24,/datc/ortho/Cat2_pat21_meting10_oef2.csv,80,1,145,2018-12-10 10:20:42.415699,Rogier
+25,/datc/ortho/Cat2_pat17_meting20_oef2.csv,5,5,125,2018-12-10 10:21:53.421796,Rogier
+26,/datc/ortho/Cat2_pat24_meting10_oef2.csv,165,11,265,2018-12-10 10:22:44.960623,Rogier
+27,/datc/ortho/Cat2_pat6_meting10_oef2.csv,134,1,230,2018-12-10 10:23:18.606758,Rogier
+28,/datc/ortho/Cat2_pat29_meting20_oef2.csv,0,1,120,2018-12-10 10:23:37.988432,Rogier
+29,/datc/ortho/Cat2_pat1_meting10_oef2.csv,190,105,260,2018-12-10 10:24:59.402284,Rogier
+30,/datc/ortho/Cat2_pat30_meting10_oef2.csv,49,3,135,2018-12-10 10:25:39.202649,Rogier
+31,/datc/ortho/Cat2_pat22_meting20_oef2.csv,0,1,103,2018-12-10 10:25:54.515355,Rogier
+32,/datc/ortho/Cat2_pat29_meting10_oef2.csv,120,11,207,2018-12-10 10:26:25.370494,Rogier
+33,/datc/ortho/Cat2_pat2_meting10_oef2.csv,81,7,150,2018-12-10 10:26:59.724659,Rogier
+34,/datc/ortho/Cat2_pat37_meting10_oef2.csv,0,1,255,2018-12-10 10:27:14.804081,Rogier
+35,/datc/ortho/Cat2_pat8_meting10_oef2.csv,110,1,255,2018-12-10 10:27:33.212310,Rogier
+36,/datc/ortho/Cat2_pat21_meting20_oef2.csv,0,7,107,2018-12-10 10:27:58.820755,Rogier
+37,/datc/ortho/Cat2_pat9_meting10_oef2.csv,134,1,193,2018-12-10 10:28:29.773678,Rogier
+38,/datc/ortho/Cat2_pat26_meting20_oef2.csv,0,5,167,2018-12-10 10:28:51.003773,Rogier
+39,/datc/ortho/Cat2_pat8_meting20_oef2.csv,0,5,110,2018-12-10 10:29:15.282159,Rogier
+40,/datc/ortho/Cat2_pat3_meting20_oef2.csv,0,10,335,2018-12-10 10:29:52.533919,Rogier
+41,/datc/ortho/Cat2_pat23_meting20_oef2.csv,0,5,163,2018-12-10 10:30:05.773448,Rogier
+42,/datc/ortho/Cat2_pat7_meting20_oef2.csv,0,3,230,2018-12-10 10:30:28.950091,Rogier
+43,/datc/ortho/Cat2_pat32_meting20_oef2.csv,0,5,145,2018-12-10 10:30:43.259002,Rogier
+44,/datc/ortho/Cat2_pat31_meting10_oef2.csv,70,3,127,2018-12-10 10:31:06.679484,Rogier
+45,/datc/ortho/Cat2_pat4_meting20_oef2.csv,0,15,177,2018-12-10 10:32:28.822828,Rogier
+46,/datc/ortho/Cat2_pat34_meting10_oef2.csv,160,2,299,2018-12-10 10:32:54.872476,Rogier
+47,/datc/ortho/Cat2_pat25_meting20_oef2.csv,0,2,94,2018-12-10 10:33:22.108236,Rogier
+48,/datc/ortho/Cat2_pat28_meting10_oef2.csv,180,5,325,2018-12-10 10:34:05.175809,Rogier
+49,/datc/ortho/Cat2_pat25_meting10_oef2.csv,160,6,280,2018-12-10 10:34:54.499502,Rogier
+50,/datc/ortho/Cat2_pat20_meting10_oef2.csv,238,5,453,2018-12-10 10:35:24.109527,Rogier
+51,/datc/ortho/Cat2_pat17_meting10_oef2.csv,260,3,497,2018-12-10 10:35:57.755491,Rogier
+52,/datc/ortho/Cat2_pat14_meting10_oef2.csv,310,7,475,2018-12-10 10:36:59.788156,Rogier
+53,/datc/ortho/Cat2_pat5_meting10_oef2.csv,7,7,100,2018-12-10 10:37:25.959361,Rogier
+54,/datc/ortho/Cat2_pat18_meting10_oef2.csv,128,1,230,2018-12-10 10:37:54.593323,Rogier
+55,/datc/ortho/Cat2_pat23_meting10_oef2.csv,123,1,225,2018-12-10 10:38:31.182692,Rogier
+56,/datc/ortho/Cat2_pat15_meting10_oef2.csv,220,1,370,2018-12-10 10:38:55.862104,Rogier
+57,/datc/ortho/Cat2_pat38_meting10_oef2.csv,0,2,105,2018-12-10 10:39:11.567640,Rogier
+58,/datc/ortho/Cat2_pat33_meting10_oef2.csv,90,3,146,2018-12-10 10:39:34.113070,Rogier
+59,/datc/ortho/Cat2_pat24_meting20_oef2.csv,0,2,170,2018-12-10 10:39:50.634743,Rogier
+60,/datc/ortho/Cat2_pat11_meting20_oef2.csv,0,1,63,2018-12-10 10:40:24.846988,Rogier
+61,/datc/ortho/Cat2_pat30_meting20_oef3.csv,0,2,110,2018-12-10 10:43:59.300246,Rogier
+62,/datc/ortho/Cat2_pat15_meting20_oef3.csv,0,5,117,2018-12-10 10:44:25.260726,Rogier
+63,/datc/ortho/Cat2_pat39_meting10_oef3.csv,0,3,85,2018-12-10 10:45:30.642757,Rogier
+64,/datc/ortho/Cat2_pat14_meting20_oef3.csv,0,5,143,2018-12-10 10:46:48.807447,Rogier
+65,/datc/ortho/Cat2_pat11_meting20_oef3.csv,0,2,92,2018-12-10 10:47:21.202178,Rogier
+66,/datc/ortho/Cat2_pat3_meting20_oef3.csv,0,11,90,2018-12-10 10:47:52.226849,Rogier
+67,/datc/ortho/Cat2_pat21_meting20_oef3.csv,0,4,65,2018-12-10 10:48:07.546933,Rogier
+68,/datc/ortho/Cat2_pat6_meting20_oef3.csv,0,5,150,2018-12-10 10:48:29.656687,Rogier
+69,/datc/ortho/Cat2_pat2_meting20_oef3.csv,0,21,113,2018-12-10 10:48:56.449169,Rogier
+70,/datc/ortho/Cat2_pat36_meting10_oef3.csv,0,11,159,2018-12-10 10:49:27.451824,Rogier
+71,/datc/ortho/Cat2_pat29_meting20_oef3.csv,0,5,105,2018-12-10 10:49:44.160706,Rogier
+72,/datc/ortho/Cat2_pat32_meting20_oef3.csv,0,1,150,2018-12-10 10:50:00.170489,Rogier
+73,/datc/ortho/Cat2_pat37_meting10_oef3.csv,0,5,159,2018-12-10 10:50:33.746692,Rogier
+74,/datc/ortho/Cat2_pat24_meting20_oef3.csv,0,7,157,2018-12-10 10:51:01.138884,Rogier
+75,/datc/ortho/Cat2_pat25_meting20_oef3.csv,0,2,83,2018-12-10 10:51:31.968148,Rogier
+76,/datc/ortho/Cat2_pat17_meting20_oef3.csv,0,4,115,2018-12-10 10:52:08.983571,Rogier
+77,/datc/ortho/Cat2_pat26_meting20_oef3.csv,0,14,120,2018-12-10 10:52:35.511447,Rogier
+78,/datc/ortho/Cat2_pat28_meting20_oef3.csv,0,3,78,2018-12-10 10:52:55.369607,Rogier
+79,/datc/ortho/Cat2_pat4_meting20_oef3.csv,0,11,139,2018-12-10 10:54:18.328063,Rogier
+80,/datc/ortho/Cat2_pat35_meting10_oef3.csv,0,5,140,2018-12-10 10:54:35.467907,Rogier
+81,/datc/ortho/Cat2_pat31_meting20_oef3.csv,0,1,48,2018-12-10 10:55:09.436242,Rogier
+82,/datc/ortho/Cat2_pat8_meting20_oef3.csv,0,2,95,2018-12-10 10:55:26.560181,Rogier
+83,/datc/ortho/Cat2_pat10_meting20_oef3.csv,1,1,150,2018-12-10 10:55:46.864846,Rogier
+84,/datc/ortho/Cat2_pat33_meting20_oef3.csv,0,7,135,2018-12-10 10:56:18.044845,Rogier
+85,/datc/ortho/Cat2_pat7_meting20_oef3.csv,0,5,133,2018-12-10 10:56:36.588576,Rogier
+86,/datc/ortho/Cat2_pat1_meting20_oef3.csv,0,5,69,2018-12-10 10:56:57.342170,Rogier
+87,/datc/ortho/Cat2_pat23_meting20_oef3.csv,0,5,135,2018-12-10 10:57:14.204236,Rogier
+88,/datc/ortho/Cat2_pat38_meting10_oef3.csv,0,5,106,2018-12-10 10:57:38.317266,Rogier
+89,/datc/ortho/Cat2_pat9_meting20_oef3.csv,0,25,179,2018-12-10 10:58:03.989802,Rogier
+90,/datc/ortho/Cat2_pat22_meting20_oef3.csv,0,3,93,2018-12-10 10:58:28.272194,Rogier
+91,/datc/ortho/Cat2_pat2_meting20_oef4.csv,0,20,105,2018-12-10 11:00:16.009502,Rogier
+92,/datc/ortho/Cat2_pat32_meting10_oef4.csv,94,5,187,2018-12-10 11:00:36.190108,Rogier
+93,/datc/ortho/Cat2_pat21_meting20_oef4.csv,0,8,85,2018-12-10 11:00:50.717119,Rogier
+94,/datc/ortho/Cat2_pat14_meting20_oef4.csv,0,5,125,2018-12-10 11:01:07.576937,Rogier
+95,/datc/ortho/Cat2_pat17_meting20_oef4.csv,0,1,143,2018-12-10 11:01:37.685801,Rogier
+0,/datc/ortho/Cat4_pat6_meting1_oef8.csv,0,5,34,2018-12-10 17:28:22.353560,Luke
+1,/datc/ortho/Cat3_pat11_meting2_oef4.csv,0,5,257,2018-12-12 09:58:00.721731,Vinnie Flex
+2,/datc/ortho/Cat3_pat21_meting1_oef4.csv,0,30,130,2018-12-12 09:58:52.850852,Vinnie Flex
+3,/datc/ortho/Cat3_pat18_meting2_oef4.csv,0,15,155,2018-12-12 09:59:27.595930,Vinnie Flex
+4,/datc/ortho/Cat3_pat12_meting1_oef4.csv,0,35,95,2018-12-12 09:59:57.649429,Vinnie Flex
+5,/datc/ortho/Cat3_pat5_meting1_oef4.csv,0,95,140,2018-12-12 10:00:23.769809,Vinnie Flex
+6,/datc/ortho/Cat3_pat17_meting1_oef4.csv,118,25,173,2018-12-12 10:00:47.536059,Vinnie Flex
+7,/datc/ortho/Cat3_pat7_meting2_oef4.csv,0,6,205,2018-12-12 10:03:31.772974,Vinnie Flex
+8,/datc/ortho/Cat3_pat29_meting2_oef4.csv,0,15,207,2018-12-12 10:04:05.294859,Vinnie Flex
+9,/datc/ortho/Cat3_pat31_meting1_oef4.csv,0,52,256,2018-12-12 10:06:40.412018,Vinnie Flex
+10,/datc/ortho/Cat3_pat26_meting1_oef4.csv,0,20,265,2018-12-12 10:07:17.057060,Vinnie Flex
+11,/datc/ortho/Cat3_pat9_meting1_oef4.csv,300,100,390,2018-12-12 10:10:22.322789,Vinnie Flex
+12,/datc/ortho/Cat3_pat31_meting2_oef4.csv,0,17,260,2018-12-12 10:12:23.714759,Vinnie Flex
+13,/datc/ortho/Cat3_pat39_meting2_oef4.csv,90,5,180,2018-12-12 10:12:51.789341,Vinnie Flex
+14,/datc/ortho/Cat3_pat37_meting2_oef4.csv,0,10,185,2018-12-12 10:13:33.406496,Vinnie Flex
+15,/datc/ortho/Cat3_pat25_meting1_oef4.csv,0,10,195,2018-12-12 10:14:10.164527,Vinnie Flex
+16,/datc/ortho/Cat3_pat30_meting1_oef4.csv,115,20,168,2018-12-12 10:14:39.549114,Vinnie Flex
+17,/datc/ortho/Cat3_pat7_meting1_oef4.csv,0,10,105,2018-12-12 10:15:00.013768,Vinnie Flex
+18,/datc/ortho/Cat3_pat24_meting2_oef4.csv,0,65,230,2018-12-12 10:17:01.889549,Vinnie Flex
+19,/datc/ortho/Cat3_pat34_meting2_oef4.csv,56,4,82,2018-12-12 10:17:46.699098,Vinnie Flex
+20,/datc/ortho/Cat3_pat17_meting2_oef4.csv,0,12,223,2018-12-12 10:18:28.245855,Vinnie Flex
+21,/datc/ortho/Cat3_pat35_meting1_oef4.csv,0,50,300,2018-12-12 10:19:31.544635,Vinnie Flex
+22,/datc/ortho/Cat3_pat38_meting1_oef4.csv,0,6,35,2018-12-12 10:20:02.218951,Vinnie Flex
+23,/datc/ortho/Cat3_pat26_meting2_oef4.csv,80,25,125,2018-12-12 10:22:14.383062,Vinnie Flex
+24,/datc/ortho/Cat3_pat21_meting2_oef4.csv,300,120,530,2018-12-12 10:29:05.432777,Vinnie Flex
+25,/datc/ortho/Cat3_pat24_meting1_oef4.csv,0,40,240,2018-12-12 10:31:04.425425,Vinnie Flex
+26,/datc/ortho/Cat3_pat32_meting1_oef4.csv,0,20,275,2018-12-12 10:31:33.058490,Vinnie Flex
+27,/datc/ortho/Cat3_pat30_meting2_oef4.csv,0,27,198,2018-12-12 10:31:59.632882,Vinnie Flex
+28,/datc/ortho/Cat3_pat39_meting1_oef4.csv,180,10,282,2018-12-12 10:40:29.738410,Vinnie Flex
+29,/datc/ortho/Cat3_pat18_meting1_oef4.csv,0,15,230,2018-12-12 10:43:10.300975,Vinnie Flex
+30,/datc/ortho/Cat3_pat38_meting2_oef4.csv,0,23,268,2018-12-12 10:49:27.139437,Vinnie Flex
+31,/datc/ortho/Cat3_pat28_meting1_oef4.csv,0,16,120,2018-12-12 10:49:55.849800,Vinnie Flex
+32,/datc/ortho/Cat3_pat12_meting2_oef4.csv,0,28,158,2018-12-12 10:52:44.928979,Vinnie Flex
+33,/datc/ortho/Cat3_pat8_meting2_oef4.csv,0,10,290,2018-12-12 10:53:27.282817,Vinnie Flex
+34,/datc/ortho/Cat3_pat14_meting2_oef4.csv,0,3,148,2018-12-12 10:54:54.306353,Vinnie Flex
+35,/datc/ortho/Cat3_pat8_meting1_oef4.csv,0,50,305,2018-12-12 10:55:36.047976,Vinnie Flex
+36,/datc/ortho/Cat3_pat37_meting1_oef4.csv,105,30,174,2018-12-12 11:10:56.798754,Vinnie Flex
+37,/datc/ortho/Cat3_pat9_meting2_oef4.csv,0,65,285,2018-12-12 11:11:41.818353,Vinnie Flex
+38,/datc/ortho/Cat3_pat3_meting1_oef4.csv,0,24,220,2018-12-12 11:12:25.921191,Vinnie Flex
+39,/datc/ortho/Cat3_pat11_meting1_oef4.csv,0,5,175,2018-12-12 11:16:17.750427,Vinnie Flex
+40,/datc/ortho/Cat3_pat34_meting1_oef4.csv,220,100,292,2018-12-12 11:16:52.110690,Vinnie Flex
+41,/datc/ortho/Cat3_pat15_meting1_oef4.csv,95,25,155,2018-12-12 11:17:18.762018,Vinnie Flex
+42,/datc/ortho/Cat3_pat22_meting2_oef4.csv,90,20,160,2018-12-12 11:22:12.190154,Vinnie Flex
+43,/datc/ortho/Cat3_pat27_meting1_oef4.csv,166,48,235,2018-12-12 11:22:41.195706,Vinnie Flex
+44,/datc/ortho/Cat3_pat15_meting2_oef4.csv,155,48,250,2018-12-12 11:23:05.536476,Vinnie Flex
+45,/datc/ortho/Cat3_pat25_meting2_oef4.csv,0,9,104,2018-12-12 11:23:45.592533,Vinnie Flex
+46,/datc/ortho/Cat3_pat10_meting2_oef4.csv,0,200,550,2018-12-12 11:24:16.277515,Vinnie Flex
+47,/datc/ortho/Cat3_pat22_meting1_oef4.csv,0,13,112,2018-12-12 11:24:56.872833,Vinnie Flex
+48,/datc/ortho/Cat3_pat6_meting1_oef4.csv,0,9,310,2018-12-12 11:28:52.619508,Vinnie Flex
+49,/datc/ortho/Cat3_pat20_meting1_oef4.csv,0,25,212,2018-12-12 11:33:39.364398,Vinnie Flex
+50,/datc/ortho/Cat3_pat13_meting1_oef4.csv,0,22,132,2018-12-12 11:34:48.912732,Vinnie Flex
+51,/datc/ortho/Cat3_pat3_meting2_oef4.csv,0,50,170,2018-12-12 11:35:09.338024,Vinnie Flex
+52,/datc/ortho/Cat3_pat16_meting1_oef4.csv,0,8,118,2018-12-12 11:35:35.579434,Vinnie Flex
+53,/datc/ortho/Cat3_pat6_meting2_oef4.csv,0,38,133,2018-12-12 11:36:35.617526,Vinnie Flex
+54,/datc/ortho/Cat3_pat33_meting1_oef4.csv,115,28,180,2018-12-12 11:37:00.785730,Vinnie Flex
+55,/datc/ortho/Cat3_pat14_meting1_oef4.csv,0,5,145,2018-12-12 11:37:16.354433,Vinnie Flex
+56,/datc/ortho/Cat3_pat29_meting1_oef4.csv,0,15,272,2018-12-12 11:39:00.706095,Vinnie Flex
+57,/datc/ortho/Cat3_pat33_meting2_oef4.csv,0,18,180,2018-12-12 11:42:44.905318,Vinnie Flex
+58,/datc/ortho/Cat3_pat17_meting2_oef5.csv,0,10,132,2018-12-12 13:09:17.936679,Vinnie Flex
+59,/datc/ortho/Cat3_pat30_meting2_oef5.csv,0,48,150,2018-12-12 13:10:35.301201,Vinnie Flex
+60,/datc/ortho/Cat3_pat38_meting2_oef5.csv,0,25,170,2018-12-12 13:11:15.163650,Vinnie Flex
+61,/datc/ortho/Cat3_pat8_meting1_oef5.csv,0,15,340,2018-12-12 13:11:57.312694,Vinnie Flex
+62,/datc/ortho/Cat3_pat15_meting1_oef5.csv,0,7,142,2018-12-12 13:13:08.653187,Vinnie Flex
+63,/datc/ortho/Cat3_pat16_meting1_oef5.csv,0,8,153,2018-12-12 13:16:56.298493,Vinnie Flex
+64,/datc/ortho/Cat3_pat7_meting1_oef5.csv,15,15,105,2018-12-12 13:17:21.177097,Vinnie Flex
+65,/datc/ortho/Cat3_pat8_meting2_oef5.csv,20,20,300,2018-12-12 13:17:54.997277,Vinnie Flex
+66,/datc/ortho/Cat3_pat11_meting1_oef5.csv,0,50,252,2018-12-12 13:18:15.988091,Vinnie Flex
+67,/datc/ortho/Cat3_pat3_meting2_oef5.csv,8,8,135,2018-12-12 13:18:49.217362,Vinnie Flex
+68,/datc/ortho/Cat3_pat29_meting1_oef5.csv,0,5,202,2018-12-12 13:19:14.498423,Vinnie Flex
+69,/datc/ortho/Cat3_pat34_meting2_oef5.csv,0,3,92,2018-12-12 13:19:39.352885,Vinnie Flex
+70,/datc/ortho/Cat3_pat33_meting2_oef5.csv,0,8,210,2018-12-12 13:20:03.480519,Vinnie Flex
+71,/datc/ortho/Cat3_pat3_meting1_oef5.csv,0,22,430,2018-12-12 13:20:54.365747,Vinnie Flex
+72,/datc/ortho/Cat3_pat37_meting1_oef5.csv,0,48,182,2018-12-12 13:21:28.627085,Vinnie Flex
+73,/datc/ortho/Cat3_pat12_meting2_oef5.csv,67,10,102,2018-12-12 13:22:06.416980,Vinnie Flex
+74,/datc/ortho/Cat3_pat6_meting1_oef5.csv,0,40,98,2018-12-12 13:22:35.746971,Vinnie Flex
+75,/datc/ortho/Cat3_pat30_meting1_oef5.csv,0,20,220,2018-12-12 13:24:19.167749,Vinnie Flex
+76,/datc/ortho/Cat3_pat5_meting1_oef5.csv,0,28,192,2018-12-12 13:25:58.862715,Vinnie Flex
+77,/datc/ortho/Cat3_pat39_meting1_oef5.csv,0,105,275,2018-12-12 13:26:33.512497,Vinnie Flex
+78,/datc/ortho/Cat3_pat35_meting1_oef5.csv,0,20,342,2018-12-12 13:26:58.024232,Vinnie Flex
+79,/datc/ortho/Cat3_pat20_meting1_oef5.csv,130,17,238,2018-12-12 13:27:41.929349,Vinnie Flex
+80,/datc/ortho/Cat3_pat21_meting2_oef5.csv,0,10,265,2018-12-12 13:31:31.448017,Vinnie Flex
+81,/datc/ortho/Cat3_pat10_meting2_oef5.csv,0,150,502,2018-12-12 13:32:18.211606,Vinnie Flex
+82,/datc/ortho/Cat3_pat39_meting2_oef5.csv,0,23,142,2018-12-12 13:37:17.551587,Vinnie Flex
+83,/datc/ortho/Cat3_pat18_meting1_oef5.csv,0,10,165,2018-12-12 13:39:28.878193,Vinnie Flex
+84,/datc/ortho/Cat3_pat31_meting1_oef5.csv,177,10,290,2018-12-12 13:45:14.467107,Vinnie Flex
+85,/datc/ortho/Cat3_pat7_meting2_oef5.csv,24,25,225,2018-12-12 13:55:11.502308,Vinnie Flex
+86,/datc/ortho/Cat3_pat14_meting2_oef5.csv,0,16,103,2018-12-12 13:55:32.609733,Vinnie Flex
+87,/datc/ortho/Cat3_pat29_meting2_oef5.csv,0,25,190,2018-12-12 13:56:33.835224,Vinnie Flex
+88,/datc/ortho/Cat3_pat17_meting1_oef5.csv,45,4,100,2018-12-12 13:57:08.239764,Vinnie Flex
+89,/datc/ortho/Cat3_pat14_meting1_oef5.csv,0,4,115,2018-12-12 14:01:30.200948,Vinnie Flex
+90,/datc/ortho/Cat3_pat9_meting1_oef5.csv,0,5,225,2018-12-12 14:04:16.833858,Vinnie Flex
+91,/datc/ortho/Cat3_pat24_meting2_oef5.csv,0,45,192,2018-12-12 14:04:48.869608,Vinnie Flex
+92,/datc/ortho/Cat3_pat18_meting2_oef5.csv,82,20,138,2018-12-12 14:05:17.919025,Vinnie Flex
+93,/datc/ortho/Cat3_pat21_meting1_oef5.csv,0,12,160,2018-12-12 14:09:14.614585,Vinnie Flex
+94,/datc/ortho/Cat3_pat26_meting2_oef5.csv,0,22,95,2018-12-12 14:09:44.048063,Vinnie Flex
+95,/datc/ortho/Cat3_pat22_meting2_oef5.csv,0,5,148,2018-12-12 14:14:36.999143,Vinnie Flex
+96,/datc/ortho/Cat3_pat37_meting2_oef5.csv,88,20,155,2018-12-12 14:15:33.010079,Vinnie Flex
+97,/datc/ortho/Cat3_pat11_meting2_oef5.csv,0,5,126,2018-12-12 14:16:08.388351,Vinnie Flex
+98,/datc/ortho/Cat3_pat22_meting1_oef5.csv,0,5,72,2018-12-12 14:16:27.320198,Vinnie Flex
+99,/datc/ortho/Cat3_pat31_meting2_oef5.csv,0,20,225,2018-12-12 14:17:31.133904,Vinnie Flex
+100,/datc/ortho/Cat3_pat13_meting1_oef5.csv,0,5,157,2018-12-12 14:18:05.798190,Vinnie Flex
+101,/datc/ortho/Cat3_pat25_meting2_oef5.csv,0,18,95,2018-12-12 14:18:34.598713,Vinnie Flex
+102,/datc/ortho/Cat3_pat26_meting1_oef5.csv,0,10,182,2018-12-12 14:18:54.609838,Vinnie Flex
+103,/datc/ortho/Cat3_pat24_meting1_oef5.csv,0,32,185,2018-12-12 14:19:20.749982,Vinnie Flex
+104,/datc/ortho/Cat3_pat34_meting1_oef5.csv,175,95,240,2018-12-12 14:19:54.418403,Vinnie Flex
+105,/datc/ortho/Cat3_pat20_meting2_oef5.csv,0,15,217,2018-12-12 14:20:20.253507,Vinnie Flex
+106,/datc/ortho/Cat3_pat27_meting1_oef5.csv,0,28,192,2018-12-12 14:20:57.403843,Vinnie Flex
+107,/datc/ortho/Cat3_pat12_meting1_oef5.csv,0,18,88,2018-12-12 14:21:17.481743,Vinnie Flex
+108,/datc/ortho/Cat3_pat33_meting1_oef5.csv,0,10,245,2018-12-12 14:21:36.826837,Vinnie Flex
+109,/datc/ortho/Cat3_pat28_meting1_oef5.csv,85,13,117,2018-12-12 14:22:12.281829,Vinnie Flex
+110,/datc/ortho/Cat3_pat9_meting2_oef5.csv,0,50,259,2018-12-12 14:22:42.221261,Vinnie Flex
+111,/datc/ortho/Cat3_pat6_meting2_oef5.csv,60,18,91,2018-12-12 14:23:03.511118,Vinnie Flex
+112,/datc/ortho/Cat3_pat25_meting1_oef5.csv,0,30,148,2018-12-12 14:23:34.398344,Vinnie Flex
+113,/datc/ortho/Cat3_pat15_meting2_oef5.csv,105,7,220,2018-12-12 14:24:22.817653,Vinnie Flex
+114,/datc/ortho/Cat3_pat32_meting1_oef5.csv,0,15,146,2018-12-12 14:24:43.378030,Vinnie Flex
+115,/datc/ortho/Cat3_pat22_meting2_oef3.csv,46,4,83,2018-12-12 14:38:24.485583,Vinnie Flex
+116,/datc/ortho/Cat3_pat5_meting1_oef3.csv,230,135,368,2018-12-12 14:40:14.471544,Vinnie Flex
+117,/datc/ortho/Cat3_pat8_meting2_oef3.csv,160,12,290,2018-12-12 14:40:39.197798,Vinnie Flex
+118,/datc/ortho/Cat3_pat38_meting2_oef3.csv,100,16,192,2018-12-12 14:41:15.600495,Vinnie Flex
+119,/datc/ortho/Cat3_pat26_meting2_oef3.csv,74,5,140,2018-12-12 14:42:14.343908,Vinnie Flex
+120,/datc/ortho/Cat3_pat31_meting2_oef3.csv,52,5,97,2018-12-12 14:42:40.807702,Vinnie Flex
+121,/datc/ortho/Cat3_pat6_meting2_oef3.csv,57,3,100,2018-12-12 14:43:08.049012,Vinnie Flex
+122,/datc/ortho/Cat3_pat28_meting1_oef3.csv,146,20,230,2018-12-12 14:43:40.810967,Vinnie Flex
+123,/datc/ortho/Cat3_pat21_meting1_oef3.csv,58,4,112,2018-12-12 14:44:09.305773,Vinnie Flex
+124,/datc/ortho/Cat3_pat17_meting1_oef3.csv,148,20,268,2018-12-12 14:44:46.491400,Vinnie Flex
+125,/datc/ortho/Cat3_pat18_meting1_oef3.csv,120,27,188,2018-12-12 14:45:11.404976,Vinnie Flex
+126,/datc/ortho/Cat3_pat34_meting1_oef3.csv,75,10,186,2018-12-12 14:45:42.612787,Vinnie Flex
+127,/datc/ortho/Cat3_pat37_meting2_oef3.csv,74,8,152,2018-12-12 14:46:03.734164,Vinnie Flex
+128,/datc/ortho/Cat3_pat16_meting1_oef3.csv,72,5,124,2018-12-12 14:52:28.783549,Vinnie Flex
+129,/datc/ortho/Cat3_pat9_meting1_oef3.csv,145,7,240,2018-12-12 14:52:56.805750,Vinnie Flex
+130,/datc/ortho/Cat3_pat11_meting2_oef3.csv,58,3,110,2018-12-12 14:53:23.571535,Vinnie Flex
+131,/datc/ortho/Cat3_pat15_meting2_oef3.csv,93,8,173,2018-12-12 14:53:55.980751,Vinnie Flex
+132,/datc/ortho/Cat3_pat14_meting2_oef3.csv,83,12,177,2018-12-12 14:54:19.499422,Vinnie Flex
+133,/datc/ortho/Cat3_pat25_meting2_oef3.csv,36,2,78,2018-12-12 14:54:39.150285,Vinnie Flex
+134,/datc/ortho/Cat3_pat32_meting1_oef3.csv,132,12,230,2018-12-12 14:55:03.736885,Vinnie Flex
+135,/datc/ortho/Cat3_pat37_meting1_oef3.csv,114,5,198,2018-12-12 14:55:23.261322,Vinnie Flex
+136,/datc/ortho/Cat3_pat39_meting1_oef3.csv,110,5,190,2018-12-12 14:55:57.534334,Vinnie Flex
+137,/datc/ortho/Cat3_pat8_meting1_oef3.csv,160,15,268,2018-12-12 14:56:18.007836,Vinnie Flex
+138,/datc/ortho/Cat3_pat30_meting2_oef3.csv,68,7,113,2018-12-12 14:56:44.362211,Vinnie Flex
+139,/datc/ortho/Cat3_pat24_meting1_oef3.csv,108,5,182,2018-12-12 14:57:52.535725,Vinnie Flex
+140,/datc/ortho/Cat3_pat7_meting2_oef3.csv,115,15,182,2018-12-12 14:58:10.080053,Vinnie Flex
+141,/datc/ortho/Cat4_pat24_meting1_oef10.csv,0,4,30,2018-12-12 14:59:05.086208,Vinnie Flex
+142,/datc/ortho/Cat4_pat12_meting1_oef10.csv,0,12,35,2018-12-12 14:59:18.979260,Vinnie Flex
+143,/datc/ortho/Cat4_pat24_meting2_oef10.csv,0,2,32,2018-12-12 14:59:33.427427,Vinnie Flex
+144,/datc/ortho/Cat4_pat20_meting2_oef10.csv,0,0,40,2018-12-12 15:00:08.835843,Vinnie Flex
+145,/datc/ortho/Cat3_pat7_meting1_oef6.csv,0,8,78,2018-12-12 15:01:29.593033,Vinnie Flex
+146,/datc/ortho/Cat3_pat6_meting2_oef6.csv,48,5,93,2018-12-12 15:01:52.181726,Vinnie Flex
+147,/datc/ortho/Cat3_pat33_meting2_oef6.csv,62,10,105,2018-12-12 15:02:11.393762,Vinnie Flex
+148,/datc/ortho/Cat3_pat16_meting1_oef6.csv,65,8,110,2018-12-12 15:02:32.775829,Vinnie Flex
+149,/datc/ortho/Cat3_pat9_meting2_oef6.csv,100,12,178,2018-12-12 15:02:57.370726,Vinnie Flex
+150,/datc/ortho/Cat3_pat21_meting2_oef6.csv,0,5,280,2018-12-12 15:04:11.879277,Vinnie Flex
+151,/datc/ortho/Cat3_pat11_meting1_oef6.csv,0,8,177,2018-12-12 15:04:29.042413,Vinnie Flex
+152,/datc/ortho/Cat3_pat8_meting2_oef6.csv,105,8,250,2018-12-12 15:04:54.061144,Vinnie Flex
+153,/datc/ortho/Cat3_pat12_meting1_oef6.csv,0,8,108,2018-12-12 15:05:15.532075,Vinnie Flex
+154,/datc/ortho/Cat3_pat29_meting1_oef6.csv,0,10,155,2018-12-12 15:05:41.495789,Vinnie Flex
+155,/datc/ortho/Cat3_pat22_meting2_oef6.csv,0,3,68,2018-12-12 15:05:59.137598,Vinnie Flex
+156,/datc/ortho/Cat3_pat29_meting2_oef6.csv,0,6,128,2018-12-12 15:06:20.475964,Vinnie Flex
+157,/datc/ortho/Cat3_pat13_meting1_oef6.csv,0,8,88,2018-12-12 15:06:38.095521,Vinnie Flex
+158,/datc/ortho/Cat3_pat14_meting1_oef6.csv,0,7,70,2018-12-12 15:06:51.890309,Vinnie Flex
+159,/datc/ortho/Cat3_pat18_meting2_oef6.csv,0,5,82,2018-12-12 15:07:01.312563,Vinnie Flex
+160,/datc/ortho/Cat3_pat11_meting2_oef6.csv,0,18,165,2018-12-12 15:07:23.535296,Vinnie Flex
+161,/datc/ortho/Cat3_pat26_meting2_oef6.csv,0,5,88,2018-12-12 15:07:36.390861,Vinnie Flex
+162,/datc/ortho/Cat3_pat37_meting2_oef6.csv,0,8,130,2018-12-12 15:07:51.493235,Vinnie Flex
+163,/datc/ortho/Cat3_pat30_meting2_oef6.csv,0,5,100,2018-12-12 15:08:08.884110,Vinnie Flex
+164,/datc/ortho/Cat3_pat33_meting1_oef6.csv,0,5,132,2018-12-12 15:08:24.631956,Vinnie Flex
+165,/datc/ortho/Cat3_pat32_meting1_oef6.csv,0,10,170,2018-12-12 15:08:53.780815,Vinnie Flex
+166,/datc/ortho/Cat3_pat15_meting2_oef6.csv,0,3,105,2018-12-12 15:09:07.399986,Vinnie Flex
+167,/datc/ortho/Cat3_pat6_meting1_oef6.csv,0,7,88,2018-12-12 15:09:34.103072,Vinnie Flex
+168,/datc/ortho/Cat3_pat18_meting1_oef6.csv,77,8,125,2018-12-12 15:09:54.352821,Vinnie Flex
+169,/datc/ortho/Cat3_pat26_meting1_oef6.csv,80,23,174,2018-12-12 15:10:09.420963,Vinnie Flex
+170,/datc/ortho/Cat3_pat28_meting1_oef6.csv,48,6,78,2018-12-12 15:10:28.852979,Vinnie Flex
+171,/datc/ortho/Cat3_pat34_meting1_oef6.csv,80,6,150,2018-12-12 15:10:52.953482,Vinnie Flex
+172,/datc/ortho/Cat3_pat9_meting1_oef6.csv,128,5,242,2018-12-12 15:11:15.773887,Vinnie Flex
+173,/datc/ortho/Cat3_pat21_meting1_oef6.csv,71,4,117,2018-12-12 15:11:38.382411,Vinnie Flex
+174,/datc/ortho/Cat3_pat10_meting2_oef6.csv,207,100,295,2018-12-12 15:12:01.297093,Vinnie Flex
+175,/datc/ortho/Cat3_pat39_meting2_oef6.csv,60,5,105,2018-12-12 15:12:19.407978,Vinnie Flex
+176,/datc/ortho/Cat3_pat39_meting1_oef6.csv,100,5,174,2018-12-12 15:12:44.889929,Vinnie Flex
+177,/datc/ortho/Cat3_pat24_meting1_oef6.csv,70,15,122,2018-12-12 15:13:00.951524,Vinnie Flex
+178,/datc/ortho/Cat3_pat17_meting2_oef6.csv,62,8,116,2018-12-12 15:13:19.780247,Vinnie Flex
+179,/datc/ortho/Cat3_pat15_meting1_oef6.csv,60,4,122,2018-12-12 15:13:34.880761,Vinnie Flex
+180,/datc/ortho/Cat3_pat38_meting2_oef6.csv,70,8,135,2018-12-12 15:13:58.228146,Vinnie Flex
+181,/datc/ortho/Cat3_pat7_meting2_oef6.csv,72,18,110,2018-12-12 15:14:29.759420,Vinnie Flex
+182,/datc/ortho/Cat3_pat17_meting1_oef6.csv,76,4,140,2018-12-12 15:14:47.218076,Vinnie Flex
+183,/datc/ortho/Cat3_pat22_meting1_oef6.csv,78,3,122,2018-12-12 15:15:06.956069,Vinnie Flex
+184,/datc/ortho/Cat3_pat25_meting2_oef6.csv,47,4,90,2018-12-12 15:15:25.999866,Vinnie Flex
+185,/datc/ortho/Cat3_pat35_meting1_oef6.csv,160,5,300,2018-12-12 15:15:44.056491,Vinnie Flex
+186,/datc/ortho/Cat3_pat20_meting2_oef6.csv,50,4,88,2018-12-12 15:15:56.842366,Vinnie Flex
+187,/datc/ortho/Cat3_pat3_meting1_oef6.csv,115,40,175,2018-12-12 15:16:15.302439,Vinnie Flex
+188,/datc/ortho/Cat3_pat37_meting1_oef6.csv,110,40,188,2018-12-12 15:16:37.417992,Vinnie Flex
+189,/datc/ortho/Cat3_pat12_meting2_oef6.csv,38,4,70,2018-12-12 15:17:00.821457,Vinnie Flex
+190,/datc/ortho/Cat3_pat14_meting2_oef6.csv,38,5,68,2018-12-12 15:17:20.243155,Vinnie Flex
+191,/datc/ortho/Cat3_pat30_meting1_oef6.csv,56,7,98,2018-12-12 15:17:46.607553,Vinnie Flex
+192,/datc/ortho/Cat3_pat3_meting2_oef6.csv,66,8,120,2018-12-12 15:18:02.670582,Vinnie Flex
+193,/datc/ortho/Cat3_pat5_meting1_oef6.csv,80,5,100,2018-12-12 15:18:15.072573,Vinnie Flex
+194,/datc/ortho/Cat3_pat24_meting2_oef6.csv,84,5,130,2018-12-12 15:18:31.418300,Vinnie Flex
+195,/datc/ortho/Cat3_pat20_meting1_oef6.csv,70,14,118,2018-12-12 15:18:48.534111,Vinnie Flex
+196,/datc/ortho/Cat3_pat27_meting1_oef6.csv,148,5,272,2018-12-12 15:19:11.181137,Vinnie Flex
+197,/datc/ortho/Cat3_pat34_meting2_oef6.csv,37,5,58,2018-12-12 15:19:28.847676,Vinnie Flex
+198,/datc/ortho/Cat3_pat8_meting1_oef6.csv,135,20,240,2018-12-12 15:19:56.291439,Vinnie Flex
+199,/datc/ortho/Cat3_pat38_meting1_oef6.csv,35,8,62,2018-12-12 15:20:10.231778,Vinnie Flex
+200,/datc/ortho/Cat3_pat31_meting1_oef6.csv,62,5,118,2018-12-12 15:20:42.547677,Vinnie Flex
+201,/datc/ortho/Cat3_pat25_meting1_oef6.csv,65,8,110,2018-12-12 15:20:57.832255,Vinnie Flex
+202,/datc/ortho/Cat3_pat31_meting2_oef6.csv,52,7,95,2018-12-12 15:21:22.255611,Vinnie Flex
+0,/datc/ortho/Cat4_pat6_meting1_oef8.csv,0,5,34,2018-12-10 17:28:22.353560,Luke
+1,/datc/ortho/Cat1_pat2_meting10_oef5.csv,0,0,101,2018-12-11 09:56:35.610795,Kasper
+2,/datc/ortho/Cat1_pat3_meting10_oef5.csv,0,8,90,2018-12-11 09:57:07.227022,Kasper
+3,/datc/ortho/Cat1_pat16_meting10_oef5.csv,0,10,117,2018-12-11 09:57:31.279152,Kasper
+4,/datc/ortho/Cat1_pat6_meting10_oef5.csv,0,4,127,2018-12-11 09:57:54.621317,Kasper
+5,/datc/ortho/Cat1_pat18_meting10_oef5.csv,0,8,101,2018-12-11 09:58:20.441724,Kasper
+6,/datc/ortho/Cat1_pat20_meting10_oef5.csv,0,6,91,2018-12-11 09:58:43.150412,Kasper
+7,/datc/ortho/Cat1_pat21_meting10_oef5.csv,0,3,92,2018-12-11 10:00:17.011896,Kasper
+8,/datc/ortho/Cat1_pat29_meting10_oef5.csv,0,20,121,2018-12-11 10:00:38.751343,Kasper
+9,/datc/ortho/Cat1_pat26_meting10_oef5.csv,0,8,103,2018-12-11 10:01:09.529866,Kasper
+10,/datc/ortho/Cat1_pat19_meting10_oef5.csv,0,12,131,2018-12-11 10:01:28.653846,Kasper
+11,/datc/ortho/Cat1_pat8_meting10_oef5.csv,0,7,160,2018-12-11 10:02:55.880085,Kasper
+12,/datc/ortho/Cat1_pat17_meting10_oef5.csv,0,8,111,2018-12-11 10:03:18.865225,Kasper
+13,/datc/ortho/Cat1_pat11_meting10_oef5.csv,0,8,151,2018-12-11 10:03:42.748086,Kasper
+14,/datc/ortho/Cat1_pat7_meting10_oef6.csv,0,13,150,2018-12-11 10:04:45.168731,Kasper
+15,/datc/ortho/Cat1_pat17_meting10_oef6.csv,0,14,140,2018-12-11 10:05:02.089622,Kasper
+16,/datc/ortho/Cat1_pat6_meting10_oef6.csv,0,0,96,2018-12-11 10:05:20.885073,Kasper
+17,/datc/ortho/Cat1_pat3_meting10_oef6.csv,0,2,90,2018-12-11 10:07:35.724913,Kasper
+18,/datc/ortho/Cat1_pat26_meting10_oef6.csv,0,10,110,2018-12-11 10:08:00.501002,Kasper
+19,/datc/ortho/Cat1_pat10_meting10_oef6.csv,0,5,170,2018-12-11 10:08:23.266621,Kasper
+20,/datc/ortho/Cat1_pat1_meting10_oef6.csv,0,2,100,2018-12-11 10:08:42.314768,Kasper
+21,/datc/ortho/Cat1_pat22_meting10_oef6.csv,0,14,170,2018-12-11 10:08:56.189643,Kasper
+22,/datc/ortho/Cat1_pat24_meting10_oef6.csv,0,2,125,2018-12-11 10:09:29.465994,Kasper
+23,/datc/ortho/Cat1_pat18_meting10_oef6.csv,0,1,96,2018-12-11 10:09:44.511727,Kasper
+24,/datc/ortho/Cat1_pat13_meting10_oef6.csv,0,7,90,2018-12-11 10:10:08.351857,Kasper
+25,/datc/ortho/Cat1_pat15_meting10_oef6.csv,0,18,150,2018-12-11 10:10:46.432022,Kasper
+26,/datc/ortho/Cat1_pat2_meting10_oef6.csv,0,8,130,2018-12-11 10:11:03.339718,Kasper
+27,/datc/ortho/Cat1_pat14_meting10_oef6.csv,0,6,92,2018-12-11 10:11:30.555408,Kasper
+28,/datc/ortho/Cat1_pat21_meting10_oef6.csv,0,2,93,2018-12-11 10:11:50.568284,Kasper
+29,/datc/ortho/Cat1_pat27_meting10_oef6.csv,0,23,150,2018-12-11 10:12:17.484378,Kasper
+30,/datc/ortho/Cat1_pat20_meting10_oef6.csv,0,20,97,2018-12-11 10:12:43.506604,Kasper
+31,/datc/ortho/Cat1_pat29_meting10_oef6.csv,0,20,160,2018-12-11 10:12:55.526876,Kasper
+32,/datc/ortho/Cat1_pat16_meting10_oef6.csv,0,4,98,2018-12-11 10:13:41.043917,Kasper
+33,/datc/ortho/Cat1_pat19_meting10_oef6.csv,0,2,130,2018-12-11 10:13:54.442033,Kasper
+34,/datc/ortho/Cat1_pat8_meting10_oef6.csv,0,4,133,2018-12-11 10:14:11.383565,Kasper
+35,/datc/ortho/Cat1_pat4_meting10_oef6.csv,0,10,155,2018-12-11 10:14:46.902236,Kasper
+36,/datc/ortho/Cat1_pat12_meting10_oef6.csv,0,7,96,2018-12-11 10:15:09.786812,Kasper
+37,/datc/ortho/Cat1_pat11_meting10_oef6.csv,0,6,1111,2018-12-11 10:15:35.182894,Kasper
+38,/datc/ortho/Cat1_pat23_meting10_oef6.csv,0,20,124,2018-12-11 10:16:22.069993,Kasper
+39,/datc/ortho/Cat1_pat5_meting10_oef6.csv,0,2,120,2018-12-11 10:16:41.886024,Kasper
+40,/datc/ortho/Cat1_pat30_meting10_oef6.csv,0,11,140,2018-12-11 10:16:59.280016,Kasper
+41,/datc/ortho/Cat1_pat17_meting10_oef7.csv,0,2,136,2018-12-11 10:17:58.145944,Kasper
+42,/datc/ortho/Cat1_pat24_meting10_oef7.csv,0,13,143,2018-12-11 10:18:25.954613,Kasper
+43,/datc/ortho/Cat1_pat16_meting10_oef7.csv,0,11,110,2018-12-11 10:18:50.764768,Kasper
+44,/datc/ortho/Cat1_pat2_meting10_oef7.csv,0,6,111,2018-12-11 10:19:07.666667,Kasper
+45,/datc/ortho/Cat1_pat3_meting10_oef7.csv,0,0,70,2018-12-11 10:19:36.568497,Kasper
+46,/datc/ortho/Cat1_pat27_meting10_oef7.csv,0,2,100,2018-12-11 10:19:48.170968,Kasper
+47,/datc/ortho/Cat1_pat6_meting10_oef7.csv,0,2,97,2018-12-11 10:20:08.462816,Kasper
+48,/datc/ortho/Cat1_pat8_meting10_oef7.csv,0,23,170,2018-12-11 10:20:36.050337,Kasper
+49,/datc/ortho/Cat1_pat23_meting10_oef7.csv,0,3,107,2018-12-11 10:20:50.617243,Kasper
+50,/datc/ortho/Cat1_pat20_meting10_oef7.csv,0,5,90,2018-12-11 10:21:04.574313,Kasper
+51,/datc/ortho/Cat1_pat4_meting10_oef7.csv,0,4,130,2018-12-11 10:21:30.664192,Kasper
+52,/datc/ortho/Cat1_pat11_meting10_oef7.csv,0,5,110,2018-12-11 10:21:46.710823,Kasper
+53,/datc/ortho/Cat1_pat19_meting10_oef7.csv,0,7,110,2018-12-11 10:22:00.971104,Kasper
+54,/datc/ortho/Cat1_pat30_meting10_oef7.csv,0,15,130,2018-12-11 10:22:15.642087,Kasper
+55,/datc/ortho/Cat1_pat29_meting10_oef7.csv,0,11,140,2018-12-11 10:22:47.759930,Kasper
+56,/datc/ortho/Cat1_pat10_meting10_oef7.csv,0,2,136,2018-12-11 10:23:01.412426,Kasper
+57,/datc/ortho/Cat1_pat13_meting10_oef7.csv,0,10,91,2018-12-11 10:23:26.064809,Kasper
+58,/datc/ortho/Cat1_pat12_meting10_oef7.csv,0,3,80,2018-12-11 10:24:18.182419,Kasper
+59,/datc/ortho/Cat1_pat5_meting10_oef7.csv,0,6,140,2018-12-11 10:24:55.521811,Kasper
+60,/datc/ortho/Cat1_pat21_meting10_oef7.csv,0,0,90,2018-12-11 10:25:13.442394,Kasper
+61,/datc/ortho/Cat1_pat15_meting10_oef7.csv,0,7,174,2018-12-11 10:31:02.012087,Kasper
+62,/datc/ortho/Cat1_pat22_meting10_oef7.csv,0,20,180,2018-12-11 10:31:31.202614,Kasper
+63,/datc/ortho/Cat1_pat14_meting10_oef7.csv,0,3,80,2018-12-11 10:31:52.090963,Kasper
+64,/datc/ortho/Cat1_pat26_meting10_oef7.csv,0,13,120,2018-12-11 10:32:13.614553,Kasper
+65,/datc/ortho/Cat1_pat7_meting10_oef7.csv,0,15,116,2018-12-11 10:38:31.672755,Kasper
+66,/datc/ortho/Cat1_pat18_meting10_oef7.csv,0,5,91,2018-12-11 10:38:46.037638,Kasper
+67,/datc/ortho/Cat1_pat1_meting10_oef7.csv,0,15,94,2018-12-11 10:39:42.044381,Kasper
+68,/datc/ortho/Cat1_pat10_meting10_oef8.csv,0,17,240,2018-12-11 10:42:42.246189,Kasper
+69,/datc/ortho/Cat1_pat19_meting10_oef8.csv,0,2,78,2018-12-11 10:43:05.006203,Kasper
+70,/datc/ortho/Cat1_pat2_meting10_oef8.csv,0,13,64,2018-12-11 10:43:29.055804,Kasper
+71,/datc/ortho/Cat1_pat21_meting10_oef8.csv,0,2,73,2018-12-11 10:43:42.702417,Kasper
+72,/datc/ortho/Cat1_pat13_meting10_oef8.csv,0,7,68,2018-12-11 10:44:05.604526,Kasper
+73,/datc/ortho/Cat1_pat5_meting10_oef8.csv,0,22,150,2018-12-11 10:44:20.554751,Kasper
+74,/datc/ortho/Cat1_pat1_meting10_oef8.csv,0,2,94,2018-12-11 10:44:33.119272,Kasper
+75,/datc/ortho/Cat1_pat18_meting10_oef8.csv,0,53,154,2018-12-11 10:45:07.977026,Kasper
+76,/datc/ortho/Cat1_pat14_meting10_oef8.csv,0,3,93,2018-12-11 10:45:23.273320,Kasper
+77,/datc/ortho/Cat1_pat6_meting10_oef8.csv,0,3,90,2018-12-11 10:45:41.118428,Kasper
+78,/datc/ortho/Cat1_pat17_meting10_oef8.csv,0,25,184,2018-12-11 10:46:05.046558,Kasper
+79,/datc/ortho/Cat1_pat15_meting10_oef8.csv,0,28,183,2018-12-11 10:46:27.244705,Kasper
+80,/datc/ortho/Cat1_pat3_meting10_oef8.csv,0,5,84,2018-12-11 10:46:56.041094,Kasper
+81,/datc/ortho/Cat1_pat23_meting10_oef8.csv,0,35,141,2018-12-11 10:47:11.857392,Kasper
+82,/datc/ortho/Cat1_pat20_meting10_oef8.csv,0,6,100,2018-12-11 10:47:44.382930,Kasper
+83,/datc/ortho/Cat1_pat30_meting10_oef8.csv,0,13,106,2018-12-11 10:48:03.201918,Kasper
+84,/datc/ortho/Cat1_pat26_meting10_oef8.csv,0,0,280,2018-12-11 10:48:22.573038,Kasper
+85,/datc/ortho/Cat1_pat4_meting10_oef8.csv,0,17,164,2018-12-11 10:48:46.811989,Kasper
+86,/datc/ortho/Cat1_pat12_meting10_oef8.csv,0,4,67,2018-12-11 10:49:27.345637,Kasper
+87,/datc/ortho/Cat1_pat16_meting10_oef8.csv,0,7,111,2018-12-11 10:50:32.657583,Kasper
+88,/datc/ortho/Cat1_pat24_meting10_oef8.csv,0,20,143,2018-12-11 10:51:00.483600,Kasper
+89,/datc/ortho/Cat1_pat27_meting10_oef8.csv,0,9,101,2018-12-11 10:51:17.751037,Kasper
+90,/datc/ortho/Cat1_pat11_meting10_oef8.csv,0,10,131,2018-12-11 10:51:33.138670,Kasper
+91,/datc/ortho/Cat1_pat29_meting10_oef8.csv,0,28,180,2018-12-11 10:51:54.454329,Kasper
+92,/datc/ortho/Cat1_pat22_meting10_oef8.csv,0,8,133,2018-12-11 10:52:11.523895,Kasper
+93,/datc/ortho/Cat1_pat7_meting10_oef8.csv,0,30,130,2018-12-11 10:52:50.875863,Kasper
+94,/datc/ortho/Cat1_pat8_meting10_oef8.csv,0,2,200,2018-12-11 10:53:03.790617,Kasper
+95,/datc/ortho/Cat1_pat3_meting10_oef9.csv,0,4,66,2018-12-11 10:54:28.262402,Kasper
+96,/datc/ortho/Cat1_pat7_meting10_oef9.csv,0,25,130,2018-12-11 10:54:46.573838,Kasper
+97,/datc/ortho/Cat1_pat10_meting10_oef9.csv,0,16,190,2018-12-11 10:55:03.950210,Kasper
+98,/datc/ortho/Cat1_pat6_meting10_oef9.csv,0,20,100,2018-12-11 10:55:41.600985,Kasper
+99,/datc/ortho/Cat1_pat8_meting10_oef9.csv,0,10,300,2018-12-11 10:56:00.758092,Kasper
+100,/datc/ortho/Cat1_pat11_meting10_oef9.csv,0,10,81,2018-12-11 10:57:50.609874,Kasper
+101,/datc/ortho/Cat1_pat21_meting10_oef9.csv,0,2,69,2018-12-11 10:58:07.986951,Kasper
+102,/datc/ortho/Cat1_pat2_meting10_oef9.csv,0,15,105,2018-12-11 10:58:48.401204,Kasper
+103,/datc/ortho/Cat1_pat4_meting10_oef9.csv,0,16,168,2018-12-11 10:59:11.079827,Kasper
+104,/datc/ortho/Cat1_pat15_meting10_oef9.csv,0,16,110,2018-12-11 10:59:27.526557,Kasper
+105,/datc/ortho/Cat1_pat29_meting10_oef9.csv,0,5,134,2018-12-11 10:59:42.618436,Kasper
+106,/datc/ortho/Cat1_pat26_meting10_oef9.csv,0,6,240,2018-12-11 11:00:06.557038,Kasper
+107,/datc/ortho/Cat1_pat5_meting10_oef9.csv,0,5,110,2018-12-11 11:00:20.538933,Kasper
+108,/datc/ortho/Cat1_pat20_meting10_oef9.csv,0,0,80,2018-12-11 11:00:48.974594,Kasper
+109,/datc/ortho/Cat1_pat12_meting10_oef9.csv,0,4,120,2018-12-11 11:06:53.948474,Kasper
+110,/datc/ortho/Cat1_pat19_meting10_oef9.csv,0,3,78,2018-12-11 11:07:07.644685,Kasper
+111,/datc/ortho/Cat1_pat1_meting10_oef9.csv,0,2,95,2018-12-11 11:08:48.403245,Kasper
+112,/datc/ortho/Cat1_pat14_meting10_oef9.csv,0,0,103,2018-12-11 11:09:15.941157,Kasper
+113,/datc/ortho/Cat1_pat13_meting10_oef9.csv,0,3,64,2018-12-11 11:09:30.013466,Kasper
+114,/datc/ortho/Cat1_pat16_meting10_oef9.csv,0,6,90,2018-12-11 11:09:42.291741,Kasper
+115,/datc/ortho/Cat1_pat17_meting10_oef9.csv,0,3,130,2018-12-11 11:09:57.056070,Kasper
+116,/datc/ortho/Cat1_pat18_meting10_oef9.csv,0,6,68,2018-12-11 11:10:11.846012,Kasper
+117,/datc/ortho/Cat1_pat27_meting10_oef9.csv,0,3,100,2018-12-11 11:10:21.141477,Kasper
+118,/datc/ortho/Cat1_pat30_meting10_oef9.csv,0,8,100,2018-12-11 11:10:40.617120,Kasper
+119,/datc/ortho/Cat1_pat22_meting10_oef9.csv,0,4,134,2018-12-11 11:10:56.077634,Kasper
+120,/datc/ortho/Cat1_pat23_meting10_oef9.csv,0,13,107,2018-12-11 11:11:14.914024,Kasper
+121,/datc/ortho/Cat1_pat24_meting10_oef9.csv,0,18,180,2018-12-11 11:11:29.980050,Kasper
+122,/datc/ortho/Cat1_pat1_meting10_oef10.csv,0,0,71,2018-12-11 11:13:29.269753,Kasper
+123,/datc/ortho/Cat1_pat5_meting10_oef10.csv,0,6,90,2018-12-11 11:14:05.666808,Kasper
+124,/datc/ortho/Cat1_pat13_meting10_oef10.csv,0,1,73,2018-12-11 11:14:20.793862,Kasper
+125,/datc/ortho/Cat1_pat3_meting10_oef10.csv,0,3,56,2018-12-11 11:14:44.874075,Kasper
+126,/datc/ortho/Cat1_pat21_meting10_oef10.csv,0,1,70,2018-12-11 11:14:56.936000,Kasper
+127,/datc/ortho/Cat1_pat15_meting10_oef10.csv,0,14,110,2018-12-11 11:15:09.736891,Kasper
+128,/datc/ortho/Cat1_pat8_meting10_oef10.csv,0,0,150,2018-12-11 11:15:22.885628,Kasper
+129,/datc/ortho/Cat1_pat4_meting10_oef10.csv,0,20,120,2018-12-11 11:15:34.955181,Kasper
+130,/datc/ortho/Cat1_pat2_meting10_oef10.csv,0,0,100,2018-12-11 11:16:16.608705,Kasper
+131,/datc/ortho/Cat1_pat27_meting10_oef10.csv,0,1,76,2018-12-11 11:16:27.365516,Kasper
+132,/datc/ortho/Cat1_pat10_meting10_oef10.csv,0,3,100,2018-12-11 11:17:10.087948,Kasper
+133,/datc/ortho/Cat1_pat17_meting10_oef10.csv,0,3,91,2018-12-11 11:17:28.637012,Kasper
+134,/datc/ortho/Cat1_pat14_meting10_oef10.csv,0,3,95,2018-12-11 11:17:41.685443,Kasper
+135,/datc/ortho/Cat1_pat16_meting10_oef10.csv,0,1,120,2018-12-11 11:18:07.660191,Kasper
+136,/datc/ortho/Cat1_pat11_meting10_oef10.csv,0,6,103,2018-12-11 11:18:41.259167,Kasper
+137,/datc/ortho/Cat1_pat6_meting10_oef10.csv,0,2,89,2018-12-11 11:19:56.998716,Kasper
+138,/datc/ortho/Cat1_pat12_meting10_oef10.csv,0,2,86,2018-12-11 11:20:09.888203,Kasper
+139,/datc/ortho/Cat1_pat19_meting10_oef10.csv,0,1,104,2018-12-11 11:20:39.056314,Kasper
+140,/datc/ortho/Cat1_pat18_meting10_oef10.csv,0,10,90,2018-12-11 11:20:58.107284,Kasper
+141,/datc/ortho/Cat1_pat26_meting10_oef10.csv,0,1,97,2018-12-11 11:21:21.498545,Kasper
+142,/datc/ortho/Cat1_pat22_meting10_oef10.csv,0,2,98,2018-12-11 11:21:33.140878,Kasper
+143,/datc/ortho/Cat1_pat29_meting10_oef10.csv,0,1,111,2018-12-11 11:21:42.399282,Kasper
+144,/datc/ortho/Cat1_pat7_meting10_oef10.csv,0,6,111,2018-12-11 11:22:39.547435,Kasper
+145,/datc/ortho/Cat1_pat23_meting10_oef10.csv,0,6,110,2018-12-11 11:23:06.986369,Kasper
+146,/datc/ortho/Cat1_pat24_meting10_oef10.csv,0,3,111,2018-12-11 11:23:54.274867,Kasper
+147,/datc/ortho/Cat1_pat20_meting10_oef10.csv,0,2,111,2018-12-11 11:24:06.551962,Kasper
+148,/datc/ortho/Cat1_pat17_meting10_oef11.csv,0,7,85,2018-12-11 11:26:07.704135,Kasper
+149,/datc/ortho/Cat1_pat7_meting10_oef11.csv,0,10,105,2018-12-11 11:26:41.833501,Kasper
+150,/datc/ortho/Cat1_pat2_meting10_oef11.csv,0,3,70,2018-12-11 11:27:04.954511,Kasper
+151,/datc/ortho/Cat1_pat21_meting10_oef11.csv,0,2,68,2018-12-11 11:27:37.584244,Kasper
+152,/datc/ortho/Cat1_pat15_meting10_oef11.csv,0,4,103,2018-12-11 11:28:05.339644,Kasper
+153,/datc/ortho/Cat1_pat20_meting10_oef11.csv,0,4,70,2018-12-11 11:30:16.825763,Kasper
+154,/datc/ortho/Cat1_pat14_meting10_oef11.csv,0,2,106,2018-12-11 11:30:30.704051,Kasper
+155,/datc/ortho/Cat1_pat6_meting10_oef11.csv,0,0,97,2018-12-11 11:30:44.494406,Kasper
+156,/datc/ortho/Cat1_pat1_meting10_oef11.csv,0,0,100,2018-12-11 11:30:54.715772,Kasper
+157,/datc/ortho/Cat1_pat11_meting10_oef11.csv,0,8,81,2018-12-11 11:31:17.240239,Kasper
+158,/datc/ortho/Cat1_pat24_meting10_oef11.csv,0,3,100,2018-12-11 11:31:37.178288,Kasper
+159,/datc/ortho/Cat1_pat22_meting10_oef11.csv,0,1,90,2018-12-11 11:31:45.418921,Kasper
+160,/datc/ortho/Cat1_pat29_meting10_oef11.csv,0,2,100,2018-12-11 11:31:55.295171,Kasper
+161,/datc/ortho/Cat1_pat23_meting10_oef11.csv,0,5,94,2018-12-11 11:32:14.368992,Kasper
+162,/datc/ortho/Cat1_pat16_meting10_oef11.csv,0,7,100,2018-12-11 11:32:34.581066,Kasper
+163,/datc/ortho/Cat1_pat18_meting10_oef11.csv,0,9,80,2018-12-11 11:32:51.542437,Kasper
+164,/datc/ortho/Cat1_pat19_meting10_oef11.csv,0,4,85,2018-12-11 11:33:02.894200,Kasper
+165,/datc/ortho/Cat1_pat26_meting10_oef11.csv,0,1,98,2018-12-11 11:33:16.103682,Kasper
+166,/datc/ortho/Cat1_pat5_meting10_oef11.csv,0,3,90,2018-12-11 11:33:39.422791,Kasper
+167,/datc/ortho/Cat1_pat8_meting10_oef11.csv,0,2,140,2018-12-11 11:33:55.724887,Kasper
+168,/datc/ortho/Cat1_pat3_meting10_oef11.csv,0,2,64,2018-12-11 11:34:05.086156,Kasper
+169,/datc/ortho/Cat1_pat13_meting10_oef11.csv,0,5,67,2018-12-11 11:34:21.934435,Kasper
+170,/datc/ortho/Cat1_pat10_meting10_oef11.csv,0,5,80,2018-12-11 11:34:33.065053,Kasper
+171,/datc/ortho/Cat1_pat27_meting10_oef11.csv,0,4,90,2018-12-11 11:34:45.142862,Kasper
+172,/datc/ortho/Cat1_pat12_meting10_oef11.csv,0,1,70,2018-12-11 11:35:31.517616,Kasper
+173,/datc/ortho/Cat1_pat4_meting10_oef11.csv,0,15,117,2018-12-11 11:37:39.111427,Kasper
+174,/datc/ortho/Cat4_pat20_meting1_oef8.csv,0,2,70,2018-12-11 11:49:59.097570,Kasper
+175,/datc/ortho/Cat4_pat23_meting1_oef9.csv,0,5,32,2018-12-11 11:50:35.081727,Kasper
+176,/datc/ortho/Cat4_pat20_meting1_oef9.csv,0,2,70,2018-12-11 11:50:45.336864,Kasper
+177,/datc/ortho/Cat4_pat17_meting1_oef10.csv,0,5,53,2018-12-11 11:52:23.682369,Kasper
+178,/datc/ortho/Cat4_pat23_meting1_oef10.csv,0,3,30,2018-12-11 11:52:35.121442,Kasper
+179,/datc/ortho/Cat4_pat6_meting2_oef10.csv,0,2,23,2018-12-11 11:52:46.786346,Kasper
+180,/datc/ortho/Cat4_pat11_meting2_oef10.csv,0,8,41,2018-12-11 11:52:57.635790,Kasper
+181,/datc/ortho/Cat4_pat15_meting2_oef10.csv,0,2,18,2018-12-11 11:53:13.707510,Kasper
+182,/datc/ortho/Cat4_pat6_meting1_oef10.csv,0,2,41,2018-12-11 11:53:25.625977,Kasper
+183,/datc/ortho/Cat4_pat14_meting2_oef10.csv,0,1,35,2018-12-11 11:54:00.394224,Kasper
+184,/datc/ortho/Cat4_pat11_meting1_oef10.csv,0,4,40,2018-12-11 11:54:12.758161,Kasper
+185,/datc/ortho/Cat4_pat23_meting2_oef10.csv,0,1,18,2018-12-11 11:54:25.307525,Kasper
+186,/datc/ortho/Cat4_pat17_meting2_oef10.csv,0,1,41,2018-12-11 11:54:53.504721,Kasper
+187,/datc/ortho/Cat4_pat15_meting1_oef10.csv,0,3,28,2018-12-11 11:55:08.496783,Kasper
+188,/datc/ortho/Cat4_pat14_meting1_oef10.csv,0,5,51,2018-12-11 11:55:19.395020,Kasper
+189,/datc/ortho/Cat4_pat20_meting1_oef10.csv,0,3,51,2018-12-11 11:55:30.926052,Kasper
+190,/datc/ortho/Cat4_pat12_meting2_oef10.csv,0,1,32,2018-12-11 11:55:54.567594,Kasper
+191,/datc/ortho/Cat4_pat14_meting2_oef11.csv,0,2,35,2018-12-11 11:58:01.824213,Kasper
+192,/datc/ortho/Cat4_pat6_meting2_oef11.csv,0,3,22,2018-12-11 11:58:13.406036,Kasper
+193,/datc/ortho/Cat4_pat20_meting1_oef11.csv,0,2,40,2018-12-11 11:58:23.650655,Kasper
+194,/datc/ortho/Cat4_pat24_meting1_oef11.csv,0,2,26,2018-12-11 11:58:36.553279,Kasper
+195,/datc/ortho/Cat4_pat14_meting1_oef11.csv,0,3,48,2018-12-11 11:58:57.212631,Kasper
+196,/datc/ortho/Cat4_pat23_meting2_oef11.csv,0,1,18,2018-12-11 11:59:08.629076,Kasper
+197,/datc/ortho/Cat4_pat12_meting1_oef11.csv,0,4,41,2018-12-11 11:59:27.344861,Kasper
+198,/datc/ortho/Cat4_pat20_meting2_oef11.csv,0,1,41,2018-12-11 11:59:35.415469,Kasper
+199,/datc/ortho/Cat4_pat17_meting1_oef11.csv,0,6,99,2018-12-11 11:59:51.667597,Kasper
+200,/datc/ortho/Cat4_pat17_meting2_oef11.csv,0,0,100,2018-12-11 12:00:06.356135,Kasper
+201,/datc/ortho/Cat4_pat6_meting1_oef11.csv,0,1,31,2018-12-11 12:00:18.061212,Kasper
+202,/datc/ortho/Cat4_pat23_meting1_oef11.csv,0,1,23,2018-12-11 12:00:29.236946,Kasper
+203,/datc/ortho/Cat4_pat11_meting2_oef11.csv,0,0,28,2018-12-11 12:01:04.249432,Kasper
+204,/datc/ortho/Cat4_pat15_meting2_oef11.csv,0,2,20,2018-12-11 12:01:13.533250,Kasper
+205,/datc/ortho/Cat4_pat12_meting2_oef11.csv,0,0,24,2018-12-11 12:01:28.818176,Kasper
+206,/datc/ortho/Cat4_pat24_meting2_oef11.csv,0,1,35,2018-12-11 12:01:43.255809,Kasper
+207,/datc/ortho/Cat4_pat20_meting1_oef12.csv,0,3,51,2018-12-11 12:02:16.217553,Kasper
+208,/datc/ortho/Cat4_pat23_meting1_oef12.csv,0,3,31,2018-12-11 12:02:25.426475,Kasper
+209,/datc/ortho/Cat4_pat6_meting1_oef12.csv,0,6,51,2018-12-11 12:02:35.412871,Kasper
+210,/datc/ortho/Cat4_pat6_meting1_oef13.csv,0,8,47,2018-12-11 12:05:05.797746,Kasper
+211,/datc/ortho/Cat4_pat20_meting1_oef13.csv,0,2,444,2018-12-11 12:05:21.235376,Kasper
+212,/datc/ortho/Cat4_pat23_meting1_oef13.csv,0,1,17,2018-12-11 12:05:37.743524,Kasper
+213,/datc/ortho/Cat4_pat12_meting2_oef14.csv,0,1,16,2018-12-11 12:06:42.513894,Kasper
+214,/datc/ortho/Cat4_pat17_meting1_oef14.csv,0,3,48,2018-12-11 12:06:58.434936,Kasper
+215,/datc/ortho/Cat4_pat24_meting1_oef14.csv,0,1,31,2018-12-11 12:07:14.185457,Kasper
+216,/datc/ortho/Cat4_pat14_meting2_oef14.csv,0,12,27,2018-12-11 12:07:52.908024,Kasper
+217,/datc/ortho/Cat4_pat11_meting2_oef14.csv,0,1,31,2018-12-11 12:08:02.034822,Kasper
+218,/datc/ortho/Cat4_pat23_meting1_oef14.csv,0,1,37,2018-12-11 12:08:17.673083,Kasper
+219,/datc/ortho/Cat4_pat23_meting2_oef14.csv,0,2,31,2018-12-11 12:08:28.414299,Kasper
+220,/datc/ortho/Cat4_pat17_meting2_oef14.csv,0,0,333,2018-12-11 12:08:40.173284,Kasper
+221,/datc/ortho/Cat4_pat14_meting1_oef14.csv,0,3,37,2018-12-11 12:08:56.195282,Kasper
+222,/datc/ortho/Cat4_pat12_meting1_oef14.csv,0,4,51,2018-12-11 12:09:18.833482,Kasper
+223,/datc/ortho/Cat4_pat20_meting2_oef14.csv,0,1,41,2018-12-11 12:09:27.143938,Kasper
+224,/datc/ortho/Cat4_pat20_meting1_oef14.csv,0,2,42,2018-12-11 12:09:41.111048,Kasper
+225,/datc/ortho/Cat4_pat11_meting1_oef14.csv,0,5,51,2018-12-11 12:10:01.523488,Kasper
+226,/datc/ortho/Cat4_pat24_meting2_oef14.csv,0,1,35,2018-12-11 12:10:14.252043,Kasper
+227,/datc/ortho/Cat4_pat6_meting2_oef14.csv,0,1,23,2018-12-11 12:10:48.441511,Kasper
+228,/datc/ortho/Cat4_pat15_meting2_oef14.csv,0,2,24,2018-12-11 12:11:17.865934,Kasper
+229,/datc/ortho/Cat4_pat15_meting1_oef14.csv,0,1,19,2018-12-11 12:11:59.398776,Kasper
+230,/datc/ortho/Cat4_pat12_meting2_oef15.csv,0,0,15,2018-12-11 12:14:17.136627,Kasper
+231,/datc/ortho/Cat4_pat24_meting1_oef15.csv,0,1,27,2018-12-11 12:14:47.617938,Kasper
+232,/datc/ortho/Cat4_pat6_meting2_oef15.csv,0,2,24,2018-12-11 12:15:27.076332,Kasper
+233,/datc/ortho/Cat4_pat15_meting2_oef15.csv,0,6,32,2018-12-11 12:15:56.595729,Kasper
+234,/datc/ortho/Cat4_pat24_meting2_oef15.csv,0,1,43,2018-12-11 12:16:16.769794,Kasper
+235,/datc/ortho/Cat4_pat17_meting1_oef15.csv,0,5,56,2018-12-11 12:16:31.594646,Kasper
+236,/datc/ortho/Cat4_pat20_meting1_oef15.csv,0,1,41,2018-12-11 12:16:42.745550,Kasper
+237,/datc/ortho/Cat4_pat11_meting2_oef15.csv,0,0,18,2018-12-11 12:16:55.531632,Kasper
+238,/datc/ortho/Cat4_pat23_meting1_oef15.csv,0,4,26,2018-12-11 12:17:15.900856,Kasper
+239,/datc/ortho/Cat4_pat20_meting2_oef15.csv,0,3,48,2018-12-11 12:17:31.324591,Kasper
+240,/datc/ortho/Cat4_pat12_meting1_oef15.csv,0,1,30,2018-12-11 12:17:58.757818,Kasper
+241,/datc/ortho/Cat4_pat23_meting2_oef15.csv,0,1,20,2018-12-11 12:18:08.389582,Kasper
+242,/datc/ortho/Cat4_pat14_meting2_oef15.csv,21,5,37,2018-12-11 12:19:05.833298,Kasper
+243,/datc/ortho/Cat4_pat17_meting2_oef15.csv,0,2,66,2018-12-11 12:20:57.757820,Kasper
+244,/datc/ortho/Cat4_pat14_meting1_oef15.csv,0,4,55,2018-12-11 12:21:09.547333,Kasper
+245,/datc/ortho/Cat4_pat20_meting1_oef16.csv,0,4,44,2018-12-11 12:24:30.185426,Kasper
+246,/datc/ortho/Cat4_pat23_meting1_oef16.csv,0,1,23,2018-12-11 12:25:00.185826,Kasper
+247,/datc/ortho/Cat4_pat20_meting1_oef17.csv,0,3,40,2018-12-11 12:25:28.793343,Kasper
+248,/datc/ortho/Cat4_pat23_meting1_oef17.csv,0,2,25,2018-12-11 12:25:41.895623,Kasper
+249,/datc/ortho/Cat4_pat20_meting2_oef18.csv,0,0,41,2018-12-11 12:26:46.841480,Kasper
+250,/datc/ortho/Cat4_pat6_meting2_oef18.csv,0,1,26,2018-12-11 12:27:00.147355,Kasper
+251,/datc/ortho/Cat4_pat23_meting1_oef18.csv,0,0,20,2018-12-11 12:27:34.520678,Kasper
+252,/datc/ortho/Cat4_pat23_meting2_oef18.csv,0,0,26,2018-12-11 12:28:10.431996,Kasper
+253,/datc/ortho/Cat4_pat15_meting1_oef18.csv,0,3,26,2018-12-11 12:28:24.211875,Kasper
+254,/datc/ortho/Cat4_pat14_meting1_oef18.csv,0,0,60,2018-12-11 12:28:54.277190,Kasper
+255,/datc/ortho/Cat4_pat12_meting2_oef18.csv,0,1,34,2018-12-11 12:29:18.059693,Kasper
+256,/datc/ortho/Cat4_pat11_meting2_oef18.csv,0,0,22,2018-12-11 12:29:51.421681,Kasper
+257,/datc/ortho/Cat4_pat20_meting1_oef18.csv,0,1,34,2018-12-11 12:30:07.199134,Kasper
+258,/datc/ortho/Cat4_pat12_meting1_oef18.csv,0,0,28,2018-12-11 12:30:37.328021,Kasper
+259,/datc/ortho/Cat4_pat24_meting2_oef18.csv,0,0,44,2018-12-11 12:31:05.396394,Kasper
+260,/datc/ortho/Cat4_pat24_meting1_oef18.csv,0,2,33,2018-12-11 12:33:05.545797,Kasper
+261,/datc/ortho/Cat4_pat14_meting2_oef18.csv,0,0,30,2018-12-11 12:33:32.445339,Kasper
+262,/datc/ortho/Cat4_pat17_meting1_oef18.csv,0,0,47,2018-12-11 12:34:05.451968,Kasper
+263,/datc/ortho/Cat4_pat17_meting2_oef18.csv,0,12,111,2018-12-11 12:34:48.653359,Kasper
+264,/datc/ortho/Cat4_pat11_meting1_oef18.csv,0,4,32,2018-12-11 12:35:09.285891,Kasper
+265,/datc/ortho/Cat4_pat15_meting2_oef18.csv,0,0,32,2018-12-11 12:36:02.928261,Kasper
+266,/datc/ortho/Cat4_pat6_meting1_oef18.csv,0,2,31,2018-12-11 12:36:16.423461,Kasper
+267,/datc/ortho/Cat4_pat15_meting2_oef19.csv,0,0,31,2018-12-11 12:37:07.145891,Kasper
+268,/datc/ortho/Cat4_pat23_meting1_oef19.csv,0,5,22,2018-12-11 12:37:22.122700,Kasper
+269,/datc/ortho/Cat4_pat17_meting2_oef19.csv,0,0,411,2018-12-11 12:37:35.076983,Kasper
+270,/datc/ortho/Cat4_pat20_meting1_oef19.csv,0,7,46,2018-12-11 12:37:53.452983,Kasper
+271,/datc/ortho/Cat4_pat14_meting2_oef19.csv,0,4,36,2018-12-11 12:38:08.320251,Kasper
+272,/datc/ortho/Cat4_pat17_meting1_oef19.csv,0,3,111,2018-12-11 12:38:19.475380,Kasper
+273,/datc/ortho/Cat4_pat12_meting2_oef19.csv,0,0,31,2018-12-11 12:38:28.093343,Kasper
+274,/datc/ortho/Cat4_pat24_meting2_oef19.csv,0,0,35,2018-12-11 12:39:03.100779,Kasper
+275,/datc/ortho/Cat4_pat6_meting1_oef19.csv,0,1,41,2018-12-11 12:39:18.026760,Kasper
+276,/datc/ortho/Cat4_pat23_meting2_oef19.csv,0,3,22,2018-12-11 12:39:34.398535,Kasper
+277,/datc/ortho/Cat4_pat24_meting1_oef19.csv,0,1,25,2018-12-11 12:39:52.666472,Kasper
+278,/datc/ortho/Cat4_pat20_meting2_oef19.csv,0,1,38,2018-12-11 12:40:17.217977,Kasper
+279,/datc/ortho/Cat4_pat14_meting1_oef19.csv,0,2,45,2018-12-11 12:40:49.303497,Kasper
+280,/datc/ortho/Cat4_pat12_meting1_oef19.csv,0,2,31,2018-12-11 12:41:06.584737,Kasper
+281,/datc/ortho/Cat4_pat11_meting2_oef19.csv,0,2,22,2018-12-11 12:41:17.345360,Kasper
+282,/datc/ortho/Cat4_pat23_meting1_oef20.csv,0,0,19,2018-12-11 12:42:04.884453,Kasper
+283,/datc/ortho/Cat4_pat20_meting1_oef20.csv,0,4,36,2018-12-11 12:42:26.954671,Kasper
+284,/datc/ortho/Cat4_pat20_meting1_oef21.csv,0,1,34,2018-12-11 12:42:54.034107,Kasper
+285,/datc/ortho/Cat4_pat23_meting1_oef21.csv,0,2,23,2018-12-11 12:43:10.970141,Kasper
+286,/datc/ortho/Cat4_pat12_meting2_oef22.csv,42,31,51,2018-12-11 12:45:47.014102,Kasper
+287,/datc/ortho/Cat4_pat23_meting1_oef22.csv,28,8,48,2018-12-11 12:46:21.095440,Kasper
+288,/datc/ortho/Cat4_pat20_meting1_oef22.csv,0,85,105,2018-12-11 12:47:14.046120,Kasper
+289,/datc/ortho/Cat4_pat11_meting1_oef22.csv,79,67,99,2018-12-11 12:49:02.700142,Kasper
+290,/datc/ortho/Cat4_pat6_meting1_oef22.csv,0,0,130,2018-12-11 12:49:31.708075,Kasper
+291,/datc/ortho/Cat4_pat15_meting1_oef22.csv,77,62,93,2018-12-11 12:50:50.745456,Kasper
+292,/datc/ortho/Cat4_pat20_meting2_oef22.csv,62,40,80,2018-12-11 12:51:36.336473,Kasper
+293,/datc/ortho/Cat4_pat11_meting2_oef22.csv,60,51,72,2018-12-11 12:52:08.519517,Kasper
+294,/datc/ortho/Cat4_pat14_meting2_oef22.csv,65,51,81,2018-12-11 12:52:49.822974,Kasper
+295,/datc/ortho/Cat4_pat23_meting2_oef22.csv,41,23,61,2018-12-11 12:54:27.524075,Kasper
+296,/datc/ortho/Cat4_pat24_meting2_oef22.csv,43,3,111,2018-12-11 12:55:17.158936,Kasper
+297,/datc/ortho/Cat4_pat15_meting2_oef22.csv,91,74,110,2018-12-11 12:55:58.728192,Kasper
+298,/datc/ortho/Cat4_pat6_meting2_oef22.csv,0,5,24,2018-12-11 12:57:30.918661,Kasper
+299,/datc/ortho/Cat4_pat17_meting2_oef22.csv,0,39,67,2018-12-11 12:58:20.786720,Kasper
+300,/datc/ortho/Cat4_pat24_meting1_oef22.csv,0,1,24,2018-12-11 12:59:53.426887,Kasper
+301,/datc/ortho/Cat4_pat17_meting1_oef22.csv,138,118,160,2018-12-11 13:01:11.006762,Kasper
+302,/datc/ortho/Cat4_pat12_meting1_oef22.csv,84,67,100,2018-12-11 13:01:31.111444,Kasper
+0,/datc/ortho/Cat4_pat6_meting1_oef8.csv,0,5,34,2018-12-10 17:28:22.353560,Luke
+1,/datc/ortho/Cat2_pat36_meting10_oef4.csv,0,1,175,2018-12-11 09:58:22.333208,Rogier
+2,/datc/ortho/Cat2_pat8_meting20_oef4.csv,0,1,86,2018-12-11 10:00:21.017421,Rogier
+3,/datc/ortho/Cat2_pat10_meting20_oef4.csv,0,1,110,2018-12-11 10:00:35.324885,Rogier
+4,/datc/ortho/Cat2_pat21_meting10_oef4.csv,159,93,240,2018-12-11 10:02:05.954401,Rogier
+5,/datc/ortho/Cat2_pat4_meting20_oef4.csv,0,11,156,2018-12-11 10:03:22.073219,Rogier
+6,/datc/ortho/Cat2_pat31_meting20_oef4.csv,0,1,42,2018-12-11 10:03:55.796501,Rogier
+7,/datc/ortho/Cat2_pat30_meting10_oef4.csv,42,1,86,2018-12-11 10:04:54.634564,Rogier
+8,/datc/ortho/Cat2_pat25_meting20_oef4.csv,0,1,69,2018-12-11 10:22:55.257731,Rogier
+9,/datc/ortho/Cat2_pat22_meting20_oef4.csv,0,53,185,2018-12-11 10:23:27.974168,Rogier
+10,/datc/ortho/Cat2_pat37_meting10_oef4.csv,0,3,150,2018-12-11 10:23:56.288572,Rogier
+11,/datc/ortho/Cat2_pat6_meting20_oef4.csv,0,15,138,2018-12-11 10:24:28.855265,Rogier
+12,/datc/ortho/Cat2_pat35_meting10_oef4.csv,0,4,78,2018-12-11 10:28:59.203281,Rogier
+13,/datc/ortho/Cat2_pat17_meting10_oef4.csv,266,11,470,2018-12-11 10:30:46.525439,Rogier
+14,/datc/ortho/Cat2_pat22_meting10_oef4.csv,52,3,105,2018-12-11 10:33:08.760799,Rogier
+15,/datc/ortho/Cat2_pat28_meting10_oef4.csv,103,1,173,2018-12-11 10:33:43.871849,Rogier
+16,/datc/ortho/Cat2_pat4_meting10_oef4.csv,122,1,250,2018-12-11 10:34:06.067763,Rogier
+17,/datc/ortho/Cat2_pat7_meting10_oef4.csv,198,1,340,2018-12-11 10:34:25.260392,Rogier
+18,/datc/ortho/Cat2_pat3_meting20_oef4.csv,0,1,105,2018-12-11 10:34:51.579854,Rogier
+19,/datc/ortho/Cat2_pat25_meting10_oef4.csv,120,1,230,2018-12-11 10:54:37.922074,Rogier
+20,/datc/ortho/Cat2_pat30_meting20_oef4.csv,0,3,75,2018-12-11 10:55:09.703707,Rogier
+21,/datc/ortho/Cat2_pat20_meting10_oef4.csv,0,5,465,2018-12-11 10:56:02.920929,Rogier
+22,/datc/ortho/Cat2_pat32_meting20_oef4.csv,0,1,140,2018-12-11 10:57:32.657453,Rogier
+23,/datc/ortho/Cat2_pat9_meting10_oef4.csv,98,3,160,2018-12-11 10:58:04.008554,Rogier
+24,/datc/ortho/Cat2_pat34_meting10_oef4.csv,133,5,220,2018-12-11 11:00:28.481479,Rogier
+25,/datc/ortho/Cat2_pat3_meting10_oef4.csv,225,150,300,2018-12-11 11:01:14.927531,Rogier
+26,/datc/ortho/Cat2_pat31_meting10_oef4.csv,62,1,123,2018-12-11 11:01:48.350585,Rogier
+27,/datc/ortho/Cat2_pat10_meting10_oef4.csv,138,40,205,2018-12-11 11:02:31.708107,Rogier
+28,/datc/ortho/Cat2_pat29_meting10_oef4.csv,103,5,180,2018-12-11 11:02:54.930120,Rogier
+29,/datc/ortho/Cat2_pat26_meting20_oef4.csv,1,1,135,2018-12-11 11:03:25.335309,Rogier
+30,/datc/ortho/Cat2_pat24_meting10_oef4.csv,227,20,360,2018-12-11 11:05:34.618795,Rogier
+31,/datc/ortho/Cat2_pat28_meting20_oef4.csv,0,7,60,2018-12-11 11:06:08.819209,Rogier
+32,/datc/ortho/Cat2_pat23_meting20_oef4.csv,0,1,100,2018-12-11 11:08:10.640409,Rogier
+33,/datc/ortho/Cat2_pat33_meting20_oef4.csv,0,1,120,2018-12-11 11:08:32.622913,Rogier
+34,/datc/ortho/Cat2_pat39_meting10_oef4.csv,0,1,115,2018-12-11 11:08:50.946187,Rogier
+35,/datc/ortho/Cat2_pat5_meting10_oef4.csv,105,30,170,2018-12-11 11:09:10.415112,Rogier
+36,/datc/ortho/Cat2_pat12_meting10_oef4.csv,125,5,195,2018-12-11 11:09:33.374295,Rogier
+37,/datc/ortho/Cat2_pat33_meting10_oef4.csv,55,1,107,2018-12-11 11:09:53.569291,Rogier
+38,/datc/ortho/Cat2_pat11_meting20_oef4.csv,0,1,85,2018-12-11 11:10:10.188977,Rogier
+39,/datc/ortho/Cat2_pat11_meting10_oef4.csv,42,3,78,2018-12-11 11:10:31.465128,Rogier
+40,/datc/ortho/Cat2_pat2_meting10_oef4.csv,180,70,265,2018-12-11 11:10:54.265499,Rogier
+41,/datc/ortho/Cat2_pat1_meting10_oef4.csv,89,5,153,2018-12-11 11:12:07.399025,Rogier
+42,/datc/ortho/Cat2_pat38_meting10_oef4.csv,0,10,100,2018-12-11 11:12:21.887115,Rogier
+43,/datc/ortho/Cat2_pat14_meting10_oef4.csv,250,5,510,2018-12-11 11:14:24.839394,Rogier
+44,/datc/ortho/Cat2_pat15_meting20_oef4.csv,0,2,87,2018-12-11 11:14:42.924209,Rogier
+45,/datc/ortho/Cat2_pat23_meting10_oef4.csv,80,1,175,2018-12-11 11:19:02.864616,Rogier
+46,/datc/ortho/Cat2_pat7_meting20_oef4.csv,0,1,130,2018-12-11 11:19:29.851498,Rogier
+47,/datc/ortho/Cat2_pat15_meting10_oef4.csv,104,10,175,2018-12-11 11:19:49.256140,Rogier
+48,/datc/ortho/Cat2_pat8_meting10_oef4.csv,150,1,219,2018-12-11 11:21:48.157776,Rogier
+49,/datc/ortho/Cat2_pat1_meting20_oef4.csv,0,10,95,2018-12-11 11:22:04.468146,Rogier
+50,/datc/ortho/Cat2_pat24_meting20_oef4.csv,0,1,150,2018-12-11 11:22:24.713294,Rogier
+51,/datc/ortho/Cat2_pat29_meting20_oef4.csv,0,3,119,2018-12-11 11:22:40.445579,Rogier
+52,/datc/ortho/Cat2_pat18_meting10_oef4.csv,79,1,156,2018-12-11 11:23:09.394530,Rogier
+53,/datc/ortho/Cat2_pat27_meting10_oef4.csv,0,1,180,2018-12-11 11:24:45.614227,Rogier
+54,/datc/ortho/Cat2_pat26_meting10_oef4.csv,63,15,115,2018-12-11 11:25:44.692642,Rogier
+55,/datc/ortho/Cat2_pat6_meting10_oef4.csv,182,5,270,2018-12-11 11:26:02.228589,Rogier
+56,/datc/ortho/Cat2_pat9_meting20_oef4.csv,0,10,190,2018-12-11 11:26:22.652949,Rogier
+57,/datc/ortho/Cat2_pat28_meting20_oef5.csv,0,10,95,2018-12-11 11:27:04.889996,Rogier
+58,/datc/ortho/Cat2_pat14_meting20_oef5.csv,0,5,120,2018-12-11 11:27:18.706020,Rogier
+59,/datc/ortho/Cat2_pat35_meting10_oef5.csv,0,1,75,2018-12-11 11:27:55.620926,Rogier
+60,/datc/ortho/Cat2_pat8_meting20_oef5.csv,0,1,78,2018-12-11 11:28:35.846585,Rogier
+61,/datc/ortho/Cat2_pat11_meting20_oef5.csv,0,1,77,2018-12-11 11:30:04.032929,Rogier
+62,/datc/ortho/Cat2_pat26_meting20_oef5.csv,0,1,90,2018-12-11 11:30:33.133877,Rogier
+63,/datc/ortho/Cat2_pat7_meting20_oef5.csv,0,1,105,2018-12-11 11:31:23.931548,Rogier
+64,/datc/ortho/Cat2_pat21_meting20_oef5.csv,0,1,70,2018-12-11 11:31:47.500426,Rogier
+65,/datc/ortho/Cat2_pat33_meting20_oef5.csv,0,1,105,2018-12-11 11:32:00.918395,Rogier
+66,/datc/ortho/Cat2_pat32_meting20_oef5.csv,0,1,148,2018-12-11 11:32:24.283663,Rogier
+67,/datc/ortho/Cat2_pat10_meting20_oef5.csv,0,1,117,2018-12-11 11:32:39.446870,Rogier
+68,/datc/ortho/Cat2_pat31_meting20_oef5.csv,0,1,50,2018-12-11 11:32:53.474946,Rogier
+69,/datc/ortho/Cat2_pat15_meting20_oef5.csv,0,5,85,2018-12-11 11:33:09.258545,Rogier
+70,/datc/ortho/Cat2_pat23_meting20_oef5.csv,0,1,95,2018-12-11 11:33:26.720674,Rogier
+71,/datc/ortho/Cat2_pat1_meting20_oef5.csv,0,1,70,2018-12-11 11:33:37.038755,Rogier
+72,/datc/ortho/Cat2_pat39_meting10_oef5.csv,0,10,125,2018-12-11 11:33:50.741184,Rogier
+73,/datc/ortho/Cat2_pat2_meting20_oef5.csv,0,5,110,2018-12-11 11:34:02.090355,Rogier
+74,/datc/ortho/Cat2_pat30_meting20_oef5.csv,0,1,95,2018-12-11 11:34:13.060196,Rogier
+75,/datc/ortho/Cat2_pat6_meting20_oef5.csv,0,13,138,2018-12-11 11:34:29.545935,Rogier
+76,/datc/ortho/Cat2_pat4_meting20_oef5.csv,0,4,115,2018-12-11 11:34:41.377182,Rogier
+77,/datc/ortho/Cat2_pat22_meting20_oef5.csv,0,5,120,2018-12-11 11:34:53.379772,Rogier
+78,/datc/ortho/Cat2_pat25_meting20_oef5.csv,0,1,67,2018-12-11 11:35:04.705191,Rogier
+79,/datc/ortho/Cat2_pat36_meting10_oef5.csv,0,1,160,2018-12-11 11:35:24.727173,Rogier
+80,/datc/ortho/Cat2_pat38_meting10_oef5.csv,0,5,90,2018-12-11 11:35:53.610875,Rogier
+81,/datc/ortho/Cat2_pat37_meting10_oef5.csv,0,1,145,2018-12-11 11:36:25.076841,Rogier
+82,/datc/ortho/Cat2_pat29_meting20_oef5.csv,0,1,110,2018-12-11 11:37:38.733510,Rogier
+83,/datc/ortho/Cat2_pat17_meting20_oef5.csv,0,1,140,2018-12-11 11:37:49.582211,Rogier
+84,/datc/ortho/Cat2_pat24_meting20_oef5.csv,0,10,140,2018-12-11 11:38:07.702559,Rogier
+85,/datc/ortho/Cat2_pat9_meting20_oef5.csv,0,15,150,2018-12-11 11:38:31.218766,Rogier
+86,/datc/ortho/Cat2_pat3_meting20_oef5.csv,0,1,115,2018-12-11 11:38:54.662768,Rogier
+87,/datc/ortho/Cat2_pat4_meting20_oef6.csv,0,1,140,2018-12-11 11:52:56.653032,Rogier
+88,/datc/ortho/Cat2_pat25_meting20_oef6.csv,0,1,80,2018-12-11 11:53:59.837168,Rogier
+89,/datc/ortho/Cat2_pat9_meting20_oef6.csv,0,1,120,2018-12-11 11:54:09.087831,Rogier
+90,/datc/ortho/Cat2_pat22_meting20_oef6.csv,77,1,122,2018-12-11 11:54:35.403553,Rogier
+91,/datc/ortho/Cat2_pat27_meting10_oef6.csv,103,3,175,2018-12-11 11:55:06.140426,Rogier
+92,/datc/ortho/Cat2_pat15_meting20_oef6.csv,0,3,160,2018-12-11 11:55:22.953542,Rogier
+93,/datc/ortho/Cat2_pat11_meting20_oef6.csv,0,1,55,2018-12-11 11:55:54.273664,Rogier
+94,/datc/ortho/Cat2_pat28_meting20_oef6.csv,0,1,80,2018-12-11 11:56:10.250539,Rogier
+95,/datc/ortho/Cat2_pat8_meting10_oef6.csv,130,5,205,2018-12-11 11:56:37.663686,Rogier
+96,/datc/ortho/Cat2_pat31_meting20_oef6.csv,21,1,45,2018-12-11 11:56:58.679094,Rogier
+97,/datc/ortho/Cat2_pat38_meting10_oef6.csv,0,1,100,2018-12-11 11:57:10.569174,Rogier
+98,/datc/ortho/Cat2_pat10_meting10_oef6.csv,99,1,205,2018-12-11 11:57:25.461568,Rogier
+99,/datc/ortho/Cat2_pat24_meting20_oef6.csv,0,1,110,2018-12-11 11:59:39.912700,Rogier
+100,/datc/ortho/Cat2_pat26_meting10_oef6.csv,155,20,210,2018-12-11 12:02:47.172323,Rogier
+101,/datc/ortho/Cat2_pat20_meting10_oef6.csv,0,170,320,2018-12-11 12:04:39.829623,Rogier
+102,/datc/ortho/Cat2_pat9_meting10_oef6.csv,0,150,275,2018-12-11 12:05:32.301966,Rogier
+103,/datc/ortho/Cat2_pat15_meting10_oef6.csv,0,75,200,2018-12-11 12:05:54.959698,Rogier
+104,/datc/ortho/Cat2_pat32_meting20_oef6.csv,0,1,135,2018-12-11 12:06:03.496873,Rogier
+105,/datc/ortho/Cat2_pat33_meting10_oef6.csv,0,1,130,2018-12-11 12:07:02.087416,Rogier
+106,/datc/ortho/Cat2_pat35_meting10_oef6.csv,0,1,85,2018-12-11 12:07:09.443043,Rogier
+107,/datc/ortho/Cat2_pat32_meting10_oef6.csv,0,60,146,2018-12-11 12:07:40.111664,Rogier
+108,/datc/ortho/Cat2_pat6_meting10_oef6.csv,103,1,188,2018-12-11 12:08:24.283348,Rogier
+109,/datc/ortho/Cat2_pat6_meting20_oef6.csv,0,1,145,2018-12-11 12:09:04.762682,Rogier
+110,/datc/ortho/Cat2_pat22_meting10_oef6.csv,50,1,86,2018-12-11 12:09:33.314427,Rogier
+111,/datc/ortho/Cat2_pat21_meting10_oef6.csv,177,1,270,2018-12-11 12:17:58.924856,Rogier
+112,/datc/ortho/Cat2_pat31_meting10_oef6.csv,85,22,153,2018-12-11 12:18:50.489564,Rogier
+113,/datc/ortho/Cat2_pat17_meting20_oef6.csv,0,1,100,2018-12-11 12:19:00.735774,Rogier
+114,/datc/ortho/Cat2_pat3_meting10_oef6.csv,0,1,130,2018-12-11 12:19:21.719330,Rogier
+115,/datc/ortho/Cat2_pat30_meting20_oef6.csv,0,1,119,2018-12-11 12:19:56.122263,Rogier
+116,/datc/ortho/Cat2_pat4_meting10_oef6.csv,0,1,220,2018-12-11 12:20:17.291838,Rogier
+117,/datc/ortho/Cat2_pat29_meting10_oef6.csv,135,1,240,2018-12-11 12:20:54.049213,Rogier
+118,/datc/ortho/Cat2_pat28_meting10_oef6.csv,0,80,240,2018-12-11 12:21:21.862347,Rogier
+119,/datc/ortho/Cat2_pat23_meting20_oef6.csv,0,1,130,2018-12-11 12:21:34.975964,Rogier
+120,/datc/ortho/Cat2_pat5_meting10_oef6.csv,0,30,180,2018-12-11 12:22:04.465664,Rogier
+121,/datc/ortho/Cat2_pat3_meting20_oef6.csv,0,1,105,2018-12-11 12:22:14.582156,Rogier
+122,/datc/ortho/Cat2_pat29_meting20_oef6.csv,0,1,120,2018-12-11 12:22:21.803398,Rogier
+123,/datc/ortho/Cat2_pat24_meting10_oef6.csv,155,10,260,2018-12-11 12:22:48.966206,Rogier
+124,/datc/ortho/Cat2_pat11_meting10_oef6.csv,0,1,80,2018-12-11 12:22:58.396823,Rogier
+125,/datc/ortho/Cat2_pat36_meting10_oef6.csv,0,1,145,2018-12-11 12:23:09.705920,Rogier
+126,/datc/ortho/Cat2_pat7_meting20_oef6.csv,0,1,120,2018-12-11 12:23:17.002785,Rogier
+127,/datc/ortho/Cat2_pat7_meting10_oef6.csv,0,110,193,2018-12-11 12:24:32.537779,Rogier
+128,/datc/ortho/Cat2_pat2_meting10_oef6.csv,0,10,115,2018-12-11 12:24:48.489379,Rogier
+129,/datc/ortho/Cat2_pat14_meting10_oef6.csv,190,0,340,2018-12-11 12:25:09.079680,Rogier
+130,/datc/ortho/Cat2_pat10_meting20_oef6.csv,0,1,120,2018-12-11 12:25:19.132699,Rogier
+131,/datc/ortho/Cat2_pat39_meting10_oef6.csv,0,1,55,2018-12-11 12:25:28.574764,Rogier
+132,/datc/ortho/Cat2_pat34_meting10_oef6.csv,170,1,320,2018-12-11 12:25:57.336858,Rogier
+133,/datc/ortho/Cat2_pat17_meting10_oef6.csv,205,1,370,2018-12-11 12:26:21.697321,Rogier
+134,/datc/ortho/Cat2_pat23_meting10_oef6.csv,170,80,248,2018-12-11 12:26:50.927438,Rogier
+135,/datc/ortho/Cat2_pat12_meting10_oef6.csv,160,50,240,2018-12-11 12:38:03.164049,Rogier
+136,/datc/ortho/Cat2_pat2_meting20_oef6.csv,62,5,150,2018-12-11 12:38:57.404527,Rogier
+137,/datc/ortho/Cat2_pat8_meting20_oef6.csv,0,1,85,2018-12-11 12:39:30.432052,Rogier
+138,/datc/ortho/Cat2_pat18_meting10_oef6.csv,0,35,165,2018-12-11 13:01:15.451376,Rogier
+139,/datc/ortho/Cat2_pat21_meting20_oef6.csv,0,1,70,2018-12-11 13:01:23.998139,Rogier
+140,/datc/ortho/Cat2_pat14_meting20_oef6.csv,0,1,120,2018-12-11 13:01:33.040894,Rogier
+141,/datc/ortho/Cat2_pat1_meting10_oef6.csv,0,1,45,2018-12-11 13:01:59.767972,Rogier
+142,/datc/ortho/Cat2_pat1_meting20_oef6.csv,0,1,37,2018-12-11 13:02:54.701321,Rogier
+143,/datc/ortho/Cat2_pat37_meting10_oef6.csv,0,1,100,2018-12-11 13:03:10.583129,Rogier
+144,/datc/ortho/Cat2_pat30_meting10_oef6.csv,0,1,70,2018-12-11 13:03:56.722197,Rogier
+145,/datc/ortho/Cat2_pat33_meting20_oef6.csv,0,1,85,2018-12-11 13:04:06.156214,Rogier
+146,/datc/ortho/Cat2_pat26_meting20_oef6.csv,0,40,90,2018-12-11 13:04:50.759709,Rogier
+147,/datc/ortho/Cat2_pat25_meting10_oef6.csv,0,70,195,2018-12-11 13:07:15.761910,Rogier
+148,/datc/ortho/Cat2_pat25_meting20_oef7.csv,0,1,65,2018-12-11 13:21:09.466856,Rogier
+149,/datc/ortho/Cat2_pat37_meting10_oef7.csv,0,1,90,2018-12-11 13:21:24.466763,Rogier
+150,/datc/ortho/Cat2_pat22_meting20_oef7.csv,0,1,70,2018-12-11 13:21:40.936976,Rogier
+151,/datc/ortho/Cat2_pat10_meting20_oef7.csv,0,10,105,2018-12-11 13:22:04.586468,Rogier
+152,/datc/ortho/Cat2_pat35_meting10_oef7.csv,0,1,70,2018-12-11 13:22:22.778549,Rogier
+153,/datc/ortho/Cat2_pat6_meting20_oef7.csv,0,5,110,2018-12-11 13:22:50.731253,Rogier
+154,/datc/ortho/Cat2_pat38_meting10_oef7.csv,0,5,100,2018-12-11 13:23:04.456398,Rogier
+155,/datc/ortho/Cat2_pat32_meting20_oef7.csv,0,10,140,2018-12-11 13:23:22.294840,Rogier
+156,/datc/ortho/Cat2_pat3_meting20_oef7.csv,0,1,110,2018-12-11 13:23:45.456235,Rogier
+157,/datc/ortho/Cat2_pat26_meting20_oef7.csv,0,1,110,2018-12-11 13:24:13.819759,Rogier
+158,/datc/ortho/Cat2_pat28_meting20_oef7.csv,0,11,80,2018-12-11 13:24:42.084344,Rogier
+159,/datc/ortho/Cat2_pat2_meting20_oef7.csv,0,10,95,2018-12-11 13:24:57.457370,Rogier
+160,/datc/ortho/Cat2_pat31_meting20_oef7.csv,0,23,45,2018-12-11 13:26:17.310373,Rogier
+161,/datc/ortho/Cat2_pat9_meting20_oef7.csv,0,1,90,2018-12-11 13:26:26.549170,Rogier
+162,/datc/ortho/Cat2_pat33_meting20_oef7.csv,0,1,80,2018-12-11 13:26:34.450099,Rogier
+163,/datc/ortho/Cat2_pat23_meting20_oef7.csv,0,1,75,2018-12-11 13:26:44.343060,Rogier
+164,/datc/ortho/Cat2_pat14_meting20_oef7.csv,0,1,120,2018-12-11 13:26:51.306645,Rogier
+165,/datc/ortho/Cat2_pat7_meting20_oef7.csv,80,20,100,2018-12-11 13:28:12.599734,Rogier
+166,/datc/ortho/Cat2_pat36_meting10_oef7.csv,0,1,120,2018-12-11 13:28:24.830880,Rogier
+167,/datc/ortho/Cat2_pat29_meting20_oef7.csv,0,0,85,2018-12-11 13:28:55.795431,Rogier
+168,/datc/ortho/Cat2_pat4_meting20_oef7.csv,0,1,100,2018-12-11 13:29:02.368356,Rogier
+169,/datc/ortho/Cat2_pat1_meting20_oef7.csv,0,1,40,2018-12-11 13:29:20.121732,Rogier
+170,/datc/ortho/Cat2_pat15_meting20_oef7.csv,0,1,105,2018-12-11 13:29:35.311516,Rogier
+171,/datc/ortho/Cat2_pat24_meting20_oef7.csv,0,1,100,2018-12-11 13:29:45.472682,Rogier
+172,/datc/ortho/Cat2_pat17_meting20_oef7.csv,0,1,90,2018-12-11 13:29:52.269171,Rogier
+173,/datc/ortho/Cat2_pat8_meting20_oef7.csv,50,30,75,2018-12-11 13:30:22.037426,Rogier
+174,/datc/ortho/Cat2_pat21_meting20_oef7.csv,0,1,41,2018-12-11 13:30:36.653082,Rogier
+175,/datc/ortho/Cat2_pat39_meting10_oef7.csv,0,1,43,2018-12-11 13:30:46.727342,Rogier
+176,/datc/ortho/Cat2_pat11_meting20_oef7.csv,0,30,60,2018-12-11 13:31:08.461910,Rogier
+177,/datc/ortho/Cat2_pat30_meting20_oef7.csv,0,1,55,2018-12-11 13:31:20.985529,Rogier
+178,/datc/ortho/Cat2_pat23_meting10_oef8.csv,0,120,210,2018-12-12 10:52:28.034005,Rogier
+179,/datc/ortho/Cat2_pat26_meting20_oef8.csv,40,40,115,2018-12-12 10:52:51.508355,Rogier
+180,/datc/ortho/Cat2_pat29_meting10_oef8.csv,0,125,230,2018-12-12 10:53:19.809211,Rogier
+181,/datc/ortho/Cat2_pat10_meting20_oef8.csv,0,35,100,2018-12-12 10:53:40.544317,Rogier
+182,/datc/ortho/Cat2_pat4_meting10_oef8.csv,94,30,145,2018-12-12 10:54:14.568875,Rogier
+183,/datc/ortho/Cat2_pat26_meting10_oef8.csv,0,75,175,2018-12-12 10:54:33.598449,Rogier
+184,/datc/ortho/Cat2_pat25_meting20_oef8.csv,0,25,80,2018-12-12 10:54:47.814154,Rogier
+185,/datc/ortho/Cat2_pat21_meting10_oef8.csv,0,70,170,2018-12-12 10:55:09.864548,Rogier
+186,/datc/ortho/Cat2_pat9_meting10_oef8.csv,90,60,110,2018-12-12 10:55:28.016441,Rogier
+187,/datc/ortho/Cat2_pat17_meting10_oef8.csv,0,100,225,2018-12-12 11:14:30.475309,Rogier
+188,/datc/ortho/Cat2_pat22_meting10_oef8.csv,0,40,75,2018-12-12 11:14:52.744185,Rogier
+189,/datc/ortho/Cat2_pat4_meting20_oef8.csv,35,35,105,2018-12-12 11:15:06.533465,Rogier
+190,/datc/ortho/Cat2_pat27_meting10_oef8.csv,0,80,160,2018-12-12 11:15:21.236542,Rogier
+191,/datc/ortho/Cat2_pat24_meting20_oef8.csv,0,75,180,2018-12-12 11:15:34.331049,Rogier
+192,/datc/ortho/Cat2_pat3_meting20_oef8.csv,0,20,110,2018-12-12 11:18:29.648803,Rogier
+193,/datc/ortho/Cat2_pat22_meting20_oef8.csv,0,25,75,2018-12-12 11:18:49.219490,Rogier
+194,/datc/ortho/Cat2_pat29_meting20_oef8.csv,0,30,100,2018-12-12 11:19:01.654976,Rogier
+195,/datc/ortho/Cat2_pat6_meting10_oef8.csv,0,100,175,2018-12-12 11:19:15.712393,Rogier
+196,/datc/ortho/Cat2_pat8_meting10_oef8.csv,0,140,280,2018-12-12 11:19:35.543513,Rogier
+197,/datc/ortho/Cat2_pat9_meting20_oef8.csv,0,30,105,2018-12-12 11:19:51.584885,Rogier
+198,/datc/ortho/Cat2_pat36_meting10_oef8.csv,0,70,150,2018-12-12 11:20:05.929364,Rogier
+199,/datc/ortho/Cat2_pat28_meting20_oef8.csv,0,20,65,2018-12-12 11:20:19.650806,Rogier
+200,/datc/ortho/Cat2_pat15_meting20_oef8.csv,0,70,190,2018-12-12 11:20:43.133573,Rogier
+201,/datc/ortho/Cat2_pat7_meting20_oef8.csv,0,30,150,2018-12-12 11:21:10.986658,Rogier
+202,/datc/ortho/Cat2_pat24_meting10_oef8.csv,0,140,275,2018-12-12 11:21:31.419676,Rogier
+203,/datc/ortho/Cat2_pat39_meting10_oef8.csv,0,18,66,2018-12-12 11:21:46.390754,Rogier
+204,/datc/ortho/Cat2_pat11_meting20_oef8.csv,0,20,103,2018-12-12 11:26:29.157738,Rogier
+205,/datc/ortho/Cat2_pat31_meting20_oef8.csv,0,17,53,2018-12-12 11:27:49.999413,Rogier
+206,/datc/ortho/Cat2_pat6_meting20_oef8.csv,0,50,140,2018-12-12 11:35:12.189510,Rogier
+207,/datc/ortho/Cat2_pat38_meting10_oef8.csv,0,30,98,2018-12-12 11:36:29.776546,Rogier
+208,/datc/ortho/Cat2_pat12_meting10_oef8.csv,0,80,140,2018-12-12 11:36:50.799094,Rogier
+209,/datc/ortho/Cat2_pat21_meting20_oef8.csv,0,25,66,2018-12-12 11:37:53.478773,Rogier
+210,/datc/ortho/Cat2_pat30_meting10_oef8.csv,0,50,100,2018-12-12 11:38:06.684595,Rogier
+211,/datc/ortho/Cat2_pat2_meting20_oef8.csv,0,30,100,2018-12-12 11:38:22.480548,Rogier
+212,/datc/ortho/Cat2_pat23_meting20_oef8.csv,0,22,85,2018-12-12 11:38:36.672329,Rogier
+213,/datc/ortho/Cat2_pat14_meting20_oef8.csv,0,30,110,2018-12-12 11:52:46.196617,Rogier
+214,/datc/ortho/Cat2_pat33_meting20_oef8.csv,0,30,90,2018-12-12 11:53:02.314537,Rogier
+215,/datc/ortho/Cat2_pat34_meting10_oef8.csv,0,155,330,2018-12-12 11:53:23.348673,Rogier
+216,/datc/ortho/Cat2_pat35_meting10_oef8.csv,0,11,55,2018-12-12 11:53:34.154192,Rogier
+217,/datc/ortho/Cat2_pat20_meting10_oef8.csv,0,120,230,2018-12-12 11:53:59.038864,Rogier
+218,/datc/ortho/Cat2_pat2_meting10_oef8.csv,0,60,120,2018-12-12 11:56:54.685341,Rogier
+219,/datc/ortho/Cat2_pat18_meting10_oef8.csv,0,90,160,2018-12-12 11:57:09.935952,Rogier
+220,/datc/ortho/Cat2_pat17_meting20_oef8.csv,0,20,110,2018-12-12 11:57:20.939904,Rogier
+221,/datc/ortho/Cat2_pat25_meting10_oef8.csv,0,100,240,2018-12-12 11:57:33.585285,Rogier
+222,/datc/ortho/Cat2_pat10_meting10_oef8.csv,0,60,135,2018-12-12 12:02:23.708379,Rogier
+223,/datc/ortho/Cat2_pat7_meting10_oef8.csv,145,40,260,2018-12-12 12:02:41.318678,Rogier
+224,/datc/ortho/Cat2_pat1_meting10_oef8.csv,0,50,110,2018-12-12 12:02:50.813109,Rogier
+225,/datc/ortho/Cat2_pat5_meting10_oef8.csv,0,100,220,2018-12-12 12:03:05.046926,Rogier
+226,/datc/ortho/Cat2_pat32_meting20_oef8.csv,0,55,170,2018-12-12 12:03:21.733428,Rogier
+227,/datc/ortho/Cat2_pat1_meting20_oef8.csv,0,20,74,2018-12-12 12:03:34.221493,Rogier
+228,/datc/ortho/Cat2_pat30_meting20_oef8.csv,90,1,145,2018-12-12 12:03:48.555580,Rogier
+229,/datc/ortho/Cat2_pat37_meting10_oef8.csv,0,40,140,2018-12-12 12:03:59.138244,Rogier
+230,/datc/ortho/Cat2_pat28_meting10_oef8.csv,0,120,215,2018-12-12 12:04:40.145470,Rogier
+231,/datc/ortho/Cat2_pat31_meting10_oef8.csv,0,60,145,2018-12-12 12:06:19.916075,Rogier
+232,/datc/ortho/Cat2_pat33_meting10_oef8.csv,0,50,83,2018-12-12 13:38:46.519933,Rogier
+233,/datc/ortho/Cat2_pat3_meting10_oef8.csv,0,50,130,2018-12-12 13:39:03.597578,Rogier
+234,/datc/ortho/Cat2_pat15_meting10_oef8.csv,130,45,195,2018-12-12 13:55:47.927658,Rogier
+235,/datc/ortho/Cat2_pat11_meting10_oef8.csv,0,36,70,2018-12-12 13:56:13.890439,Rogier
+236,/datc/ortho/Cat2_pat14_meting10_oef8.csv,0,170,335,2018-12-12 13:56:30.337901,Rogier
+237,/datc/ortho/Cat2_pat8_meting20_oef8.csv,0,40,110,2018-12-12 13:56:42.187600,Rogier
+238,/datc/ortho/Cat2_pat32_meting10_oef8.csv,0,45,110,2018-12-12 13:56:56.658357,Rogier
+239,/datc/ortho/Cat2_pat25_meting20_oef9.csv,0,20,80,2018-12-12 14:02:39.692777,Rogier
+240,/datc/ortho/Cat2_pat10_meting20_oef9.csv,0,65,135,2018-12-12 14:02:56.551383,Rogier
+241,/datc/ortho/Cat2_pat21_meting20_oef9.csv,30,30,67,2018-12-12 14:03:13.283866,Rogier
+242,/datc/ortho/Cat2_pat33_meting20_oef9.csv,0,30,90,2018-12-12 14:03:27.965667,Rogier
+243,/datc/ortho/Cat2_pat3_meting20_oef9.csv,0,35,110,2018-12-12 14:03:45.119790,Rogier
+244,/datc/ortho/Cat2_pat15_meting20_oef9.csv,0,105,200,2018-12-12 14:04:07.241934,Rogier
+245,/datc/ortho/Cat2_pat35_meting10_oef9.csv,25,25,70,2018-12-12 14:04:23.200429,Rogier
+246,/datc/ortho/Cat2_pat37_meting10_oef9.csv,0,60,175,2018-12-12 14:04:39.624075,Rogier
+247,/datc/ortho/Cat2_pat28_meting20_oef9.csv,0,30,75,2018-12-12 14:04:52.642719,Rogier
+248,/datc/ortho/Cat2_pat6_meting20_oef9.csv,0,50,140,2018-12-12 14:07:22.132041,Rogier
+249,/datc/ortho/Cat2_pat7_meting20_oef9.csv,0,40,160,2018-12-12 14:07:33.421604,Rogier
+250,/datc/ortho/Cat2_pat22_meting20_oef9.csv,0,20,85,2018-12-12 14:07:46.079421,Rogier
+251,/datc/ortho/Cat2_pat4_meting20_oef9.csv,0,50,120,2018-12-12 14:07:57.796875,Rogier
+252,/datc/ortho/Cat2_pat2_meting20_oef9.csv,0,33,100,2018-12-12 14:08:38.749984,Rogier
+253,/datc/ortho/Cat2_pat14_meting20_oef9.csv,0,30,115,2018-12-12 14:09:24.546862,Rogier
+254,/datc/ortho/Cat2_pat17_meting20_oef9.csv,0,30,100,2018-12-12 14:09:37.060107,Rogier
+255,/datc/ortho/Cat2_pat31_meting20_oef9.csv,0,15,45,2018-12-12 14:09:50.538382,Rogier
+256,/datc/ortho/Cat2_pat24_meting20_oef9.csv,0,45,150,2018-12-12 14:18:04.306698,Rogier
+257,/datc/ortho/Cat2_pat8_meting20_oef9.csv,0,75,140,2018-12-12 14:18:21.585845,Rogier
+258,/datc/ortho/Cat2_pat1_meting20_oef9.csv,0,40,75,2018-12-12 14:18:39.640641,Rogier
+259,/datc/ortho/Cat2_pat36_meting10_oef9.csv,0,60,150,2018-12-12 14:18:51.247160,Rogier
+260,/datc/ortho/Cat2_pat32_meting20_oef9.csv,0,50,190,2018-12-12 14:19:07.813852,Rogier
+261,/datc/ortho/Cat2_pat9_meting20_oef9.csv,0,80,150,2018-12-12 14:19:19.743050,Rogier
+262,/datc/ortho/Cat2_pat26_meting20_oef9.csv,0,40,115,2018-12-12 14:19:44.183520,Rogier
+263,/datc/ortho/Cat2_pat23_meting20_oef9.csv,0,30,85,2018-12-12 14:19:59.168677,Rogier
+264,/datc/ortho/Cat2_pat39_meting10_oef9.csv,0,15,60,2018-12-12 14:20:12.694196,Rogier
+265,/datc/ortho/Cat2_pat38_meting10_oef9.csv,0,35,105,2018-12-12 14:20:31.072128,Rogier
+266,/datc/ortho/Cat2_pat11_meting20_oef9.csv,0,20,85,2018-12-12 14:20:42.407008,Rogier
+267,/datc/ortho/Cat2_pat30_meting20_oef9.csv,0,1,70,2018-12-12 14:20:55.707197,Rogier
+268,/datc/ortho/Cat2_pat29_meting20_oef9.csv,0,35,95,2018-12-12 14:21:09.247640,Rogier
+269,/datc/ortho/Cat2_pat39_meting10_oef10.csv,4,5,78,2018-12-12 14:23:17.664165,Rogier
+270,/datc/ortho/Cat2_pat29_meting20_oef10.csv,0,2,86,2018-12-12 14:23:36.526558,Rogier
+271,/datc/ortho/Cat2_pat18_meting10_oef10.csv,64,1,115,2018-12-12 14:23:56.054081,Rogier
+272,/datc/ortho/Cat2_pat15_meting20_oef10.csv,0,2,106,2018-12-12 14:24:11.931637,Rogier
+273,/datc/ortho/Cat2_pat7_meting20_oef10.csv,0,2,125,2018-12-12 14:24:25.760589,Rogier
+274,/datc/ortho/Cat2_pat9_meting10_oef10.csv,64,1,106,2018-12-12 14:25:23.160528,Rogier
+275,/datc/ortho/Cat2_pat22_meting20_oef10.csv,0,15,94,2018-12-12 14:25:46.431214,Rogier
+276,/datc/ortho/Cat2_pat31_meting10_oef10.csv,51,1,95,2018-12-12 14:26:06.292694,Rogier
+277,/datc/ortho/Cat2_pat24_meting20_oef10.csv,0,1,96,2018-12-12 14:26:18.721930,Rogier
+278,/datc/ortho/Cat2_pat38_meting10_oef10.csv,0,1,75,2018-12-12 14:51:30.035068,Rogier
+279,/datc/ortho/Cat2_pat37_meting10_oef10.csv,0,1,135,2018-12-12 14:51:47.503229,Rogier
+280,/datc/ortho/Cat2_pat23_meting20_oef10.csv,0,1,100,2018-12-12 14:52:02.303467,Rogier
+281,/datc/ortho/Cat2_pat3_meting20_oef10.csv,0,5,85,2018-12-12 14:52:41.743463,Rogier
+282,/datc/ortho/Cat2_pat30_meting20_oef10.csv,0,5,80,2018-12-12 14:52:58.671269,Rogier
+283,/datc/ortho/Cat2_pat10_meting10_oef10.csv,75,1,140,2018-12-12 14:55:10.874462,Rogier
+284,/datc/ortho/Cat2_pat33_meting20_oef10.csv,0,1,60,2018-12-12 14:55:31.357705,Rogier
+285,/datc/ortho/Cat2_pat8_meting10_oef10.csv,78,18,133,2018-12-12 14:55:53.869413,Rogier
+286,/datc/ortho/Cat2_pat6_meting10_oef10.csv,70,5,130,2018-12-12 14:56:13.212078,Rogier
+287,/datc/ortho/Cat2_pat36_meting10_oef10.csv,0,30,128,2018-12-12 14:56:30.770423,Rogier
+288,/datc/ortho/Cat2_pat8_meting20_oef10.csv,0,27,83,2018-12-12 14:56:48.048158,Rogier
+289,/datc/ortho/Cat2_pat15_meting10_oef10.csv,82,1,155,2018-12-12 14:57:03.243280,Rogier
+290,/datc/ortho/Cat2_pat4_meting20_oef10.csv,0,1,77,2018-12-12 14:57:17.108358,Rogier
+291,/datc/ortho/Cat2_pat28_meting10_oef10.csv,83,13,140,2018-12-12 14:57:33.703634,Rogier
+292,/datc/ortho/Cat2_pat4_meting10_oef10.csv,70,6,120,2018-12-12 14:57:49.139286,Rogier
+293,/datc/ortho/Cat2_pat17_meting10_oef10.csv,190,1,370,2018-12-12 14:58:05.119856,Rogier
+294,/datc/ortho/Cat2_pat30_meting10_oef10.csv,49,3,80,2018-12-12 14:58:30.518717,Rogier
+295,/datc/ortho/Cat2_pat5_meting10_oef10.csv,85,1,130,2018-12-12 14:58:44.192748,Rogier
+296,/datc/ortho/Cat2_pat17_meting20_oef10.csv,0,1,90,2018-12-12 14:58:53.771117,Rogier
+297,/datc/ortho/Cat2_pat32_meting10_oef10.csv,50,4,92,2018-12-12 14:59:09.019505,Rogier
+298,/datc/ortho/Cat2_pat11_meting10_oef10.csv,29,1,56,2018-12-12 14:59:20.247373,Rogier
+299,/datc/ortho/Cat2_pat32_meting20_oef10.csv,0,1,99,2018-12-12 14:59:28.788972,Rogier
+300,/datc/ortho/Cat2_pat31_meting20_oef10.csv,0,1,42,2018-12-12 14:59:39.687785,Rogier
+301,/datc/ortho/Cat2_pat35_meting10_oef10.csv,0,1,65,2018-12-12 15:00:00.456966,Rogier
+302,/datc/ortho/Cat2_pat25_meting20_oef10.csv,0,2,50,2018-12-12 15:00:24.482051,Rogier
+303,/datc/ortho/Cat2_pat21_meting10_oef10.csv,70,1,128,2018-12-12 15:00:50.184921,Rogier
+304,/datc/ortho/Cat2_pat9_meting20_oef10.csv,0,1,108,2018-12-12 15:01:04.045689,Rogier
+305,/datc/ortho/Cat2_pat1_meting20_oef10.csv,0,2,34,2018-12-12 15:01:18.227966,Rogier
+306,/datc/ortho/Cat2_pat24_meting10_oef10.csv,150,5,255,2018-12-12 15:01:33.376245,Rogier
+307,/datc/ortho/Cat2_pat28_meting20_oef10.csv,0,7,67,2018-12-12 15:01:49.873353,Rogier
+308,/datc/ortho/Cat2_pat34_meting10_oef10.csv,105,1,195,2018-12-12 15:02:51.839508,Rogier
+309,/datc/ortho/Cat2_pat22_meting10_oef10.csv,30,1,55,2018-12-12 15:03:01.801481,Rogier
+310,/datc/ortho/Cat2_pat11_meting20_oef10.csv,0,1,47,2018-12-12 15:03:12.600657,Rogier
+311,/datc/ortho/Cat2_pat33_meting10_oef10.csv,35,4,58,2018-12-12 15:03:36.596744,Rogier
+312,/datc/ortho/Cat2_pat26_meting10_oef10.csv,130,1,190,2018-12-12 15:03:52.142602,Rogier
+313,/datc/ortho/Cat2_pat23_meting10_oef10.csv,88,1,145,2018-12-12 15:04:08.079613,Rogier
+314,/datc/ortho/Cat2_pat1_meting10_oef10.csv,88,1,145,2018-12-12 15:04:24.996771,Rogier
+315,/datc/ortho/Cat2_pat21_meting20_oef10.csv,0,5,47,2018-12-12 15:04:40.047160,Rogier
+316,/datc/ortho/Cat2_pat10_meting20_oef10.csv,0,2,88,2018-12-12 15:04:52.357882,Rogier
+317,/datc/ortho/Cat2_pat29_meting10_oef10.csv,90,1,160,2018-12-12 15:05:08.659145,Rogier
+318,/datc/ortho/Cat2_pat27_meting10_oef10.csv,72,1,123,2018-12-12 15:05:31.941277,Rogier
+319,/datc/ortho/Cat2_pat25_meting10_oef10.csv,152,1,220,2018-12-12 15:05:48.794461,Rogier
+320,/datc/ortho/Cat2_pat7_meting10_oef10.csv,115,1,220,2018-12-12 15:06:01.894517,Rogier
+321,/datc/ortho/Cat2_pat14_meting20_oef10.csv,0,1,97,2018-12-12 15:06:11.722878,Rogier
+322,/datc/ortho/Cat2_pat26_meting20_oef10.csv,0,5,80,2018-12-12 15:06:25.159978,Rogier
+323,/datc/ortho/Cat2_pat6_meting20_oef10.csv,0,5,95,2018-12-12 15:06:49.607512,Rogier
+324,/datc/ortho/Cat2_pat2_meting10_oef10.csv,58,1,120,2018-12-12 15:07:01.142057,Rogier
+325,/datc/ortho/Cat2_pat12_meting10_oef10.csv,77,1,120,2018-12-12 15:07:11.345634,Rogier
+326,/datc/ortho/Cat2_pat20_meting10_oef10.csv,160,1,320,2018-12-12 15:07:30.789102,Rogier
+327,/datc/ortho/Cat2_pat2_meting20_oef10.csv,0,1,75,2018-12-12 15:07:40.516434,Rogier
+328,/datc/ortho/Cat2_pat14_meting10_oef10.csv,123,1,215,2018-12-12 15:07:56.043872,Rogier
+329,/datc/ortho/Cat2_pat3_meting10_oef10.csv,78,1,150,2018-12-12 15:08:06.415581,Rogier
+330,/datc/ortho/Cat2_pat6_meting20_oef11.csv,0,1,85,2018-12-12 15:09:14.974317,Rogier
+331,/datc/ortho/Cat2_pat38_meting10_oef11.csv,0,2,77,2018-12-12 15:09:23.556176,Rogier
+332,/datc/ortho/Cat2_pat24_meting20_oef11.csv,1,1,115,2018-12-12 15:09:36.075640,Rogier
+333,/datc/ortho/Cat2_pat4_meting20_oef11.csv,0,5,110,2018-12-12 15:09:52.030033,Rogier
+334,/datc/ortho/Cat2_pat15_meting20_oef11.csv,0,5,95,2018-12-12 15:10:01.431854,Rogier
+335,/datc/ortho/Cat2_pat1_meting20_oef11.csv,0,2,35,2018-12-12 15:10:11.557682,Rogier
+336,/datc/ortho/Cat2_pat7_meting20_oef11.csv,0,4,110,2018-12-12 15:10:21.359279,Rogier
+337,/datc/ortho/Cat2_pat14_meting20_oef11.csv,0,1,97,2018-12-12 15:10:35.034024,Rogier
+338,/datc/ortho/Cat2_pat37_meting10_oef11.csv,1,1,140,2018-12-12 15:10:50.251176,Rogier
+339,/datc/ortho/Cat2_pat32_meting20_oef11.csv,0,1,98,2018-12-12 15:10:59.366374,Rogier
+340,/datc/ortho/Cat2_pat11_meting20_oef11.csv,0,1,55,2018-12-12 15:11:06.861050,Rogier
+341,/datc/ortho/Cat2_pat23_meting20_oef11.csv,0,1,80,2018-12-12 15:11:15.332931,Rogier
+342,/datc/ortho/Cat2_pat29_meting20_oef11.csv,0,3,79,2018-12-12 15:11:23.967839,Rogier
+343,/datc/ortho/Cat2_pat25_meting20_oef11.csv,0,1,48,2018-12-12 15:11:36.672961,Rogier
+344,/datc/ortho/Cat2_pat10_meting20_oef11.csv,0,1,70,2018-12-12 15:11:48.794840,Rogier
+345,/datc/ortho/Cat2_pat39_meting10_oef11.csv,0,4,85,2018-12-12 15:12:05.757670,Rogier
+346,/datc/ortho/Cat2_pat22_meting20_oef11.csv,0,3,85,2018-12-12 15:12:22.298679,Rogier
+347,/datc/ortho/Cat2_pat3_meting20_oef11.csv,0,5,88,2018-12-12 15:12:33.266552,Rogier
+348,/datc/ortho/Cat2_pat36_meting10_oef11.csv,0,11,117,2018-12-12 15:12:46.047945,Rogier
+349,/datc/ortho/Cat2_pat30_meting20_oef11.csv,0,3,54,2018-12-12 15:12:59.157073,Rogier
+350,/datc/ortho/Cat2_pat21_meting20_oef11.csv,0,3,46,2018-12-12 15:13:11.154612,Rogier
+351,/datc/ortho/Cat2_pat26_meting20_oef11.csv,0,3,74,2018-12-12 15:13:20.762718,Rogier
+352,/datc/ortho/Cat2_pat2_meting20_oef11.csv,0,1,47,2018-12-12 15:13:30.424662,Rogier
+353,/datc/ortho/Cat2_pat9_meting20_oef11.csv,0,1,88,2018-12-12 15:13:43.913342,Rogier
+354,/datc/ortho/Cat2_pat28_meting20_oef11.csv,0,1,55,2018-12-12 15:13:51.992136,Rogier
+355,/datc/ortho/Cat2_pat17_meting20_oef11.csv,0,1,80,2018-12-12 15:14:00.121656,Rogier
+356,/datc/ortho/Cat2_pat31_meting20_oef11.csv,0,0,38,2018-12-12 15:14:21.764287,Rogier
+357,/datc/ortho/Cat2_pat33_meting20_oef11.csv,0,1,62,2018-12-12 15:14:33.861226,Rogier
+358,/datc/ortho/Cat2_pat8_meting20_oef11.csv,0,20,85,2018-12-12 15:14:44.181770,Rogier
+359,/datc/ortho/Cat2_pat35_meting10_oef11.csv,0,0,45,2018-12-12 15:14:52.350155,Rogier
