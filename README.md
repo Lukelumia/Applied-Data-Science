@@ -34,6 +34,12 @@ Het doel van het onderzoek is het volgende:
 Tijdens het uitvoeren van dit onderzoek zouden we twee soorten data tot onze beschikbaarheid krijgen, ruwe data & gecleande data. Met de gecleande data hebben we de super cleaned data gemaakt, deze drie soorten data hebben ons onderzoek eigenlijk opgesplitst in 3 fases. Elk van deze drie fases had zijn eigen activiteiten die hieronder beschreven zijn
 
 ![Onderzoek fases](https://i.imgur.com/ODAt0De.png)
+
+- [Ga naar: pre-data](#pre---data)
+- [Ga naar: raw data](#Raw-data)
+- [Ga naar: cleaned data](#Cleaned-data)
+- [Ga naar: super cleaned data](#super-cleaned-data)
+
 # Pre-data
 In de fase voordat we data ontvingen ben ik vooral bezig geweest met drie onderwerpen, namelijk:
 - [Opzetten project management](#Opzetten-project-management)
@@ -129,7 +135,8 @@ Classifier 26 tot en met 49 is de eerste poging tot een patient niveau classifie
 
 Deze patient niveau classifier is samen met vincent gemaakt en is [hier](3.%20Classifiers/classifier%20patient%20niveau%20versie%200.2%20-%202%20classes.ipynb) te vinden.
 
-#
+### Oefening Classifier
+Één van de misluke pogingen was een classifier maken die de oefeningen zou identificeren, dit is een concept wat misschien wat meer inzicht zou geven over de oefeningen. Dit is een script gebasseerd op de [5-in-een](3.%20Classifiers/5in1_v3.2%20-%20beautified%20split.ipynb) en is hernoemd naar de [40-in-een classifier](3.%20Classifiers/40%20in%201.ipynb)
 
 ## Energie berekenen
 Om meer parameters voor een patient te berekenen, kregen we het advies van de lectoraat om de energie te berekenen. Dit is een meetwaarde, die volgens de lectoraat, vaak gebruikt wordt. De energie kunnen we berekenen door de afgeleide te nemen van een patient zijn oefening. Een voorbeeld van zo'n oefening is [hier](#Gecleande-Visualisatie---bovenarm) te zien.
@@ -141,6 +148,9 @@ De afgeleide van een oefening laat de versnelling zien, de oppervlakte van de ve
 Om de oppervlakte van de afgeleide te berekenen hebben we eerst de oppervlakte van het vierkant(in de afbeelding ligt blauw) berekend, daarna de oppervlakte van het driehoek wat daarom ligt (in het plaatje oranje strepen). Omdat er met deze methode ook de witte onderkant onderkant meegenomen wordt berekenen we de onderkant op dezelfde manier, en trekken we deze van de totale oppervlakte af. Om te bepalen of boven of onder zitten hebben we gedaan door naar links gaan op te tellen en bij het naar rechts gaan af te trekken. Op deze manier krijgen we de oppervlakte van alleen de binnenkant. Ook wordt er op deze manier de energie juist berekend op dubbele gedeeltes, zoals de loop die links te zien is.
 
 Het script voor de energie berekenen heb ik alleen gemaakt, de strategie hoe we dit berekenen hebben we als groep verzonnen met behulp van Tony. Het script komt in de [patient classifier](3.%20Classifiers/Patient%20level%20-%20Classifier.ipynb) voor en staat [hier](2.%20miscellaneous/Oppervlakte.ipynb) als los script.
+
+### Classifier Energie
+Met deze nieuwe data heb ik samen met Vincent een classifier gebouwd met alleen deze informatie. Uit deze classifier kwam helaas geen zinnig resultaat.
 
 ## Toppen berekenen
 Om een andere paramter te maken die iets zegt over de oefening, en makkelijk te maken is. Heb ik een functie gemaakt die telt hoevaak een grafiek van richting veranderd. Dit zou het aantal pieken moeten optellen. Of dit getal ook iets toevoegd is niet getest, maar was in ieder geval een extra parameter waarme de classifier kon werken.
