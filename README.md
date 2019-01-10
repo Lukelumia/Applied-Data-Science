@@ -134,6 +134,15 @@ Om meer parameters voor een patient te berekenen, kregen we het advies van de le
 
 De afgeleide van een oefening laat de versnelling zien, de oppervlakte van de versnelling is ook wel de energie genoemd. Om dit te berekenen in python hebben we de volgende methode gebruikt.
 
+![](https://i.imgur.com/cpWTLew.png)
+
+Om de oppervlakte van de afgeleide te berekenen hebben we eerst de oppervlakte van het vierkant(in de afbeelding ligt blauw) berekend, daarna de oppervlakte van het driehoek wat daarom ligt (in het plaatje oranje strepen). Omdat er met deze methode ook de witte onderkant onderkant meegenomen wordt berekenen we de onderkant op dezelfde manier, en trekken we deze van de totale oppervlakte af. Om te bepalen of boven of onder zitten hebben we gedaan door naar links gaan op te tellen en bij het naar rechts gaan af te trekken. Op deze manier krijgen we de oppervlakte van alleen de binnenkant. Ook wordt er op deze manier de energie juist berekend op dubbele gedeeltes, zoals de loop die links te zien is.
+
+Het script voor de energie berekenen heb ik alleen gemaakt, de strategie hoe we dit berekenen hebben we als groep verzonnen met behulp van Tony. Het script komt in de [patient classifier](3.%20Classifiers/Patient%20level%20-%20Classifier.ipynb) voor en staat [hier](2.%20miscellaneous/Oppervlakte.ipynb) als los script.
+
+## Toppen berekenen
+Een andere paramter die iets zegt over een oefening is het aantal toppen dat zich in de grafiek voorkomen.
+
 ### Sprint 1
 In sprint 1, die liep van 27-08-2018 tot 07-09-2018, zijn we vooral bezig geweest met Python leren en de omgevingen opzetten. De scrum omgeving opzetten en onderzoeken heb ik voornamelijk zelf gedaan. Als minor werd de omgeving scrumwise aangeraden, na zelf onderzoek gedaan te hebben naar alternatieve omgevingen heb ik Trello gevonden en deze aangeraden aan de groep. De reden dat Trello als beter uit dit onderzoek is gekomen komt door de modernere layout en het gebruiksvriendelijk drag & drop functionaliteiten. Daarnaast waren er plugins mogelijk die het scrumboard meer customizable maakte.
 
