@@ -101,7 +101,7 @@ De geschreven functie voor het berekenen van de ellebooghoek is te vinden in cel
 Na het ontvangen van de cleaned data zijn we begonnen met het begrijpen en analyseren hiervan. Hier hebben we veel tijd van ons project voor gebruikt.
 
 ## Gecleande Visualisatie - beweged skelet
-Bij de gecleande data hebben we ook een manier gezocht om de oefening visueel te maken. Orgineel was het de bedoeling om hetzelfde plaatje te maken als bij de ruwe data [gedaan was](#Visualisatie). Dit was alleen lastiger om voor de gecleande data te doen sinds deze geen locatie data meer had, alleen maar relatieve hoeken. Om deze hoeken om te zetten in een soortgelijke afbeelding ben ik op onderzoek gegaan hoe ik deze reletieve hoeken moet behandelen. Het is niet gelukt om de data op dezelfde manier te interpreteren als bij de ruwe data, de beweging die getoont wordt in onderstaande afbeelding zou gelijk moeten zijn. Maar is dit niet.
+Bij de gecleande data hebben we ook een manier gezocht om de oefening visueel te maken. Orgineel was het de bedoeling om hetzelfde plaatje te maken als bij de ruwe data [gemaakt was](#Visualisatie). Dit was alleen lastiger om voor de gecleande data te doen sinds deze geen locatie data meer had, alleen maar relatieve hoeken. Om deze hoeken om te zetten in een soortgelijke afbeelding ben ik op onderzoek gegaan hoe ik deze reletieve hoeken moet behandelen. Het is niet gelukt om de data op dezelfde manier te interpreteren als bij de ruwe data, de beweging die getoont wordt in onderstaande afbeelding zou gelijk moeten zijn. Maar is dit niet.
 
 Ik heb niet alleen zelf geprobeerd dit op te lossen, de wiskunde groepslid kon dit probleem ook niet oplossen. De hoeken konden door ons niet op de juiste manier geinterpreteerd worden, dit komt misschien mede door de moeilijke communicatie tussen ons en het LUMC.
 
@@ -109,19 +109,20 @@ Ik heb niet alleen zelf geprobeerd dit op te lossen, de wiskunde groepslid kon d
 
 ## Gecleande Visualisatie - bovenarm
 Na het niet kunnen visualiseren in een 3d bewgend plaatje zijn heb ik de data op een simpelere 2d manier gevisualiseerd.zoals hieronder te zien is.
+
 ![](https://i.imgur.com/loNFJBH.png)
 
 ## Classifiers - cleaned data
-Tijdens het werken met classifiers binnen dit project heb ik aan veel classifiers mee gewerkt. In de paper !!! nog linkje in doen !!! zijn de resultaten van deze classifiers te zien.
+Tijdens het werken met classifiers binnen dit project heb ik aan veel classifiers mee gewerkt. In de [paper](paper_ortho_eyes.pdf) zijn de resultaten van deze classifiers te zien.
 
 ### Classifier 1, 2, 3, 4
-De eerste classifier die ik heb gemaakt in dit project is de één tegen de 3 classifier, waar één categorie tegen de andere categorien vergeleken wordt. Dit was gedaan op sample niveau wat in de paper!!! nog linkje in doen !!! wordt uitgelegd. Het maken van de classifier is gedaan met SKlearn. Het script wat gebruikt is voor deze classifier is omgebouwt tot een andere classifier, maar is te zien in cell 3 van [dit](3.%20Classifiers/5in1_v3.2%20-%20beautified%20split.ipynb) script.
+De eerste classifier die ik heb gemaakt in dit project is de één tegen de 3 classifier, waar één categorie tegen de andere categorien vergeleken wordt. Dit was gedaan op sample niveau wat in de [paper](paper_ortho_eyes.pdf) wordt uitgelegd. Het maken van de classifier is gedaan met SKlearn. Het script wat gebruikt is voor deze classifier is omgebouwt tot een andere classifier, maar is te zien in cell 3 van [dit](3.%20Classifiers/5in1_v3.2%20-%20beautified%20split.ipynb) script.
 
 ### Classifier 5 (5 classifiers combined)
 Classifier 5 is een 5-in-1 classifier. Dit is het resultaat van classifier 1, 2, 3, 4 als input van een 5e classifier. Deze classifier is samen met kasper gemaakt, waar kasper en ik de eerste versie samen hebben gemaakt. Waarna ik zelf het script heb op geschoond tot een beutified versie. Dit script is [hier](3.%20Classifiers/5in1_v3.2%20-%20beautified%20split.ipynb) te vinden. 
 
 ### Classifier 11 t/m 22 (Category 1 vs 2 (True vs False))
-Classifier 11 tot en met 22 heeft ons geholpen de data beter te begrijpen, met de resultaten van deze classifier (te vinden in de paper !!! link !!!) hebben we gezien dat hoe groter het verschil tussen de categorien, hoe preciser we kunnen clasificeren. De classifier werkt door twee categorien met elkaar te vergelijken, bijvoorbeeld categorie 1 met 2 (True vs False). Deze sample niveau classifier is samen met vincent gemaakt en is [hier](3.%20Classifiers/Classifier%202%20vs%203%20v0.2.ipynb) te vinden.
+Classifier 11 tot en met 22 heeft ons geholpen de data beter te begrijpen, met de resultaten van deze classifier (te vinden in de [paper](paper_ortho_eyes.pdf)) hebben we gezien dat hoe groter het verschil tussen de categorien, hoe preciser we kunnen clasificeren. De classifier werkt door twee categorien met elkaar te vergelijken, bijvoorbeeld categorie 1 met 2 (True vs False). Deze sample niveau classifier is samen met vincent gemaakt en is [hier](3.%20Classifiers/Classifier%202%20vs%203%20v0.2.ipynb) te vinden.
 
 ### Classifier 26 t/m 49 (Category 1 vs 2 .MAX)
 Classifier 26 tot en met 49 is de eerste poging tot een patient niveau classifier. Om van sample niveau classifiers af te stappen hadden we een manier nodig om parameters van een patient te maken. Als eerste patient classifier hebebn we daarom gekozen om de absolute maximale hoeken mee te nemen als waardes voor de classifier. Het idee hierachter was om de maximale beweging van de patient te meten, om te zien hoever hij zijn arm bijvoorbeeld omhoog kon bewegen.
@@ -129,7 +130,7 @@ Classifier 26 tot en met 49 is de eerste poging tot een patient niveau classifie
 Deze patient niveau classifier is samen met vincent gemaakt en is [hier](3.%20Classifiers/classifier%20patient%20niveau%20versie%200.2%20-%202%20classes.ipynb) te vinden.
 
 ## Energie berekenen
-Om meer parameters voor een patient te berekenen, kregen we het advies van de lectoraat om de energie te berekenen. Dit is een meetwaarde, die volgens de lectoraat, vaak gebruikt wordt. De energie kunnen we berekenen door de afgeleide te nemen van een patient zijn oefening. Een voorbeeld van zo'n oefening is [hier](#Gecleande-Visualisatie-bovenarm) te zien.
+Om meer parameters voor een patient te berekenen, kregen we het advies van de lectoraat om de energie te berekenen. Dit is een meetwaarde, die volgens de lectoraat, vaak gebruikt wordt. De energie kunnen we berekenen door de afgeleide te nemen van een patient zijn oefening. Een voorbeeld van zo'n oefening is [hier](#Gecleande-Visualisatie---bovenarm) te zien.
 
 De afgeleide van een oefening laat de versnelling zien, de oppervlakte van de versnelling is ook wel de energie genoemd. Om dit te berekenen in python hebben we de volgende methode gebruikt.
 
