@@ -129,6 +129,8 @@ Classifier 26 tot en met 49 is de eerste poging tot een patient niveau classifie
 
 Deze patient niveau classifier is samen met vincent gemaakt en is [hier](3.%20Classifiers/classifier%20patient%20niveau%20versie%200.2%20-%202%20classes.ipynb) te vinden.
 
+#
+
 ## Energie berekenen
 Om meer parameters voor een patient te berekenen, kregen we het advies van de lectoraat om de energie te berekenen. Dit is een meetwaarde, die volgens de lectoraat, vaak gebruikt wordt. De energie kunnen we berekenen door de afgeleide te nemen van een patient zijn oefening. Een voorbeeld van zo'n oefening is [hier](#Gecleande-Visualisatie---bovenarm) te zien.
 
@@ -141,7 +143,9 @@ Om de oppervlakte van de afgeleide te berekenen hebben we eerst de oppervlakte v
 Het script voor de energie berekenen heb ik alleen gemaakt, de strategie hoe we dit berekenen hebben we als groep verzonnen met behulp van Tony. Het script komt in de [patient classifier](3.%20Classifiers/Patient%20level%20-%20Classifier.ipynb) voor en staat [hier](2.%20miscellaneous/Oppervlakte.ipynb) als los script.
 
 ## Toppen berekenen
-Een andere paramter die iets zegt over een oefening is het aantal toppen dat zich in de grafiek voorkomen.
+Om een andere paramter te maken die iets zegt over de oefening, en makkelijk te maken is. Heb ik een functie gemaakt die telt hoevaak een grafiek van richting veranderd. Dit zou het aantal pieken moeten optellen. Of dit getal ook iets toevoegd is niet getest, maar was in ieder geval een extra parameter waarme de classifier kon werken.
+
+Het maken van deze toppen teller heb ik zelf gedaan, het verzinnen ook. De toppen teller is te vinden in [dit](2.%20miscellaneous/Turn%20punten%20berekenen.ipynb) notebook.
 
 ### Sprint 1
 In sprint 1, die liep van 27-08-2018 tot 07-09-2018, zijn we vooral bezig geweest met Python leren en de omgevingen opzetten. De scrum omgeving opzetten en onderzoeken heb ik voornamelijk zelf gedaan. Als minor werd de omgeving scrumwise aangeraden, na zelf onderzoek gedaan te hebben naar alternatieve omgevingen heb ik Trello gevonden en deze aangeraden aan de groep. De reden dat Trello als beter uit dit onderzoek is gekomen komt door de modernere layout en het gebruiksvriendelijk drag & drop functionaliteiten. Daarnaast waren er plugins mogelijk die het scrumboard meer customizable maakte.
