@@ -127,13 +127,18 @@ De eerste classifier die ik heb gemaakt in dit project is de één tegen de 3 cl
 ### Classifier 5 (5 classifiers combined)
 Classifier 5 is een 5-in-1 classifier. Dit is het resultaat van classifier 1, 2, 3, 4 als input van een 5e classifier. Deze classifier is samen met kasper gemaakt, waar kasper en ik de eerste versie samen hebben gemaakt. Waarna ik zelf het script heb op geschoond tot een beutified versie. Dit script is [hier](3.%20Classifiers/5in1_v3.2%20-%20beautified%20split.ipynb) te vinden. 
 
-### Classifier 11 t/m 22 (Category 1 vs 2 (True vs False))
+### Classifier 10 t/m 21 (Category 1 vs 2 (True vs False))
 Classifier 11 tot en met 22 heeft ons geholpen de data beter te begrijpen, met de resultaten van deze classifier (te vinden in de [paper](paper_ortho_eyes.pdf)) hebben we gezien dat hoe groter het verschil tussen de categorien, hoe preciser we kunnen clasificeren. De classifier werkt door twee categorien met elkaar te vergelijken, bijvoorbeeld categorie 1 met 2 (True vs False). Deze sample niveau classifier is samen met vincent gemaakt en is [hier](3.%20Classifiers/Classifier%202%20vs%203%20v0.2.ipynb) te vinden.
 
-### Classifier 26 t/m 49 (Category 1 vs 2 .MAX)
+### Classifier 25 t/m 48 (Category 1 vs 2 .MAX)
 Classifier 26 tot en met 49 is de eerste poging tot een patient niveau classifier. Om van sample niveau classifiers af te stappen hadden we een manier nodig om parameters van een patient te maken. Als eerste patient classifier hebebn we daarom gekozen om de absolute maximale hoeken mee te nemen als waardes voor de classifier. Het idee hierachter was om de maximale beweging van de patient te meten, om te zien hoever hij zijn arm bijvoorbeeld omhoog kon bewegen.
 
 Deze patient niveau classifier is samen met vincent gemaakt en is [hier](3.%20Classifiers/classifier%20patient%20niveau%20versie%200.2%20-%202%20classes.ipynb) te vinden.
+
+### Classifier 49 (Multivariate classifier MAX.ABS)
+De vorige classifier deed alle categorien apart tegenover elkaar zetten, in deze versie heb ik samen met vincent dezelfde data in een multivariate classifier geprobeerd.
+
+Dit script is [hier](3.%20Classifiers/classifier%20patient%20niveau%20versie%200.3%20-%20less%20is%20more.ipynb) te vinden.
 
 ### Oefening Classifier
 Één van de misluke pogingen was een classifier maken die de oefeningen zou identificeren, dit is een concept wat misschien wat meer inzicht zou geven over de oefeningen. Dit is een script gebasseerd op de [5-in-een](3.%20Classifiers/5in1_v3.2%20-%20beautified%20split.ipynb) en is hernoemd naar de [40-in-een classifier](3.%20Classifiers/40%20in%201.ipynb)
@@ -181,7 +186,70 @@ Om het metadata.csv bestand toe te passen op de oefeningen ben ik samen met kasp
 Het script wat gebruikt is om deze vier csv bestanden om te zetten naar nieuwe oefeningen is [hier](5.%20Data%20Cleaning/Clean%20Checker.ipynb) te vinden, onder het kopje 'step 2'.
 
 ## Oefening onderzoek
-Om de data nog beter te kunnen vergelijken 
+Om de data nog beter te kunnen vergelijken wouden we de oefeningen met elkaar vergelijken. Tijdens ons gesprek met de groot, onze opdracht gever, werd er verteld dat er altijd 5 oefeningen zijn die bij iedereen uitgevoerd worden. Als groep wisten we alleen niet welke 5 oefeningen dat waren binnen de patient categorien. Daarom wouden we hier onderzoek naar doen.
+
+Orgineel zou een ander teamlid dit onderzoek doen, maar die kwam er niet achter hoe de oefeningen met elkaar verbonden waren. Daarom heb ik dit zelf op gepakt en ben ik met mijn papier aan de gang gegaan. Door van elke oefening per categorie een schets te maken kon ik de oefeningen over de categorieen vergelijken.
+
+Uit eigen onderzoek bleek dat de alle oefeningen eigenlijk variaties waren op 5 oefeningen, op oefening 22 Cat4 na. Oefening 22 hebben we niet meegenomen. Onderstaand zijn de notities te zien.
+
+![](https://i.imgur.com/oZ2HHRe.jpg)
+
+Het script om deze oefeningen goed te zetten is [hier](5.%20Data%20Cleaning/Clean%20Checker.ipynb) te vinden onder het kopje 'step 3'.
+
+# Classifier Super cleaned data
+Met deze data wouden we een patient level classifier maken. Deze classifier konden we nu vullen met oefening informatie. Omdat we deze nu gelijk getrokken hadden over de verschillende categorien.
+
+## Creeeren dataset
+Om de patient classifier te maken wouden we deze vullen met 5 soorten informatie:
+- Informatie over oefening Alpha
+- Informatie over oefening Bravo
+- Informatie over oefening Charlie
+- Informatie over oefening Delta
+- Informatie over oefening Echo
+
+Voor elke oefening wouden ik deze informatie meenmen:
+- Energie bovenarm X, Y, Z
+- Toppen bovenarm X, Y, Z
+- Alle paramters van frame 10% (24 colommen, excl ellebooghoek)
+- Alle paramters van frame 25% (24 colommen, excl ellebooghoek)
+- Alle paramters van frame 50% (24 colommen, excl ellebooghoek)
+- Alle paramters van frame 75% (24 colommen, excl ellebooghoek)
+- Alle paramters van frame 90% (24 colommen, excl ellebooghoek)
+
+In totaal kwamen we rond de 630 colommen per regel.
+
+Om nu de patient regels te maken, moesten we kiezen welke oefening we mee wouden nemen. Sinds we de data gesplist hadden kunnen sommige patienten één oefening twee of meer keer gedaan hebben. Omdat we geen data weg wouden gooien hebben ik besloten om een cross join te gebruiken om alle combinaties van oefeningen mee te nemen als regels.
+
+```
+Voorbeeld:
+Als Patient 4018 de volgende oefeningen heeft gedaan
+Alpha: 1 x
+Bravo: 1 x
+Charlie: 3x
+Delta: 1x
+Echo: 1x
+
+Dan zouden alle combinaties van oefeningen het volgende zijn:
+Alpha 1 Bravo 1 Charlie 1 Delta 1 Echo 1
+Alpha 1 Bravo 1 Charlie 2 Delta 1 Echo 1
+Alpha 1 Bravo 1 Charlie 3 Delta 1 Echo 1
+```
+Op deze manier hebben we onze circa 100 patienten omgezet in 46000 regels data, dit is zonder de aparte testset.
+
+Het script wat dit doet heb ik zelf in de vakantie gemaakt en is [hier](3.%20Classifiers/Patient%20level%20-%20Create%20dataset.ipynb) te vinden.
+
+## Classifier 51 t/m 58 (Final Classifier) 
+Dit is de laatste classifier die ik gemaakt heb binnen dit project. In deze classifier wordt de data die in het vorige hoofdstuk gemaakt is gebruikt. Als eerst is deze data ~80% / ~20% gesplitst om het succes van deze classifier te meten. Hier kwam een vrij hoog percentage uit. Ook [hier](3.%20Classifiers/Patient%20level%20-%20Classifier.ipynb) te vinden.
+
+![](https://i.imgur.com/nxUNZ4u.png)
+
+Met dit resultaat hebben we ook de aparte testset super cleaned, dit heeft Vincent gedaan in de laatste week van het project. Met deze super cleaned testset hebben we de huidige classifier opnieuw getest, en daar kwam het volgende resultaat uit.
+
+![](https://i.imgur.com/EInWTmq.png)
+
+Een nog hoger resultaat dan de eerste testset. Een succes voor ons als groep!
+
+
 
 ### Sprint 1
 In sprint 1, die liep van 27-08-2018 tot 07-09-2018, zijn we vooral bezig geweest met Python leren en de omgevingen opzetten. De scrum omgeving opzetten en onderzoeken heb ik voornamelijk zelf gedaan. Als minor werd de omgeving scrumwise aangeraden, na zelf onderzoek gedaan te hebben naar alternatieve omgevingen heb ik Trello gevonden en deze aangeraden aan de groep. De reden dat Trello als beter uit dit onderzoek is gekomen komt door de modernere layout en het gebruiksvriendelijk drag & drop functionaliteiten. Daarnaast waren er plugins mogelijk die het scrumboard meer customizable maakte.
