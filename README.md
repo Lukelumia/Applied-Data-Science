@@ -6,10 +6,9 @@ In deze minor heb in een team van 3 medestudenten en één docent gewerkt aan ee
 Ons doel tijdens dit onderzoek was om te achterhalen of het 'flock-of-birds'-systeem dat momenteel door het LUMC enkel wordt gebruikt voor onderzoeksdoeleinden of dat het ook gebruikt kan worden voor de diagnostische doeleinden.
 
 # Inhoudsopgave 
-- [Zelfontwikkeling](#Zelfontwikkeling)
-- [Project management](#Project-management)
 - [Jargon](#Jargon)
 - [Onderzoek](#Onderzoek)
+- [Pre-data](#Pre-data)
 - [Extra activiteiten](#Extra-Activiteiten)
 
 ## Extra activiteiten
@@ -166,7 +165,9 @@ Het maken van deze toppen teller heb ik zelf gedaan, het verzinnen ook. De toppe
 Na onsuccesvol met de door het LUMC gecleande data onze categorieen te classificieren, zijn we de data gaan opschonen. De opgeschoonde data van de gecleande data hebben we de super cleaned data genoemd.
 
 De reden dat opschonen nodig was is te zien in onderstaande afbeelding. 
+
 ![](https://i.imgur.com/1K5LXwz.png)
+
 In deze afbeelding is te zien dat het eigenlijk twee oefeningen zijn, daarnaast is te zien dat de oefening pas begint bij frame ~100. Daarom hebben we alle oefeningen ~1500 nagelopen om de data meer eenduidiger te maken.
 
 ## Creëren data
@@ -176,6 +177,7 @@ Om de gecleande data op te schonen heb ik een script gemaakt die dit gebruiksvri
 - Wanneer de tweede oefening echt eindigd
 
 In onderstaande afbeelding zie je de afbeelding die de gebruiker ziet na het invullen van de drie getallen.
+
 ![](https://i.imgur.com/tDLtOyX.png)
 
 Het script wat de gebruikers gebruikte is [hier](5.%20Data%20Cleaning/Data%20Verdubbelaar%20V2.0.ipynb) te zien. In dit script worden de getallen opgeslagen in een metadata.csv bestand die later gebruikt is om de oefeningen daadwerkelijk te splitsen.
@@ -225,9 +227,9 @@ Voorbeeld:
 Als Patient 4018 de volgende oefeningen heeft gedaan
 Alpha: 1 x
 Bravo: 1 x
-Charlie: 3x
-Delta: 1x
-Echo: 1x
+Charlie: 3 x
+Delta: 1 x
+Echo: 1 x
 
 Dan zouden alle combinaties van oefeningen het volgende zijn:
 Alpha 1 Bravo 1 Charlie 1 Delta 1 Echo 1
@@ -238,7 +240,7 @@ Op deze manier hebben we onze circa 100 patienten omgezet in 46000 regels data, 
 
 Het script wat dit doet heb ik zelf in de vakantie gemaakt en is [hier](3.%20Classifiers/Patient%20level%20-%20Create%20dataset.ipynb) te vinden.
 
-## Classifier 51 t/m 58 (Final Classifier) 
+## Classifier 55 t/m 58 (Final Classifier) 
 Dit is de laatste classifier die ik gemaakt heb binnen dit project. In deze classifier wordt de data die in het vorige hoofdstuk gemaakt is gebruikt. Als eerst is deze data ~80% / ~20% gesplitst om het succes van deze classifier te meten. Hier kwam een vrij hoog percentage uit. Ook [hier](3.%20Classifiers/Patient%20level%20-%20Classifier.ipynb) te vinden.
 
 ![](https://i.imgur.com/nxUNZ4u.png)
@@ -248,18 +250,11 @@ Met dit resultaat hebben we ook de aparte testset super cleaned, dit heeft Vince
 ![](https://i.imgur.com/EInWTmq.png)
 
 Een nog hoger resultaat dan de eerste testset. Een succes voor ons als groep!
+De classifier zelf is [hier](3.%20Classifiers/Patient%20level%20-%20Classifier.ipynb) te vinden.
 
+## Classifier 51 t/m 54 (Final Classifier) 
+Met dit resultaat moesten we ook deze classifier proberen zonder de data te super cleanen. Dit hebben ik ook gedaan, maar zonder groot succes. Uit deze classifier kwam niet zo'n  mooi resultaat
 
-
-### Sprint 1
-In sprint 1, die liep van 27-08-2018 tot 07-09-2018, zijn we vooral bezig geweest met Python leren en de omgevingen opzetten. De scrum omgeving opzetten en onderzoeken heb ik voornamelijk zelf gedaan. Als minor werd de omgeving scrumwise aangeraden, na zelf onderzoek gedaan te hebben naar alternatieve omgevingen heb ik Trello gevonden en deze aangeraden aan de groep. De reden dat Trello als beter uit dit onderzoek is gekomen komt door de modernere layout en het gebruiksvriendelijk drag & drop functionaliteiten. Daarnaast waren er plugins mogelijk die het scrumboard meer customizable maakte.
-
-Naast het scrumboard ben ik ook bezig geweest met het uitleggen van Python. Sinds ik hier zelf al ervaring in had voordat de minor begon kon in de basics van Python (proberen) uit te leggen. Dit heb ik gedaan in 1 en 1 sessies en 2 op 1 sessies.
-
-### Sprint 2
-Sprint 2 die liep van 10-09-2018 tot 21-09-2018. In deze sprint heb ik mij vooral gefocust op het begrijpen van de rauwe data en het berekenen van nieuwe informatie uit de data. Zo is er in de geschoonde data een column berekent genaamd de elleboog hoek. Deze week wou ik deze willen kunnen berekenen door middel van de coordinaten van de rauwe data. Dit is uiteindelijk gelukt door gebruik te maken van een SSS-driehoek, dit is een driekhoek waar alleen de drie zijdes bekend zijn en niet de hoeken. Door berekeningen kunnen alle hoeken berkend worden, en dus ook de ellebooghoek. Na deze functie gemaakt te hebben kan deze ook gebruikt worden voor hoeken tussen andere assen, dat is ook te zien in onderstaande afbeelding.
-
-<img src="https://i.imgur.com/EpigWMn.png" alt="Elleboog hoek" width="700" height="250">
 
 ### Sprint 3
 Sprint 3 die liep van 24-09-2018 tot 1-10-2018. In deze sprint ben ik vooral bezig geweest met het visueel maken van de geschone data die in de vorige sprint beschikbaar was gesteld. Om dit probleem op te lossen heb ik twee verschillende oplossingen geprobeerd. De eeste door de bewegingen in driehoeken te verdelen en de afstand uit te meten, te zien in onderstaande afbeelding. En als tweede oplossing is het gebruik van rotatie matrixen getest. Uiteindelijk is er gekozen voor rotatie matrixen sinds het werken met driehoeken niet precies genoeg was vanwege tussendoor afronden. Dit kwam op een verschil uit van 1 % per beweging.
