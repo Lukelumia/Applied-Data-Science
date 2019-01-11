@@ -20,7 +20,7 @@ Ons doel tijdens dit onderzoek was om te achterhalen of het 'flock-of-birds'-sys
   - [4.1 Visualisatie](#41-visualisatie)
   - [4.2 Ellebooghoek](#42-ellebooghoek)
 - [5. Cleaned data](#5-cleaned-data)
-  - [5.1 Gecleande Visualisatie - beweged skelet](#51-gecleande-visualisatie---beweged-skelet)
+  - [5.1 Gecleande Visualisatie - bewegend skelet](#51-gecleande-visualisatie---bewegend-skelet)
   - [5.2 Gecleande Visualisatie - bovenarm](#52-gecleande-visualisatie---bovenarm)
   - [5.3 Classifiers - cleaned data](#53-classifiers---cleaned-data)
      - [5.4.1 Classifier 1, 2, 3, 4](#541-classifier-1-2-3-4)
@@ -37,12 +37,10 @@ Ons doel tijdens dit onderzoek was om te achterhalen of het 'flock-of-birds'-sys
      - [6.1.1 Toepassen splitsing](#611-toepassen-splitsing)
   - [6.2 Oefening onderzoek](#62-oefening-onderzoek)
   - [6.3 Classifier Super cleaned data](#63-classifier-super-cleaned-data)
-     - [6.3.1 Creeeren dataset](#631-creeeren-dataset)
+     - [6.3.1 creëren dataset](#631-creëren-dataset)
      - [6.3.2 Classifier 55 t/m 58 (Final Classifier)](#632-classifier-55-tm-58-final-classifier)
      - [6.3.3 Classifier 51 t/m 54 (Final Classifier)](#633-classifier-51-tm-54-final-classifier)
-
-## Extra activiteiten
-Omdat tijdens het project soms extra activiteiten uitgevoerd worden en deze niet terug te vinden zijn op het scrum board, is dit hoofdstuk gemaakt. In dit hoofdstuk zullen dus activiteiten te vinden zijn zoals uitleg geven, hulp bij persoonlijke projecten & het uitzoeken in eigen tijd.
+- []
 
 # 1. Jargon
 Tijdens ons onderzoek hebben we met termen gebruikt die eigenlijk alleen maar begrepen kunnen worden door ons projectteam, maar deze zullen wel in dit portfolio terugkomen. Daarom zullen ze hieronder worden toegelicht.
@@ -65,7 +63,7 @@ Tijdens het uitvoeren van dit onderzoek zouden we twee soorten data tot onze bes
 ![Onderzoek fases](https://i.imgur.com/ODAt0De.png)
 
 - [Ga naar: 3. pre-data](#3-pre-data)
-- [Ga naar: 4. raw data](#Raw-data)
+- [Ga naar: 4. raw data](#4-Raw-data)
 - [Ga naar: 5. cleaned data](#5-cleaned-data)
 - [Ga naar: 6. super cleaned data](#6-super-cleaned-data)
 
@@ -250,6 +248,10 @@ Voor elke oefening wouden ik deze informatie meenemen:
 
 In totaal kwamen we rond de 630 kolommen per regel.
 
+Ook in afbeelding te zien:
+
+![](https://i.imgur.com/IA8xrxh.jpg)
+
 Om nu de patiënt regels te maken, moesten we kiezen welke oefening we mee wouden nemen. Sinds we de data gesplist hadden kunnen sommige patiënten één oefening twee of meer keer gedaan hebben. Omdat we geen data weg wouden gooien hebben ik besloten om een cross-join te gebruiken om alle combinaties van oefeningen mee te nemen als regels.
 
 ```
@@ -285,3 +287,26 @@ De classifier zelf is [hier](3.%20Classifiers/Patient%20level%20-%20Classifier.i
 ### 6.3.3 Classifier 51 t/m 54 (Final Classifier) 
 Met dit resultaat moesten we ook deze classifier proberen zonder de data te super cleanen. Dit hebben ik ook gedaan, maar zonder groot succes. Uit deze classifier kwam niet zo'n  mooi resultaat
 
+# Extra activiteiten
+Omdat tijdens het project soms extra activiteiten uitgevoerd zijn niet niet persee onder deze bevoor beschreven fases vallen, staan hier andere activiteiten die eerder geen plaatst konden krijgen.
+
+## Uitleg
+Tijdens deze minor begon ik met een voorsprong vergeleken met mijn groepsgenoten. Als enige had ik al ervaring met programmeren in Python. Daarom heb ik mijn ervaring proberen over te brengen, en de andere te helpen op dit gebied. Enkele foto's en tekst hiervan staan in het volgende document:
+
+[Leraar Luke.md](Leraar%20Luke.md)
+
+Naast het onderzoek doen zijn we ook bezig geweest met me paper. Aan de paper zelf heb ik niet veel geschreven, maar wel veel samengevat om Kasper en Roggier te helpen bij het schrijven. Zo is een van de voorbeelden deze foto, waarin ik alles samenvat wat we gedaan hebben om zo een logische structuur in de paper te brengen.
+
+![](https://i.imgur.com/IA8xrxh.jpg)
+
+## CVB-borrel
+In oktober was er een CVB borrel van de faculteit IT&D op de Haagse Hogeschool. Op verzoek van Tony hebben we hier een poster gepresenteerd om de minor Applied Data Science toe te lichten. Hieronder is een foto te zien hoe wij daar stonden.
+
+![](https://i.imgur.com/qOHxcGD.jpg)
+
+## Presentaties
+Tijdens elke sprint hebben we als groep twee presentaties gegeven, elke week één. Zelf heb ik de volgende vier presentaties gedaan:
+- [Presentatie Week 2](Presentaties/Ortho%20Eyes%20presentatie%20week%202.pdf)
+- [Presentatie Week 6](Presentaties/Ortho%20Eyes%20presentatie%20week%206.pdf)
+- [Presentatie Week 15](Presentaties/Ortho%20Eyes%20presentatie%20week%2015.pdf)
+- [Presentatie Week 16](Presentaties/Ortho%20Eyes%20presentatie%20week%2016.pdf)
