@@ -5,6 +5,8 @@ In deze minor heb in een team van 3 medestudenten en één docent gewerkt aan ee
 
 Ons doel tijdens dit onderzoek was om te achterhalen of het 'flock-of-birds'-systeem dat momenteel door het LUMC enkel wordt gebruikt voor onderzoeksdoeleinden of dat het ook gebruikt kan worden voor de diagnostische doeleinden.
 
+Het onderzoekrapport is [hier](paper_ortho_eyes.pdf) te vinden.
+
 # Inhoudsopgave 
 - [1. Jargon](#1-jargon)
 - [2. Onderzoek](#2-onderzoek)
@@ -298,7 +300,7 @@ Tijdens deze minor begon ik met een voorsprong vergeleken met mijn groepsgenoten
 
 [Leraar Luke.md](Leraar%20Luke.md)
 
-Naast het onderzoek doen zijn we ook bezig geweest met me paper. Aan de paper zelf heb ik niet veel geschreven, maar wel veel samengevat om Kasper en Rogier te helpen bij het schrijven. Zo is een van de voorbeelden deze foto, waarin ik alles samenvat wat we gedaan hebben om zo een logische structuur in de paper te brengen.
+Naast het onderzoek doen zijn we ook bezig geweest met me [paper](paper_ortho_eyes.pdf). Aan de [paper](paper_ortho_eyes.pdf) zelf heb ik niet veel geschreven, maar wel veel samengevat om Kasper en Rogier te helpen bij het schrijven. Zo is een van de voorbeelden deze foto, waarin ik alles samenvat wat we gedaan hebben om zo een logische structuur in de [paper](paper_ortho_eyes.pdf) te brengen.
 
 ![](https://i.imgur.com/chl8JCl.jpg)
 
