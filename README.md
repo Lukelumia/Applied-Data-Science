@@ -60,7 +60,7 @@ Het doel van het onderzoek is het volgende:
 
 Tijdens het uitvoeren van dit onderzoek zouden we twee soorten data tot onze beschikbaarheid krijgen, ruwe data & gecleande data. Met de gecleande data hebben we de super cleaned data gemaakt, deze drie soorten data hebben ons onderzoek eigenlijk opgesplitst in 3 fases. Elk van deze drie fases had zijn eigen activiteiten die hieronder beschreven zijn
 
-![Onderzoek fases](https://i.imgur.com/ODAt0De.png)
+![Onderzoek fases](https://i.imgur.com/ICHGDiO.png)
 
 - [Ga naar: 3. pre-data](#3-pre-data)
 - [Ga naar: 4. raw data](#4-Raw-data)
@@ -297,7 +297,7 @@ Tijdens deze minor begon ik met een voorsprong vergeleken met mijn groepsgenoten
 
 Naast het onderzoek doen zijn we ook bezig geweest met me paper. Aan de paper zelf heb ik niet veel geschreven, maar wel veel samengevat om Kasper en Roggier te helpen bij het schrijven. Zo is een van de voorbeelden deze foto, waarin ik alles samenvat wat we gedaan hebben om zo een logische structuur in de paper te brengen.
 
-![](https://i.imgur.com/IA8xrxh.jpg)
+![](https://i.imgur.com/chl8JCl.jpg)
 
 ## CVB-borrel
 In oktober was er een CVB borrel van de faculteit IT&D op de Haagse Hogeschool. Op verzoek van Tony hebben we hier een poster gepresenteerd om de minor Applied Data Science toe te lichten. Hieronder is een foto te zien hoe wij daar stonden.
