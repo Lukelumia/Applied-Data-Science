@@ -35,7 +35,7 @@ Tijdens het uitvoeren van dit onderzoek zouden we twee soorten data tot onze bes
 
 ![Onderzoek fases](https://i.imgur.com/ODAt0De.png)
 
-- [Ga naar: pre-data](#pre---data)
+- [Ga naar: pre-data](#pre-data)
 - [Ga naar: raw data](#Raw-data)
 - [Ga naar: cleaned data](#Cleaned-data)
 - [Ga naar: super cleaned data](#super-cleaned-data)
@@ -150,12 +150,38 @@ Om de oppervlakte van de afgeleide te berekenen hebben we eerst de oppervlakte v
 Het script voor de energie berekenen heb ik alleen gemaakt, de strategie hoe we dit berekenen hebben we als groep verzonnen met behulp van Tony. Het script komt in de [patient classifier](3.%20Classifiers/Patient%20level%20-%20Classifier.ipynb) voor en staat [hier](2.%20miscellaneous/Oppervlakte.ipynb) als los script.
 
 ### Classifier Energie
-Met deze nieuwe data heb ik samen met Vincent een classifier gebouwd met alleen deze informatie. Uit deze classifier kwam helaas geen zinnig resultaat.
+Met deze nieuwe data heb ik samen met Vincent een classifier gebouwd met alleen deze informatie. Uit deze classifier kwamen helaas geen zinnig resultaten. 
 
 ## Toppen berekenen
 Om een andere paramter te maken die iets zegt over de oefening, en makkelijk te maken is. Heb ik een functie gemaakt die telt hoevaak een grafiek van richting veranderd. Dit zou het aantal pieken moeten optellen. Of dit getal ook iets toevoegd is niet getest, maar was in ieder geval een extra parameter waarme de classifier kon werken.
 
 Het maken van deze toppen teller heb ik zelf gedaan, het verzinnen ook. De toppen teller is te vinden in [dit](2.%20miscellaneous/Turn%20punten%20berekenen.ipynb) notebook.
+
+# Super cleaned data
+Na onsuccesvol met de door het LUMC gecleande data onze categorieen te classificieren, zijn we de data gaan opschonen. De opgeschoonde data van de gecleande data hebben we de super cleaned data genoemd.
+
+De reden dat opschonen nodig was is te zien in onderstaande afbeelding. 
+![](https://i.imgur.com/1K5LXwz.png)
+In deze afbeelding is te zien dat het eigenlijk twee oefeningen zijn, daarnaast is te zien dat de oefening pas begint bij frame ~100. Daarom hebben we alle oefeningen ~1500 nagelopen om de data meer eenduidiger te maken.
+
+## Creëren data
+Om de gecleande data op te schonen heb ik een script gemaakt die dit gebruiksvriendelijk doet. Door middel van gamification heb ik een soort spel gemaakt waarom de gebruiker drie keer om input gevraagd wordt:
+- Welke frame de splitsing moet komen
+- Wanneer de eerste oefening echt begint
+- Wanneer de tweede oefening echt eindigd
+
+In onderstaande afbeelding zie je de afbeelding die de gebruiker ziet na het invullen van de drie getallen.
+![](https://i.imgur.com/tDLtOyX.png)
+
+Het script wat de gebruikers gebruikte is [hier](5.%20Data%20Cleaning/Data%20Verdubbelaar%20V2.0.ipynb) te zien. In dit script worden de getallen opgeslagen in een metadata.csv bestand die later gebruikt is om de oefeningen daadwerkelijk te splitsen.
+
+### Toepassen splitsing
+Om het metadata.csv bestand toe te passen op de oefeningen ben ik samen met kasper alle oefeningen nagelopen om te kijken of er niks fout is gegaan. Zo hebben we handmatig alle oefeningen gesplitst die bijvoorbeeld uit drie oefeningen bestonden. Al deze wijzegingen hebben we opgeslagen in drie bestanden, te vinden in [deze](5.%20Data%20Cleaning/Corrections) map.
+
+Het script wat gebruikt is om deze vier csv bestanden om te zetten naar nieuwe oefeningen is [hier](5.%20Data%20Cleaning/Clean%20Checker.ipynb) te vinden, onder het kopje 'step 2'.
+
+## Oefening onderzoek
+Om de data nog beter te kunnen vergelijken 
 
 ### Sprint 1
 In sprint 1, die liep van 27-08-2018 tot 07-09-2018, zijn we vooral bezig geweest met Python leren en de omgevingen opzetten. De scrum omgeving opzetten en onderzoeken heb ik voornamelijk zelf gedaan. Als minor werd de omgeving scrumwise aangeraden, na zelf onderzoek gedaan te hebben naar alternatieve omgevingen heb ik Trello gevonden en deze aangeraden aan de groep. De reden dat Trello als beter uit dit onderzoek is gekomen komt door de modernere layout en het gebruiksvriendelijk drag & drop functionaliteiten. Daarnaast waren er plugins mogelijk die het scrumboard meer customizable maakte.
