@@ -6,10 +6,40 @@ In deze minor heb in een team van 3 medestudenten en één docent gewerkt aan ee
 Ons doel tijdens dit onderzoek was om te achterhalen of het 'flock-of-birds'-systeem dat momenteel door het LUMC enkel wordt gebruikt voor onderzoeksdoeleinden of dat het ook gebruikt kan worden voor de diagnostische doeleinden.
 
 # Inhoudsopgave 
-- [Jargon](#Jargon)
-- [Onderzoek](#Onderzoek)
-- [Pre-data](#Pre-data)
-- [Extra activiteiten](#Extra-Activiteiten)
+- [1. Jargon](#1-jargon)
+- [2. Onderzoek](#2-onderzoek)
+- [3. Pre-data](#3-pre-data)
+  - [3.1 Opzetten project management](#31-opzetten-project-management)
+     - [3.1.1 Scrumboard](#311-scrumboard)
+     - [3.1.2 Scrum by Vince](#312-scrum-by-vince)
+  - [3.2 Zelfontwikkeling](#32-zelfontwikkeling)
+     - [3.2.1 DataCamp Voortgang](#321-datacamp-voortgang)
+     - [3.2.1 Coursera Voortgang](#321-coursera-voortgang)
+  - [3.3 Strategie](#33-strategie)
+- [4. Raw data](#4-raw-data)
+  - [4.1 Visualisatie](#41-visualisatie)
+  - [4.2 Ellebooghoek](#42-ellebooghoek)
+- [5. Cleaned data](#5-cleaned-data)
+  - [5.1 Gecleande Visualisatie - beweged skelet](#51-gecleande-visualisatie---beweged-skelet)
+  - [5.2 Gecleande Visualisatie - bovenarm](#52-gecleande-visualisatie---bovenarm)
+  - [5.3 Classifiers - cleaned data](#53-classifiers---cleaned-data)
+     - [5.4.1 Classifier 1, 2, 3, 4](#541-classifier-1-2-3-4)
+     - [5.4.2 Classifier 5 (5 classifiers combined)](#542-classifier-5-5-classifiers-combined)
+     - [5.4.3 Classifier 10 t/m 21 (Category 1 vs 2 (True vs False))](#543-classifier-10-tm-21-category-1-vs-2-true-vs-false)
+     - [5.4.4 Classifier 25 t/m 48 (Category 1 vs 2 .MAX)](#544-classifier-25-tm-48-category-1-vs-2-max)
+     - [5.4.5 Classifier 49 (Multivariate classifier MAX.ABS)](#545-classifier-49-multivariate-classifier-maxabs)
+     - [5.4.6 Oefening Classifier](#546-oefening-classifier)
+  - [5.5 Energie berekenen](#55-energie-berekenen)
+     - [5.5.1 Classifier Energie](#551-classifier-energie)
+  - [5.6 Toppen berekenen](#56-toppen-berekenen)
+- [6. Super cleaned data](#6-super-cleaned-data)
+  - [6.1 Creëren data](#61-creëren-data)
+     - [6.1.1 Toepassen splitsing](#611-toepassen-splitsing)
+  - [6.2 Oefening onderzoek](#62-oefening-onderzoek)
+  - [6.3 Classifier Super cleaned data](#63-classifier-super-cleaned-data)
+     - [6.3.1 Creeeren dataset](#631-creeeren-dataset)
+     - [6.3.2 Classifier 55 t/m 58 (Final Classifier)](#632-classifier-55-tm-58-final-classifier)
+     - [6.3.3 Classifier 51 t/m 54 (Final Classifier)](#633-classifier-51-tm-54-final-classifier)
 
 ## Extra activiteiten
 Omdat tijdens het project soms extra activiteiten uitgevoerd worden en deze niet terug te vinden zijn op het scrum board, is dit hoofdstuk gemaakt. In dit hoofdstuk zullen dus activiteiten te vinden zijn zoals uitleg geven, hulp bij persoonlijke projecten & het uitzoeken in eigen tijd.
@@ -108,9 +138,9 @@ Na het ontvangen van de cleaned data zijn we begonnen met het begrijpen en analy
 ## 5.1 Gecleande Visualisatie - beweged skelet
 Bij de gecleande data hebben we ook een manier gezocht om de oefening visueel te maken. Orgineel was het de bedoeling om hetzelfde plaatje te maken als bij de ruwe data [gemaakt was](#Visualisatie). Dit was alleen lastiger om voor de gecleande data te doen sinds deze geen locatie data meer had, alleen maar relatieve hoeken. Om deze hoeken om te zetten in een soortgelijke afbeelding ben ik op onderzoek gegaan hoe ik deze reletieve hoeken moet behandelen. Het is niet gelukt om de data op dezelfde manier te interpreteren als bij de ruwe data, de beweging die getoont wordt in onderstaande afbeelding zou gelijk moeten zijn. Maar is dit niet.
 
-Ik heb niet alleen zelf geprobeerd dit op te lossen, de wiskunde groepslid kon dit probleem ook niet oplossen. De hoeken konden door ons niet op de juiste manier geinterpreteerd worden, dit komt misschien mede door de moeilijke communicatie tussen ons en het LUMC.
+<img src="https://i.imgur.com/CppW2sH.png" alt="Variable namen" width="250" height="250">
 
-!!! op oude laptop script zoeken !!!
+Ik heb niet alleen zelf geprobeerd dit op te lossen, de wiskunde groepslid kon dit probleem ook niet oplossen. De hoeken konden door ons niet op de juiste manier geinterpreteerd worden, dit komt misschien mede door de moeilijke communicatie tussen ons en het LUMC.
 
 ## 5.2 Gecleande Visualisatie - bovenarm
 Na het niet kunnen visualiseren in een 3d bewgend plaatje zijn heb ik de data op een simpelere 2d manier gevisualiseerd.zoals hieronder te zien is.
