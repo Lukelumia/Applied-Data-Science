@@ -291,19 +291,19 @@ De classifier zelf is [hier](3.%20Classifiers/Patient%20level%20-%20Classifier.i
 Met dit resultaat moesten we ook deze classifier proberen zonder de data te super cleanen. Dit hebben ik ook gedaan, maar zonder groot succes. Uit deze classifier kwam niet zo'n  mooi resultaat
 
 # 7. Extra activiteiten
-Omdat tijdens het project soms extra activiteiten uitgevoerd zijn niet niet persee onder deze bevoor beschreven fases vallen, staan hier andere activiteiten die eerder geen plaatst konden krijgen.
+Omdat tijdens het project soms extra activiteiten uitgevoerd zijn niet per se onder deze hiervoor beschreven fases vallen, staan hier andere activiteiten die eerder geen plaatst konden krijgen.
 
 ## 7.1 Uitleg
 Tijdens deze minor begon ik met een voorsprong vergeleken met mijn groepsgenoten. Als enige had ik al ervaring met programmeren in Python. Daarom heb ik mijn ervaring proberen over te brengen, en de andere te helpen op dit gebied. Enkele foto's en tekst hiervan staan in het volgende document:
 
 [Leraar Luke.md](Leraar%20Luke.md)
 
-Naast het onderzoek doen zijn we ook bezig geweest met me paper. Aan de paper zelf heb ik niet veel geschreven, maar wel veel samengevat om Kasper en Roggier te helpen bij het schrijven. Zo is een van de voorbeelden deze foto, waarin ik alles samenvat wat we gedaan hebben om zo een logische structuur in de paper te brengen.
+Naast het onderzoek doen zijn we ook bezig geweest met me paper. Aan de paper zelf heb ik niet veel geschreven, maar wel veel samengevat om Kasper en Rogier te helpen bij het schrijven. Zo is een van de voorbeelden deze foto, waarin ik alles samenvat wat we gedaan hebben om zo een logische structuur in de paper te brengen.
 
 ![](https://i.imgur.com/chl8JCl.jpg)
 
 ## 7.2 CVB-borrel
-In oktober was er een CVB borrel van de faculteit IT&D op de Haagse Hogeschool. Op verzoek van Tony hebben we hier een poster gepresenteerd om de minor Applied Data Science toe te lichten. Hieronder is een foto te zien hoe wij daar stonden.
+In oktober was er een CVB-borrel van de faculteit IT&D op de Haagse Hogeschool. Op verzoek van Tony hebben we hier een poster gepresenteerd om de minor Applied Data Science toe te lichten. Hieronder is een foto te zien hoe wij daar stonden.
 
 ![](https://i.imgur.com/qOHxcGD.jpg)
 
